@@ -1,0 +1,55 @@
+name: Update Data
+
+on:
+  schedule:
+    # Run at 06:15 HKT (22:15 UTC) daily
+    - cron: '15 22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install yfinance feedparser -q
+
+      - name: Run data fetcher
+        run: python scripts/fetch_data.py
+
+      - name: Verify JSON output
+        run: |
+          python -c "
+          import json
+          with open('public/data/feed.json') as f:
+              data = json.load(f)
+          print(f'Generated: {data[\"generatedAt\"]}')
+          print(f'Assets: {len(data[\"assets\"])}')
+          print(f'News items: {len(data[\"news\"])}')
+          for a in data['assets']:
+              print(f\"  {a['name']}: {a['pctChange']:+.2f}%\")
+          "
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/
+          git diff --staged --quiet && echo "No changes to commit" || \
+            git commit -m "🤖 Auto-update data $(date +%Y-%m-%d\ %H:%M)" && \
+            git pull --ff-only || echo "Pull failed, force pushing..." && \
+            git push --force-with-lease
