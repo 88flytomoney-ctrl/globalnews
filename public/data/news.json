@@ -1,14 +1,6 @@
 [
   {
     "category": "WORLD",
-    "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
-    "snippet": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
-    "link": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-21-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "How Cuban-Americans feel about Raúl Castro's indictment",
     "snippet": "The DOJ charged the former leader of Cuba with murder and other crimes for his alleged role in the downing of two civilian aircraft in 1996.",
     "link": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
@@ -33,17 +25,33 @@
   },
   {
     "category": "WORLD",
-    "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-    "snippet": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
-    "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+    "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+    "snippet": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
+    "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-22-05",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
     "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-    "snippet": "Alberta's decision to hold a referendum on separation has been widely criticised, including the separatists who say the question is not definitive enough.",
+    "snippet": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
     "link": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-22-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+    "snippet": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
+    "link": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-22-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+    "snippet": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
+    "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
     "date": "2026-22-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -73,14 +81,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-    "snippet": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-    "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-22-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
     "snippet": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
     "link": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
@@ -89,25 +89,9 @@
   },
   {
     "category": "WORLD",
-    "title": "AI used to fake evidence that ended Korean actor's career, say police",
-    "snippet": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.",
-    "link": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-22-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
     "snippet": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
     "link": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-22-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Tulsi Gabbard to resign as US director of national intelligence",
-    "snippet": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-22-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -124,6 +108,22 @@
     "title": "Rubio tries to reassure Nato allies over US troop deployments",
     "snippet": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
     "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-22-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Tulsi Gabbard to resign as US national intelligence director",
+    "snippet": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
+    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-22-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "The space race to create gym equipment for future astronauts",
+    "snippet": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+    "link": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
     "date": "2026-22-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -153,26 +153,146 @@
   },
   {
     "category": "WORLD",
-    "title": "Ebola risk raised to 'very high' in DR Congo",
-    "snippet": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
-    "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-22-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Slow Food founder Carlo Petrini dies aged 76",
-    "snippet": "Petrini's movement rejected fast food to promote sustainable production and traditional cooking.",
-    "link": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-22-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Fans react to Stephen Colbert’s final show",
     "snippet": "The late-night host will appear behind his CBS desk for the final time after the network announced last summer that the show would end after 11 seasons.",
     "link": "https://www.bbc.com/news/videos/cvgz36rx755o?at_medium=RSS&at_campaign=rss",
     "date": "2026-22-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
+    "snippet": "BBC's Brandon Livesay toured the Columbia Park Training Facility in Morris Township, New Jersey that will host the team in the coming weeks.",
+    "link": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+    "snippet": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+    "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+    "snippet": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+    "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
+    "snippet": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
+    "link": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+    "snippet": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+    "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+    "snippet": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+    "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+    "snippet": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+    "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+    "snippet": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
+    "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Senegal's president sacks PM and former ally after months-long feud",
+    "snippet": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+    "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
+    "snippet": "Elon Musk's SpaceX has successfully launched its Starship V3 rocket, which landed in a planned fiery explosion on Friday.",
+    "link": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "India's parody 'cockroach party' claims website has been blocked",
+    "snippet": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
+    "link": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Rubio meets Modi during India visit with energy high on agenda",
+    "snippet": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+    "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+    "snippet": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+    "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "SpaceX launches massive Starship V3 rocket on test flight",
+    "snippet": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+    "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "At least 82 killed in Chinese coal mine explosion",
+    "snippet": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+    "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "F1 great Prost 'injured as masked gang raid home'",
+    "snippet": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
+    "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "DR Congo players told to isolate before World Cup",
+    "snippet": "The Democratic Republic of Congo's World Cup squad must isolate for 21 days before they can enter the US because of the Ebola outbreak.",
+    "link": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
     "source": "feeds.bbci.co.uk"
   },
   {
@@ -308,22 +428,6 @@
     "title": "The fight against foreign developers buying Caribbean beaches",
     "snippet": "Campaigners in Barbuda, Grenada and Jamaica say they can no longer access their coastlines.",
     "link": "https://www.bbc.com/news/articles/c62jp09p0l4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-20-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Are supermarkets profiting from higher food prices?",
-    "snippet": "Food prices in the UK have risen, but are supermarkets profiting from higher food prices? Ben Chu reports.",
-    "link": "https://www.bbc.com/news/videos/cd6pwgz21nvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-20-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Woman's debts reach £26k as she battles poverty",
-    "snippet": "Gaynor Lake tells how she struggled to pay for heating, rent and council tax and saw her debts grow.",
-    "link": "https://www.bbc.com/news/articles/c7v907yqzz9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-20-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -481,14 +585,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
-    "snippet": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
-    "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-22-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Bank boss sorry after describing workers as 'lower value human capital'",
     "snippet": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
     "link": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
@@ -524,6 +620,14 @@
     "title": "Jailed tycoon's Birkin bags sell for over half a million dollars",
     "snippet": "The luxury handbags sold in a government auction in Ho Chi Minh.",
     "link": "https://www.bbc.com/news/videos/c8e8gp4zdk7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-22-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "AI may speed up search for drugs to treat brain conditions",
+    "snippet": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+    "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
     "date": "2026-22-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -577,6 +681,22 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Temperatures are rising - and so are ice cream prices",
+    "snippet": "Temperatures are rising across the country, and so is the price of ice cream - but by how much?",
+    "link": "https://www.bbc.com/news/articles/c1e296324z8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "The Leeds designer outlet that's 15 miles from Leeds",
+    "snippet": "A rebrand of the junction 32 retail park off the M62 has gone down poorly with some locals in Castleford.",
+    "link": "https://www.bbc.com/news/videos/c707n28z3xjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
     "snippet": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
     "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
@@ -597,14 +717,6 @@
     "snippet": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?",
     "link": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
     "date": "2026-30-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Tech Now",
-    "snippet": "Adrienne Murray explores how new 3D imaging is supporting heart procedures.",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss",
-    "date": "2026-16-05",
     "source": "feeds.bbci.co.uk"
   },
   {
@@ -649,22 +761,6 @@
   },
   {
     "category": "TECH",
-    "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
-    "snippet": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
-    "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-    "date": "2026-21-05",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-    "snippet": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
-    "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-    "date": "2026-21-05",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
     "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
     "snippet": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
     "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
@@ -673,25 +769,9 @@
   },
   {
     "category": "TECH",
-    "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
-    "snippet": "The partnership is a potential testing ground for both companies to gauge the appetite for an India-focused chatbot.",
-    "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-    "date": "2026-22-05",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
     "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
     "snippet": "You can now disco ball-ify your entire Pixel home screen, says Google.",
     "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-    "date": "2026-22-05",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
-    "snippet": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month.",
-    "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
     "date": "2026-22-05",
     "source": "techcrunch.com"
   },
@@ -716,14 +796,6 @@
     "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
     "snippet": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
     "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-    "date": "2026-22-05",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
-    "snippet": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
-    "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
     "date": "2026-22-05",
     "source": "techcrunch.com"
   },
@@ -769,14 +841,6 @@
   },
   {
     "category": "TECH",
-    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-    "snippet": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
-    "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
-    "date": "2026-22-05",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
     "title": "Meta quietly launches a new Reddit-like app called Forum",
     "snippet": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
     "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
@@ -814,5 +878,61 @@
     "link": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
     "date": "2026-22-05",
     "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+    "snippet": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+    "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+    "date": "2026-23-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+    "snippet": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+    "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+    "date": "2026-23-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+    "snippet": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+    "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+    "date": "2026-23-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "These special phone and app features can help protect you from spyware",
+    "snippet": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+    "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+    "date": "2026-23-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "snippet": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "date": "2026-23-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "snippet": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "date": "2026-23-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Tech Now",
+    "snippet": "Shiona McCallum meets a medical expert testing out the future of prosthetics.",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss",
+    "date": "2026-23-05",
+    "source": "feeds.bbci.co.uk"
   }
 ]
