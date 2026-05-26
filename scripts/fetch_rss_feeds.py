@@ -40,7 +40,7 @@ def clean_html(text):
 def parse_date(entry):
     if hasattr(entry, "published_parsed") and entry.published_parsed:
         t = entry.published_parsed
-        return f"{t.tm_year}-{t.tm_mday:02d}-{t.tm_mon:02d}"
+        return f"{t.tm_year}-{t.tm_mon:02d}-{t.tm_mday:02d}"
     return ""
 
 
