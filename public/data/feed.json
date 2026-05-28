@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-28T05:37:11.827590+00:00",
+  "generatedAt": "2026-05-28T07:17:17.290784+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 72830.3984,
-      "prev5d": 75488.2422,
-      "pctChange": -3.52,
+      "current": 73128.8281,
+      "prev5d": 76673.3672,
+      "pctChange": -4.62,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4407.3999,
+      "current": 4416.5,
       "prev5d": 4531.2998,
-      "pctChange": -2.73,
+      "pctChange": -2.53,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 91.94,
+      "current": 91.0,
       "prev5d": 98.26,
-      "pctChange": -6.43,
+      "pctChange": -7.39,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8657,
+      "current": 0.8654,
       "prev5d": 0.8684,
-      "pctChange": -0.31,
+      "pctChange": -0.34,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0488,
+      "current": 0.0489,
       "prev5d": 0.0493,
-      "pctChange": -0.91,
+      "pctChange": -0.87,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.11,
+      "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.19,
+      "pctChange": 0.03,
       "isForex": true
     }
   ],
@@ -183,6 +183,14 @@
     },
     {
       "category": "WORLD",
+      "title": "In court as Matthew Perry's assistant sentenced",
+      "snippet": "BBC's Shaimaa Khalil was in the room as Kenneth Iwamansa, who injected Perry with ketamine, was sentenced to 41 months in prison.",
+      "link": "https://www.bbc.com/news/videos/ckgp8mrj5ggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
       "snippet": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
       "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
@@ -223,8 +231,16 @@
     },
     {
       "category": "WORLD",
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "title": "Sixteen pupils killed in Kenya school fire, local police say",
+      "snippet": "Search-and-rescue operations are ongoing, with the number of casualties yet to be confirmed.",
+      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Israel strikes southern Lebanon after evacuation orders",
+      "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
@@ -242,14 +258,6 @@
       "title": "Oil prices jump after US launches new attacks on Iran",
       "snippet": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
       "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "In court as Matthew Perry's assistant sentenced",
-      "snippet": "The live-in personal assistant to the actor has been sentenced to 41 months in prison, capping a multi-year legal saga surrounding the actor's death. ​​",
-      "link": "https://www.bbc.com/news/videos/cvgzqz9zvyxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -407,22 +415,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "One in six young people will not be in work or training in five years without action, report warns",
-      "snippet": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
-      "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
-      "snippet": "Fresh revelations come after two women told the BBC they had been raped on the Channel 4 reality show.",
-      "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "snippet": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
       "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
@@ -539,6 +531,22 @@
       "snippet": "The boss of Next has warned there has been a \"dramatic fall\" in the number of entry-level job opportunities in the UK.",
       "link": "https://www.bbc.com/news/videos/cpqp37577x7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "UK at risk of 'lost generation' of young people without work, report warns",
+      "snippet": "One in six young people will not be in work or training in five years without action, according to a major review.",
+      "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "The £5 coffee that tells a story of global economic turmoil",
+      "snippet": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+      "link": "https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -687,14 +695,6 @@
     },
     {
       "category": "TECH",
-      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-      "snippet": "The database provider is eyeing a public debut within the next few years.",
-      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-      "date": "2026-05-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
       "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
       "snippet": "The Series B round was led by Battery Ventures.",
       "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
@@ -778,6 +778,14 @@
       "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
       "snippet": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
       "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+      "date": "2026-05-28",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "snippet": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
       "date": "2026-05-28",
       "source": "techcrunch.com"
     },
