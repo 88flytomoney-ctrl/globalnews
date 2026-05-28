@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-28T11:46:36.715294+00:00",
+  "generatedAt": "2026-05-28T12:31:14.072034+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73311.4766,
+      "current": 73363.0,
       "prev5d": 76673.3672,
-      "pctChange": -4.38,
+      "pctChange": -4.32,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4417.7998,
+      "current": 4412.2002,
       "prev5d": 4531.2998,
-      "pctChange": -2.5,
+      "pctChange": -2.63,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 91.34,
+      "current": 91.2,
       "prev5d": 98.26,
-      "pctChange": -7.04,
+      "pctChange": -7.19,
       "isForex": false
     },
     {
@@ -33,14 +33,14 @@
       "name": "100 JPY to HKD",
       "current": 0.0489,
       "prev5d": 0.0493,
-      "pctChange": -0.83,
+      "pctChange": -0.81,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1099,
+      "current": 0.1097,
       "prev5d": 0.1098,
-      "pctChange": 0.04,
+      "pctChange": -0.08,
       "isForex": true
     }
   ],
@@ -767,14 +767,6 @@
     },
     {
       "category": "TECH",
-      "title": "China is increasingly keeping its best AI talent to itself",
-      "snippet": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-      "date": "2026-05-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
       "title": "Rivian will deliver the first R2 SUVs on June 9",
       "snippet": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
       "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
@@ -802,6 +794,14 @@
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
       "snippet": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "date": "2026-05-28",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+      "snippet": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
+      "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
       "date": "2026-05-28",
       "source": "techcrunch.com"
     },
