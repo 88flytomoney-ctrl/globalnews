@@ -1,87 +1,55 @@
 {
-  "generatedAt": "2026-05-27T23:37:26.060198+00:00",
+  "generatedAt": "2026-05-28T05:37:11.827590+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 74155.1094,
+      "current": 72830.3984,
       "prev5d": 75488.2422,
-      "pctChange": -1.77,
+      "pctChange": -3.52,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4480.7002,
-      "prev5d": 4506.2998,
-      "pctChange": -0.57,
+      "current": 4407.3999,
+      "prev5d": 4531.2998,
+      "pctChange": -2.73,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.07,
-      "prev5d": 107.77,
-      "pctChange": -16.42,
+      "current": 91.94,
+      "prev5d": 98.26,
+      "pctChange": -6.43,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8648,
+      "current": 0.8657,
       "prev5d": 0.8684,
-      "pctChange": -0.41,
+      "pctChange": -0.31,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0489,
+      "current": 0.0488,
       "prev5d": 0.0493,
-      "pctChange": -0.87,
+      "pctChange": -0.91,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1098,
+      "current": 0.11,
       "prev5d": 0.1098,
-      "pctChange": -0.06,
+      "pctChange": 0.19,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "Wave of child abuse cases shakes schools in Paris",
-      "snippet": "A school assistant goes on trial accused of sexual mistreatment of children in his care, in the latest case to rock the Paris school system.",
-      "link": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-      "snippet": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
-      "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Watch: UFC arena construction begins at White House ahead of fight",
       "snippet": "The massive structure will host a cage fight as part of celebrations marking the 250th anniversary of the US Declaration of Independence.",
       "link": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "India's communists once ruled millions. What happened to them?",
-      "snippet": "The story of the rise and decline of India’s communists - from ruling states to struggling for relevance.",
-      "link": "https://www.bbc.com/news/articles/cwy2gr1rpnqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "snippet": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -95,22 +63,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Watch: Bridge collapses and car swept away in China river",
-      "snippet": "The driver and passengers of the car managed to escape before the bridge gave way in Xiaogan.",
-      "link": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "snippet": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
       "snippet": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
       "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
@@ -119,9 +71,9 @@
     },
     {
       "category": "WORLD",
-      "title": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
-      "snippet": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
-      "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+      "title": "Paul McCartney on playing guitar with Paul Mescal: 'He knew it better than I did!'",
+      "snippet": "The music legend on delivering \"memory songs\" for his 20th solo album, The Boys of Dungeon Lane - and why he's intrigued by the new Beatles biopics.",
+      "link": "https://www.bbc.com/news/articles/ce8pjg6jp38o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -135,17 +87,17 @@
     },
     {
       "category": "WORLD",
-      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
-      "snippet": "The country has recorded more than 60,000 suspected cases of measles in just over two months.",
-      "link": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
+      "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+      "snippet": "Kenneth Iwamasa, who pleaded guilty last year to one count of conspiracy to distribute ketamine causing death, said he \"will forever regret\" his actions.",
+      "link": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Major film union in India calls for boycott of superstar Ranveer Singh",
-      "snippet": "Singh is facing industry backlash over his decision to exit from the upcoming Bollywood film Don 3.",
-      "link": "https://www.bbc.com/news/articles/c0q2y01jqk9o?at_medium=RSS&at_campaign=rss",
+      "title": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
+      "snippet": "The sister of Mexican influencer El Temach tells the BBC she does not recognise him any more.",
+      "link": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -191,14 +143,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
-      "snippet": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
-      "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Five people found alive after week trapped in flooded Laos cave",
       "snippet": "The search is continuing for a further two villagers who are still missing, rescuers say.",
       "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
@@ -207,25 +151,9 @@
     },
     {
       "category": "WORLD",
-      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
-      "snippet": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
-      "link": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Why temperature records are being not only broken but smashed",
-      "snippet": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+      "title": "We analysed thousands of Trump's posts - here's what we found",
+      "snippet": "The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's posts.",
+      "link": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -247,18 +175,82 @@
     },
     {
       "category": "WORLD",
-      "title": "The world's carmakers are struggling to compete with China",
-      "snippet": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
-      "link": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
+      "title": "Is 'out of control' US tipping culture spreading overseas?",
+      "snippet": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
+      "link": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Trump says US 'not satisfied' with Iran deal yet",
-      "snippet": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
-      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-27",
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+      "snippet": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "snippet": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
+      "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "snippet": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "snippet": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
+      "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Duterte ICC trial to start on 30 November: What you need to know",
+      "snippet": "Duterte is facing charges relating to a long and bloody war on drugs in which thousands were killed.",
+      "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US strikes Iran targets for second time in three days",
+      "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Oil prices jump after US launches new attacks on Iran",
+      "snippet": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
+      "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "In court as Matthew Perry's assistant sentenced",
+      "snippet": "The live-in personal assistant to the actor has been sentenced to 41 months in prison, capping a multi-year legal saga surrounding the actor's death. ​​",
+      "link": "https://www.bbc.com/news/videos/cvgzqz9zvyxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -359,58 +351,10 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Bank boss sorry after describing workers as 'lower value human capital'",
-      "snippet": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
-      "link": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-      "snippet": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
-      "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "AI may speed up search for drugs to treat brain conditions",
-      "snippet": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
-      "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Morrisons planning to close 100 stores in next few months",
-      "snippet": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
-      "link": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Trump wants new Fed chair to be 'totally independent'",
-      "snippet": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
-      "link": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Why are unpaid debt court cases rising?",
       "snippet": "Why are unpaid debt court cases rising?",
       "link": "https://www.bbc.com/videos/c86dy4448x4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "snippet": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
-      "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-23",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -431,14 +375,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-      "snippet": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
-      "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
       "snippet": "Six supermarket brand eggs cost £1 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
       "link": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
@@ -447,41 +383,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Indian billionaires buy foreign companies as growth slows at home",
-      "snippet": "India Inc spent $18bn on global buyouts in 2025 and the deal value could cross $15bn in the first half of 2026.",
-      "link": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "snippet": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
-      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "This beach hut costs the same as a three-bedroom house",
       "snippet": "A beach hut has gone on the market for £200,000 - the same price as some houses further along the Welsh coast.",
       "link": "https://www.bbc.com/news/videos/cg4pp1xdyk2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Beer boom goes flat as breweries call last orders",
-      "snippet": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change.",
-      "link": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "snippet": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -495,30 +399,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Starmer vows to act on social media after meeting bereaved parents",
-      "snippet": "Some parents believe whether the government will take strong enough action remains to be seen.",
-      "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'I live in survival mode': The rise of the multi-job workforce",
-      "snippet": "More people are taking second jobs as rising costs and insecure work reshape how we earn a living.",
-      "link": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Better WiFi for hundreds of trains under government plans",
-      "snippet": "Campaigners welcome the move but say passengers are mostly worried about train fares and delays.",
-      "link": "https://www.bbc.com/news/articles/c2d22929ww0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Instagram betting ads featuring Kane and Haaland banned",
       "snippet": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
       "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
@@ -527,17 +407,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
-      "snippet": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
-      "link": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-26",
+      "title": "One in six young people will not be in work or training in five years without action, report warns",
+      "snippet": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
+      "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "One in six young people will not be in work or training in five years without action, report warns",
-      "snippet": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
-      "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+      "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
+      "snippet": "Fresh revelations come after two women told the BBC they had been raped on the Channel 4 reality show.",
+      "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -591,9 +471,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Is 'out of control' US tipping culture spreading overseas?",
-      "snippet": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
-      "link": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
+      "title": "The world's carmakers are struggling to compete with China",
+      "snippet": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
+      "link": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -662,6 +542,14 @@
       "source": "feeds.bbci.co.uk"
     },
     {
+      "category": "BUSINESS",
+      "title": "Why Fifa is being investigated over World Cup ticket prices",
+      "snippet": "New York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.",
+      "link": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
       "category": "TECH",
       "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
       "snippet": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
@@ -674,14 +562,6 @@
       "title": "Meta settles social media addiction case with US school district",
       "snippet": "The trial had been set as a test case for 1200 other school districts making similar claims.",
       "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "snippet": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
-      "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-21",
       "source": "feeds.bbci.co.uk"
     },
@@ -711,10 +591,26 @@
     },
     {
       "category": "TECH",
+      "title": "AI may speed up search for drugs to treat brain conditions",
+      "snippet": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+      "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "Tech Now",
       "snippet": "Shiona McCallum meets a medical expert testing out the future of prosthetics.",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Starmer vows to act on social media after meeting bereaved parents",
+      "snippet": "Some parents believe whether the government will take strong enough action remains to be seen.",
+      "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -863,14 +759,6 @@
     },
     {
       "category": "TECH",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "snippet": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "date": "2026-05-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
       "title": "Rivian will deliver the first R2 SUVs on June 9",
       "snippet": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
       "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
@@ -887,10 +775,18 @@
     },
     {
       "category": "TECH",
-      "title": "YouTube will now automatically label AI videos",
-      "snippet": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p",
-      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "date": "2026-05-27",
+      "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+      "snippet": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+      "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+      "date": "2026-05-28",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "snippet": "Google is embarrassing itself, again.",
+      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "date": "2026-05-28",
       "source": "techcrunch.com"
     }
   ]
