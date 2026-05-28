@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-28T08:10:06.505167+00:00",
+  "generatedAt": "2026-05-28T08:11:07.649757+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73288.8125,
+      "current": 73277.8438,
       "prev5d": 76673.3672,
-      "pctChange": -4.41,
+      "pctChange": -4.43,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4417.7998,
+      "current": 4421.2998,
       "prev5d": 4531.2998,
-      "pctChange": -2.5,
+      "pctChange": -2.43,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.83,
+      "current": 90.8,
       "prev5d": 98.26,
-      "pctChange": -7.56,
+      "pctChange": -7.59,
       "isForex": false
     },
     {
