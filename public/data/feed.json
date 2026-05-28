@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-28T11:16:03.259603+00:00",
+  "generatedAt": "2026-05-28T11:46:36.715294+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73295.1562,
+      "current": 73311.4766,
       "prev5d": 76673.3672,
-      "pctChange": -4.41,
+      "pctChange": -4.38,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4419.0,
+      "current": 4417.7998,
       "prev5d": 4531.2998,
-      "pctChange": -2.48,
+      "pctChange": -2.5,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.92,
+      "current": 91.34,
       "prev5d": 98.26,
-      "pctChange": -7.47,
+      "pctChange": -7.04,
       "isForex": false
     },
     {
@@ -40,7 +40,7 @@
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.09,
+      "pctChange": 0.04,
       "isForex": true
     }
   ],
@@ -199,7 +199,7 @@
     },
     {
       "category": "WORLD",
-      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+      "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
       "snippet": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
@@ -258,6 +258,14 @@
       "title": "Iran says it targeted American base after fresh US strikes",
       "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "snippet": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
+      "link": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -551,7 +559,7 @@
     },
     {
       "category": "BUSINESS",
-      "title": "One in six young people will not be in work or training in five years without action, report warns",
+      "title": "Young people out of work or training costing UK £125bn as report warns of 'perfect storm'",
       "snippet": "A report warns the UK is \"at risk of a lost generation\" with number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
       "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
