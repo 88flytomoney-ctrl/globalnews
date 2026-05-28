@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-28T10:46:08.150195+00:00",
+  "generatedAt": "2026-05-28T11:16:03.259603+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73376.6328,
+      "current": 73295.1562,
       "prev5d": 76673.3672,
-      "pctChange": -4.3,
+      "pctChange": -4.41,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4429.2002,
+      "current": 4419.0,
       "prev5d": 4531.2998,
-      "pctChange": -2.25,
+      "pctChange": -2.48,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.47,
+      "current": 90.92,
       "prev5d": 98.26,
-      "pctChange": -7.93,
+      "pctChange": -7.47,
       "isForex": false
     },
     {
@@ -40,7 +40,7 @@
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.1,
+      "pctChange": 0.09,
       "isForex": true
     }
   ],
@@ -234,6 +234,14 @@
       "title": "Google worker charged with using internal data to make $1.2m on bets",
       "snippet": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
       "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "snippet": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
+      "link": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
