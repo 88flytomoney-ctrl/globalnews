@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-28T08:32:17.565731+00:00",
+  "generatedAt": "2026-05-28T08:47:14.854785+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73097.9531,
+      "current": 73181.3125,
       "prev5d": 76673.3672,
-      "pctChange": -4.66,
+      "pctChange": -4.55,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4422.8999,
+      "current": 4423.5,
       "prev5d": 4531.2998,
-      "pctChange": -2.39,
+      "pctChange": -2.38,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.66,
+      "current": 90.75,
       "prev5d": 98.26,
-      "pctChange": -7.73,
+      "pctChange": -7.64,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.865,
+      "current": 0.8651,
       "prev5d": 0.8684,
-      "pctChange": -0.39,
+      "pctChange": -0.37,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0489,
       "prev5d": 0.0493,
-      "pctChange": -0.87,
+      "pctChange": -0.85,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.07,
+      "pctChange": 0.06,
       "isForex": true
     }
   ],
@@ -191,9 +191,9 @@
     },
     {
       "category": "WORLD",
-      "title": "US strikes Iranian military site as Iran says it has targeted American base",
-      "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+      "snippet": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -239,9 +239,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Israel strikes southern Lebanon after evacuation orders",
-      "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -559,14 +559,6 @@
     },
     {
       "category": "TECH",
-      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-      "snippet": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
-      "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
       "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
       "snippet": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
       "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
@@ -780,6 +772,14 @@
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
       "date": "2026-05-28",
       "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "King's College team wins access to cutting-edge Google quantum chip",
+      "snippet": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes.",
+      "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "TECH",

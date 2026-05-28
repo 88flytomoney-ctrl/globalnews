@@ -145,9 +145,9 @@
   },
   {
     "category": "WORLD",
-    "title": "US strikes Iranian military site as Iran says it has targeted American base",
-    "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+    "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+    "snippet": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
+    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -193,9 +193,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Israel strikes southern Lebanon after evacuation orders",
-    "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
-    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+    "title": "Iran says it targeted American base after fresh US strikes",
+    "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -513,14 +513,6 @@
   },
   {
     "category": "TECH",
-    "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-    "snippet": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
-    "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-21",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
     "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
     "snippet": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
     "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
@@ -734,6 +726,14 @@
     "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
     "date": "2026-05-28",
     "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "King's College team wins access to cutting-edge Google quantum chip",
+    "snippet": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes.",
+    "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-28",
+    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "TECH",
