@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-28T08:11:07.649757+00:00",
+  "generatedAt": "2026-05-28T08:32:17.565731+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73277.8438,
+      "current": 73097.9531,
       "prev5d": 76673.3672,
-      "pctChange": -4.43,
+      "pctChange": -4.66,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4421.2998,
+      "current": 4422.8999,
       "prev5d": 4531.2998,
-      "pctChange": -2.43,
+      "pctChange": -2.39,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.8,
+      "current": 90.66,
       "prev5d": 98.26,
-      "pctChange": -7.59,
+      "pctChange": -7.73,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8649,
+      "current": 0.865,
       "prev5d": 0.8684,
-      "pctChange": -0.4,
+      "pctChange": -0.39,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0489,
       "prev5d": 0.0493,
-      "pctChange": -0.83,
+      "pctChange": -0.87,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.03,
+      "pctChange": 0.07,
       "isForex": true
     }
   ],
@@ -191,7 +191,7 @@
     },
     {
       "category": "WORLD",
-      "title": "US strikes Iran military site as Tehran says it has targeted American base",
+      "title": "US strikes Iranian military site as Iran says it has targeted American base",
       "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
@@ -239,14 +239,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Sixteen pupils killed in Kenya school fire, local police say",
-      "snippet": "Search-and-rescue operations are ongoing, with the number of casualties yet to be confirmed.",
-      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Israel strikes southern Lebanon after evacuation orders",
       "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
@@ -258,6 +250,14 @@
       "title": "Oil prices jump after US launches new attacks on Iran",
       "snippet": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
       "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "snippet": "Search-and-rescue operations are ongoing, with the number of casualties yet to be confirmed.",
+      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -567,14 +567,6 @@
     },
     {
       "category": "TECH",
-      "title": "Meta settles social media addiction case with US school district",
-      "snippet": "The trial had been set as a test case for 1200 other school districts making similar claims.",
-      "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
       "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
       "snippet": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
       "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
@@ -788,6 +780,14 @@
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
       "date": "2026-05-28",
       "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "snippet": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites.",
+      "link": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "TECH",
