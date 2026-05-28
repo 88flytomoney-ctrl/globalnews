@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-05-28T07:17:17.290784+00:00",
+  "generatedAt": "2026-05-28T07:46:26.096061+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73128.8281,
+      "current": 73302.0703,
       "prev5d": 76673.3672,
-      "pctChange": -4.62,
+      "pctChange": -4.4,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4416.5,
+      "current": 4419.5,
       "prev5d": 4531.2998,
-      "pctChange": -2.53,
+      "pctChange": -2.47,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 91.0,
+      "current": 90.92,
       "prev5d": 98.26,
-      "pctChange": -7.39,
+      "pctChange": -7.47,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8654,
+      "current": 0.8653,
       "prev5d": 0.8684,
-      "pctChange": -0.34,
+      "pctChange": -0.35,
       "isForex": true
     },
     {
@@ -40,7 +40,7 @@
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.03,
+      "pctChange": 0.06,
       "isForex": true
     }
   ],
@@ -191,6 +191,14 @@
     },
     {
       "category": "WORLD",
+      "title": "US strikes Iran military site as Tehran says it has targeted American base",
+      "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
       "snippet": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
       "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
@@ -242,14 +250,6 @@
       "title": "Israel strikes southern Lebanon after evacuation orders",
       "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
       "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US strikes Iran targets for second time in three days",
-      "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -535,8 +535,8 @@
     },
     {
       "category": "BUSINESS",
-      "title": "UK at risk of 'lost generation' of young people without work, report warns",
-      "snippet": "One in six young people will not be in work or training in five years without action, according to a major review.",
+      "title": "One in six young people will not be in work or training in five years without action, report warns",
+      "snippet": "A report warns the UK is \"at risk of a lost generation\" with number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
       "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"

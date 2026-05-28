@@ -145,6 +145,14 @@
   },
   {
     "category": "WORLD",
+    "title": "US strikes Iran military site as Tehran says it has targeted American base",
+    "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
     "snippet": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
     "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
@@ -196,14 +204,6 @@
     "title": "Israel strikes southern Lebanon after evacuation orders",
     "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
     "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "US strikes Iran targets for second time in three days",
-    "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -489,8 +489,8 @@
   },
   {
     "category": "BUSINESS",
-    "title": "UK at risk of 'lost generation' of young people without work, report warns",
-    "snippet": "One in six young people will not be in work or training in five years without action, according to a major review.",
+    "title": "One in six young people will not be in work or training in five years without action, report warns",
+    "snippet": "A report warns the UK is \"at risk of a lost generation\" with number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
     "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-28",
     "source": "feeds.bbci.co.uk"
