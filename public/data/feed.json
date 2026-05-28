@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-28T10:08:55.161248+00:00",
+  "generatedAt": "2026-05-28T10:46:08.150195+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73406.75,
+      "current": 73376.6328,
       "prev5d": 76673.3672,
-      "pctChange": -4.26,
+      "pctChange": -4.3,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4424.6001,
+      "current": 4429.2002,
       "prev5d": 4531.2998,
-      "pctChange": -2.35,
+      "pctChange": -2.25,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.22,
+      "current": 90.47,
       "prev5d": 98.26,
-      "pctChange": -8.18,
+      "pctChange": -7.93,
       "isForex": false
     },
     {
@@ -33,14 +33,14 @@
       "name": "100 JPY to HKD",
       "current": 0.0489,
       "prev5d": 0.0493,
-      "pctChange": -0.81,
+      "pctChange": -0.83,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.05,
+      "pctChange": 0.1,
       "isForex": true
     }
   ],
@@ -187,6 +187,14 @@
       "snippet": "BBC's Shaimaa Khalil was in the room as Kenneth Iwamansa, who injected Perry with ketamine, was sentenced to 41 months in prison.",
       "link": "https://www.bbc.com/news/videos/ckgp8mrj5ggo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+      "snippet": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -780,6 +788,14 @@
       "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
       "date": "2026-05-28",
       "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+      "snippet": "The gaming giant said the handheld had not changed but the rise reflected \"the current state of component costs\"",
+      "link": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "TECH",
