@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-28T09:30:53.737820+00:00",
+  "generatedAt": "2026-05-28T09:34:29.675449+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73250.8828,
+      "current": 73267.3984,
       "prev5d": 76673.3672,
-      "pctChange": -4.46,
+      "pctChange": -4.44,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4420.6001,
+      "current": 4425.0,
       "prev5d": 4531.2998,
-      "pctChange": -2.44,
+      "pctChange": -2.35,
       "isForex": false
     },
     {
