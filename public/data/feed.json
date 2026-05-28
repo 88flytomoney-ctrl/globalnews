@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-28T09:37:04.119936+00:00",
+  "generatedAt": "2026-05-28T09:46:15.792052+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73346.4688,
+      "current": 73379.6406,
       "prev5d": 76673.3672,
-      "pctChange": -4.34,
+      "pctChange": -4.3,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4425.0,
+      "current": 4423.3999,
       "prev5d": 4531.2998,
-      "pctChange": -2.35,
+      "pctChange": -2.38,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.42,
+      "current": 90.68,
       "prev5d": 98.26,
-      "pctChange": -7.98,
+      "pctChange": -7.71,
       "isForex": false
     },
     {
@@ -554,6 +554,14 @@
       "title": "Why Fifa is being investigated over World Cup ticket prices",
       "snippet": "New York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.",
       "link": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Ousted BP chairman hits back at 'lies' about his behaviour",
+      "snippet": "Albert  Manifold said no-one should be \"allowed to hide behind anonymity\" when commenting on his time at BP.",
+      "link": "https://www.bbc.com/news/articles/cy92rzn5v7vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-28",
       "source": "feeds.bbci.co.uk"
     },
