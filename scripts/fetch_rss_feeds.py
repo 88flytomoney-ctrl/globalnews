@@ -74,8 +74,9 @@ def fetch_feeds():
             except Exception as e:
                 print(f"  ⚠ {category} ({url}): {e}", file=sys.stderr)
 
+    # Sort by date descending (newest first), then by category order
     cat_order = {"WORLD": 0, "BUSINESS": 1, "TECH": 2}
-    news.sort(key=lambda x: (cat_order.get(x["category"], 9), x.get("date", ""), -len(x["title"])))
+    news.sort(key=lambda x: (-int(x.get("date", "0000-00-00").replace("-", "")), cat_order.get(x["category"], 9)))
     return news
 
 
