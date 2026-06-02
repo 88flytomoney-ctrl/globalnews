@@ -1,44 +1,44 @@
 [
   {
     "name": "Bitcoin (USD)",
-    "current": 76739.2891,
-    "prev5d": 77539.1719,
-    "pctChange": -1.03,
+    "current": 70780.0,
+    "prev5d": 74344.7031,
+    "pctChange": -4.79,
     "isForex": false
   },
   {
     "name": "Gold Futures",
-    "current": 4521.2998,
-    "prev5d": 4552.5,
-    "pctChange": -0.69,
+    "current": 4511.6001,
+    "prev5d": 4521.0,
+    "pctChange": -0.21,
     "isForex": false
   },
   {
     "name": "Crude Oil WTI",
-    "current": 93.1,
-    "prev5d": 108.66,
-    "pctChange": -14.32,
+    "current": 91.71,
+    "prev5d": 96.6,
+    "pctChange": -5.06,
     "isForex": false
   },
   {
     "name": "100 HKD to CNY",
-    "current": 0.8656,
-    "prev5d": 0.8684,
-    "pctChange": -0.32,
+    "current": 0.8625,
+    "prev5d": 0.8672,
+    "pctChange": -0.54,
     "isForex": true
   },
   {
     "name": "100 JPY to HKD",
-    "current": 0.049,
+    "current": 0.0488,
     "prev5d": 0.0493,
-    "pctChange": -0.66,
+    "pctChange": -0.92,
     "isForex": true
   },
   {
     "name": "100 HKD to EUR",
     "current": 0.1096,
-    "prev5d": 0.1095,
-    "pctChange": 0.1,
+    "prev5d": 0.1097,
+    "pctChange": -0.05,
     "isForex": true
   }
 ]
