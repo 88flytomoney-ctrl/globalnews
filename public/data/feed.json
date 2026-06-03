@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-06-03T22:46:12.629625+00:00",
+  "generatedAt": "2026-06-03T23:58:40.672848+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 64977.3711,
+      "current": 63994.6094,
       "prev5d": 73372.5234,
-      "pctChange": -11.44,
+      "pctChange": -12.78,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4465.5,
+      "current": 4489.0,
       "prev5d": 4447.5,
-      "pctChange": 0.4,
+      "pctChange": 0.93,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 95.36,
+      "current": 95.37,
       "prev5d": 88.68,
-      "pctChange": 7.53,
+      "pctChange": 7.54,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8633,
-      "prev5d": 0.866,
-      "pctChange": -0.31,
+      "prev5d": 0.8653,
+      "pctChange": -0.23,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0487,
-      "prev5d": 0.0492,
-      "pctChange": -0.98,
+      "prev5d": 0.0491,
+      "pctChange": -0.7,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.11,
-      "prev5d": 0.1097,
-      "pctChange": 0.3,
+      "current": 0.1099,
+      "prev5d": 0.1099,
+      "pctChange": 0.01,
       "isForex": true
     }
   ],
@@ -63,14 +63,6 @@
     },
     {
       "category": "WORLD",
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "snippet": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
       "snippet": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
       "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
@@ -79,7 +71,7 @@
     },
     {
       "category": "WORLD",
-      "title": "Grab what you can while you can: The  new reality in the South China Sea",
+      "title": "Grab what you can while you can: The new reality in the South China Sea",
       "snippet": "After years of watching China create land to back its expansive claims, others are doing the same.",
       "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-03",
@@ -98,6 +90,14 @@
       "title": "Foreign nationals among at least 21 killed in Delhi fire",
       "snippet": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
       "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-03",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "snippet": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-03",
       "source": "feeds.bbci.co.uk"
     },
@@ -207,6 +207,22 @@
     },
     {
       "category": "WORLD",
+      "title": "Why Canada has generic Ozempic, and the US doesn't",
+      "snippet": "Canada is the first G7 country to approve the lower cost weight-loss drugs, which are rolling out in pharmacies this month.",
+      "link": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-03",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
+      "snippet": "High fuel prices are strengthening the case for EV adoption in the world's third largest auto market.",
+      "link": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-03",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries",
       "snippet": "The rideshare company's annual Lost & Found Index also reveals America's most forgetful city, and the most forgetful day.",
       "link": "https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss",
@@ -230,14 +246,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Now you can hire people to carry your shopping bags in Delhi - will it work?",
-      "snippet": "CarryMen employees don't just carry shopping bags - they also push prams and queue up at food counters.",
-      "link": "https://www.bbc.com/news/articles/cx21vd880ydo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "SpaceX says its worth $1.75tn as it nears stock market debut",
       "snippet": "Elon Musk’s space exploration company set a target price for buyers earlier than expected.",
@@ -250,6 +258,14 @@
       "title": "Universal park officially named as government pledges £1.3bn",
       "snippet": "The government's contribution is going towards upgrading local infrastructure and transport links.",
       "link": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-03",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'It is by the grace of God that you find a diamond'",
+      "snippet": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
+      "link": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-03",
       "source": "feeds.bbci.co.uk"
     },
@@ -292,6 +308,14 @@
       "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-03",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "snippet": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "date": "2026-06-03",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -442,14 +466,6 @@
       "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
       "snippet": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
       "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "date": "2026-06-03",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
-      "snippet": "The company said it's worked up a moderation system that uses a blend of AI and human input to moderate both visual and written content.",
-      "link": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
       "date": "2026-06-03",
       "source": "techcrunch.com"
     },
@@ -631,14 +647,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "How 'confused' AI rollout hurts firms and baffles staff",
-      "snippet": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
-      "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-01",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
       "snippet": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
       "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
@@ -690,6 +698,14 @@
       "title": "Nvidia announces new AI chip for personal computers",
       "snippet": "The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\".",
       "link": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-01",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "snippet": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-01",
       "source": "feeds.bbci.co.uk"
     },
