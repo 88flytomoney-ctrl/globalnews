@@ -217,6 +217,22 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+    "snippet": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
+    "link": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+    "snippet": "The Bank of England is asking the public which animals should appear on future banknotes.",
+    "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
     "snippet": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
     "link": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss",
@@ -265,11 +281,35 @@
   },
   {
     "category": "TECH",
+    "title": "Do you find yourself aimlessly scrolling? You're not alone",
+    "snippet": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose.",
+    "link": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
     "title": "Tech Life",
     "snippet": "The tech company announces its new Majorana 2 chip.",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxy?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-02",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+    "snippet": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
+    "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+    "date": "2026-06-02",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "snippet": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "date": "2026-06-02",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -412,22 +452,6 @@
     "title": "X caters to creators with new ‘React with Video’ feature",
     "snippet": "X will now let you 'react with video' to posts.",
     "link": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
-    "date": "2026-06-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-    "snippet": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc",
-    "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-    "date": "2026-06-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
-    "snippet": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market.",
-    "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
     "date": "2026-06-02",
     "source": "techcrunch.com"
   },
@@ -656,43 +680,11 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
-    "snippet": "Wizz Air CEO Yvonne Moynihan also advises passengers to carry portable chargers and water due to lengthy queues.",
-    "link": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "How a borough in Merseyside is bucking the UK's youth unemployment trend",
-    "snippet": "Could personalised early intervention help prevent under-16s falling into the Neet trap?",
-    "link": "https://www.bbc.com/news/articles/cd6p9yyg64vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Tech Now",
     "snippet": "Shiona McCallum visits Fifa HQ in Zurich to see new tech being used in the World Cup.",
     "link": "https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Energy bills to go up for Power NI and Firmus customers",
-    "snippet": "Both suppliers have said the increase is due to higher global energy and gas prices.",
-    "link": "https://www.bbc.com/news/articles/cz9273747z8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
-    "snippet": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be halved to ease mounting pressure on the hospitality industry.",
-    "link": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-29",
     "source": "feeds.bbci.co.uk"
   },
   {
@@ -740,14 +732,6 @@
     "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
     "snippet": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites.",
     "link": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Google worker charged with using internal data to make $1.2m on bets",
-    "snippet": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
-    "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-28",
     "source": "feeds.bbci.co.uk"
   },
