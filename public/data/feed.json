@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-06-05T23:35:20.280345+00:00",
+  "generatedAt": "2026-06-06T23:15:59.839189+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 60680.0,
-      "prev5d": 73579.6875,
-      "pctChange": -17.53,
+      "current": 60690.9883,
+      "prev5d": 71319.7734,
+      "pctChange": -14.9,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4353.8999,
+      "current": 4337.1001,
       "prev5d": 4560.5,
-      "pctChange": -4.53,
+      "pctChange": -4.9,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.25,
+      "current": 90.54,
       "prev5d": 87.36,
-      "pctChange": 3.31,
+      "pctChange": 3.64,
       "isForex": false
     },
     {
@@ -47,130 +47,82 @@
   "news": [
     {
       "category": "WORLD",
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "snippet": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "snippet": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "snippet": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-      "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "snippet": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "snippet": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "snippet": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Fury in France after child murder suspect's criminal record released",
-      "snippet": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
-      "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "snippet": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+      "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "snippet": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-      "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "snippet": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+      "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
-      "snippet": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick.",
-      "link": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "snippet": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Three jailed over heist of ancient golden helmet from Dutch museum",
-      "snippet": "The men are sentenced to 47 months each for stealing the 2,500-year-old Romanian Coțofenești helmet.",
-      "link": "https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Andreeva wins French Open as Chwalinska fairytale ends",
+      "snippet": "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
+      "link": "https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Norway's crown princess on lung transplant waiting list, palace says",
-      "snippet": "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
-      "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "snippet": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-      "snippet": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
-      "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+      "snippet": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+      "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "snippet": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
-      "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US journalist pleads guilty to working as China's agent",
-      "snippet": "Thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.",
-      "link": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
-      "snippet": "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy.",
-      "link": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Hospitality jobs boom as US prepares for World Cup",
-      "snippet": "It is the third month in a row US jobs figures have beaten expectations.",
-      "link": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
-      "snippet": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
-      "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Singer Fally Ipupa's pride at being given major DR Congo honour",
-      "snippet": "He follows the late great Papa Wemba in becoming a knight of the National Order of the Leopard.",
-      "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "snippet": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-05",
+      "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+      "snippet": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
+      "link": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -178,6 +130,118 @@
       "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
       "snippet": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
       "link": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "snippet": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Giant banquets rile radical left in France",
+      "snippet": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
+      "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Advice service demand rises amid housing crisis",
+      "snippet": "Citizens Advice Guernsey says housing and cost of living pressures have increased demand.",
+      "link": "https://www.bbc.com/news/articles/cj3pkkjl4x4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "snippet": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "date": "2026-06-06",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "snippet": "Apple's WWDC nears: Here's what you can look forward to.",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "date": "2026-06-06",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "snippet": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "date": "2026-06-06",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "snippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "date": "2026-06-06",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "snippet": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "date": "2026-06-06",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+      "snippet": "The Bulgarian singer says her historic victory in Vienna came close to never happening.",
+      "link": "https://www.bbc.com/news/articles/c1k2dml10ezo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
+      "snippet": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+      "link": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+      "snippet": "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+      "link": "https://www.bbc.com/news/articles/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
+      "snippet": "There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+      "link": "https://www.bbc.com/news/articles/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Is there an AI stock market bubble, and is it ready to burst?",
+      "snippet": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+      "link": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Why are devastating mice plagues happening in Australia?",
+      "snippet": "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+      "link": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-05",
       "source": "feeds.bbci.co.uk"
     },
@@ -223,9 +287,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Is there an AI stock market bubble, and is it ready to burst?",
-      "snippet": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
-      "link": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+      "title": "Hospitality jobs boom as US prepares for World Cup",
+      "snippet": "It is the third month in a row US jobs figures have beaten expectations.",
+      "link": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-05",
       "source": "feeds.bbci.co.uk"
     },
@@ -242,6 +306,14 @@
       "title": "Final pieces fired at Denby as production ends",
       "snippet": "\"We are so hugely proud of everything this Derbyshire pottery has achieved,\" the company says.",
       "link": "https://www.bbc.com/news/articles/c0525dm5le3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+      "snippet": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
+      "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-05",
       "source": "feeds.bbci.co.uk"
     },
@@ -414,70 +486,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "snippet": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
-      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "date": "2026-06-05",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "snippet": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
-      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-      "snippet": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
-      "link": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Tough cookies: How pop group Le Sserafim overcame band tensions and internet trolls",
-      "snippet": "The K-pop band say accepting their flaws and embracing humour took them to a new level of success.",
-      "link": "https://www.bbc.com/news/articles/c7752znyle6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Here's why counting votes in California is taking so long",
-      "snippet": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
-      "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Why is this teen fashion brand closing its fitting rooms?",
-      "snippet": "Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a \"devastating news\".",
-      "link": "https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-      "snippet": "The 950-year-old work will be as safe \"as a baby\" during its move to London, French officials say.",
-      "link": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
-      "snippet": "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
-      "link": "https://www.bbc.com/news/videos/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "WORLD",
       "title": "Watch: Guide stranded on Everest for six days rescued",
       "snippet": "The BBC's Rajini Vaidyanathan pieces together how events unfolded.",
@@ -487,25 +495,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
-      "snippet": "BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.",
-      "link": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
-      "snippet": "One person was killed and more than 60 injured in the Iranian drone strike on Wednesday.",
-      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Robodogs and helicopters: One Mexican city's approach to World Cup security",
-      "snippet": "In the shadow of cartel violence, BBC’s Will Grant got a first-hand look at security plans in Monterrey.",
-      "link": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+      "title": "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+      "snippet": "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
+      "link": "https://www.bbc.com/news/videos/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-04",
       "source": "feeds.bbci.co.uk"
     },
@@ -604,38 +596,6 @@
       "link": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-04",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "snippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
-      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "date": "2026-06-04",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "snippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "date": "2026-06-04",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-      "snippet": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
-      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-      "date": "2026-06-04",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "snippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place",
-      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "date": "2026-06-04",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
