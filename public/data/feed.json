@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-06-07T22:46:04.111922+00:00",
+  "generatedAt": "2026-06-07T23:18:26.325475+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 63156.0195,
+      "current": 62821.1016,
       "prev5d": 66703.6562,
-      "pctChange": -5.32,
+      "pctChange": -5.82,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4348.7002,
+      "current": 4348.8999,
       "prev5d": 4475.2002,
-      "pctChange": -2.83,
+      "pctChange": -2.82,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 92.91,
+      "current": 92.82,
       "prev5d": 92.16,
-      "pctChange": 0.81,
+      "pctChange": 0.72,
       "isForex": false
     },
     {
@@ -33,14 +33,14 @@
       "name": "100 JPY to HKD",
       "current": 0.0486,
       "prev5d": 0.0492,
-      "pctChange": -1.14,
+      "pctChange": -1.12,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1108,
       "prev5d": 0.1095,
-      "pctChange": 1.2,
+      "pctChange": 1.15,
       "isForex": true
     }
   ],
@@ -154,6 +154,14 @@
       "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
       "snippet": "Plans for £1.25bn steel-making furnace may be delayed by electrical connectivity problem, Tata says.",
       "link": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How the High Street became a window on our political instability",
+      "snippet": "High Streets have declined in recent years. What does this tell us about the UK?",
+      "link": "https://www.bbc.com/news/articles/cq5p59286v5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-07",
       "source": "feeds.bbci.co.uk"
     },
@@ -899,14 +907,6 @@
       "snippet": "Butter, chocolate, coffee and milk have all seen prices rocket. Tracing back through the story of one particular supermarket staple begins to explain why",
       "link": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
-      "snippet": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
-      "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-26",
       "source": "feeds.bbci.co.uk"
     }
   ]

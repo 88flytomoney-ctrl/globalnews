@@ -112,6 +112,14 @@
     "source": "feeds.bbci.co.uk"
   },
   {
+    "category": "BUSINESS",
+    "title": "How the High Street became a window on our political instability",
+    "snippet": "High Streets have declined in recent years. What does this tell us about the UK?",
+    "link": "https://www.bbc.com/news/articles/cq5p59286v5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-07",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
     "category": "TECH",
     "title": "Is this the dawn of the Tokenpocalypse?",
     "snippet": "We're likely to see more price increases as the big AI companies plan to go public.",
@@ -853,14 +861,6 @@
     "snippet": "Butter, chocolate, coffee and milk have all seen prices rocket. Tracing back through the story of one particular supermarket staple begins to explain why",
     "link": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-03-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
-    "snippet": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
-    "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-03-26",
     "source": "feeds.bbci.co.uk"
   }
 ]
