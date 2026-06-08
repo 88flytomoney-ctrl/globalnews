@@ -50,7 +50,7 @@
   {
     "category": "WORLD",
     "title": "Watch: Southern Lights timelapse filmed from space",
-    "snippet": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir.",
+    "snippet": "This occurrence of aurora australis, or Southern Lights, was captured by Nasa astronaut Jessica Meir.",
     "link": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-08",
     "source": "feeds.bbci.co.uk"
@@ -145,9 +145,41 @@
   },
   {
     "category": "BUSINESS",
+    "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+    "snippet": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+    "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Driving test booking rules tightened after thousands of no shows",
+    "snippet": "Learner drivers can only swap their test to the three centres nearest to their original booking.",
+    "link": "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "How driving test booking is changing for learner drivers",
+    "snippet": "From 12 May, only learner drivers can book their own tests, not instructors.",
+    "link": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Starmer tells Apple and Google to ban nude images on children's phones",
     "snippet": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images.",
     "link": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Could humanoid robots be heading for the battlefield?",
+    "snippet": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+    "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -188,14 +220,6 @@
     "title": "From UK athlete to parliament: Serena Guthrie wins senator seat",
     "snippet": "Serena Guthrie won Commonwealth gold as part of the England netball team in 2018.",
     "link": "https://www.bbc.com/news/articles/cwy2083d933o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-    "snippet": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
-    "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -617,14 +641,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Trump announces $700m coal investment using wartime powers",
-    "snippet": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
-    "link": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Grant puts gloss on paint recycling enterprise",
     "snippet": "A Cambridgeshire social enterprise is awarded £400,000 by the National Lottery to help it expand.",
     "link": "https://www.bbc.com/news/articles/cx21031w0l2o?at_medium=RSS&at_campaign=rss",
@@ -665,22 +681,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-    "snippet": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
-    "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "SpaceX says it's worth $1.75tn as it targets largest stock market debut",
-    "snippet": "Elon Musk’s space exploration company set a target share price for buyers earlier than expected.",
-    "link": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "The ancient trick making food waste useful and tasty",
     "snippet": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
     "link": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
@@ -705,17 +705,17 @@
   },
   {
     "category": "TECH",
-    "title": "Who is Elon Musk and what is his net worth?",
-    "snippet": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
-    "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+    "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+    "snippet": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
+    "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-04",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "TECH",
-    "title": "Exams watchdog warns of rise in high-tech cheating",
-    "snippet": "Ofqual chief says invigilators are being trained to detect devices like smart glasses and hidden earpieces.",
-    "link": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
+    "title": "Who is Elon Musk and what is his net worth?",
+    "snippet": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
+    "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-04",
     "source": "feeds.bbci.co.uk"
   },
