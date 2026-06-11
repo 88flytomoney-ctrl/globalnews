@@ -17,8 +17,8 @@
   },
   {
     "category": "WORLD",
-    "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-    "snippet": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+    "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+    "snippet": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
     "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-11",
     "source": "feeds.bbci.co.uk"
@@ -137,7 +137,23 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
+    "title": "Why the economics makes this the craziest world cup ever",
+    "snippet": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+    "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "My friends always want to split the bill equally, how do I say no?",
+    "snippet": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
+    "link": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
     "snippet": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
     "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-11",
@@ -148,6 +164,14 @@
     "title": "Ryanair investigated over charging parents to sit with children",
     "snippet": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
     "link": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "India's 'blue gold' starts a new drinks industry",
+    "snippet": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+    "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -465,25 +489,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "SpaceX IPO: Preparing for the biggest liftoff yet?",
-    "snippet": "It’s not just about rockets: what SpaceX does and why its IPO matters",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8gld?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "New candy stores are popping up across NYC. Why?",
-    "snippet": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
-    "link": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
     "snippet": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
     "link": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "SpaceX IPO: Preparing for the biggest liftoff yet?",
+    "snippet": "It’s not just about rockets: what SpaceX does and why its IPO matters",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8gld?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-10",
     "source": "feeds.bbci.co.uk"
   },
@@ -508,6 +524,14 @@
     "title": "UK pint prices up 36% since last World Cup – here's why",
     "snippet": "UK pint prices are up 36% since the last World Cup. We look at why beer now costs so much more.",
     "link": "https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "New candy stores are popping up across NYC. Why?",
+    "snippet": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
+    "link": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-10",
     "source": "feeds.bbci.co.uk"
   },
@@ -713,14 +737,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Widow 'distressed' by firm's nine-month delay to husband's pension",
-    "snippet": "BBC Scotland has heard testimony from people affected by delays in pensions managed by outsourcing firm Capita.",
-    "link": "https://www.bbc.com/news/articles/c1m2mjxz7mmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Could humanoid robots be heading for the battlefield?",
     "snippet": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
     "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
@@ -781,14 +797,6 @@
     "snippet": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable.",
     "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-06",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Trump to meet AI leaders to discuss US investment in their companies",
-    "snippet": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
-    "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-05",
     "source": "feeds.bbci.co.uk"
   },
   {
