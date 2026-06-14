@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-06-14T22:46:02.312392+00:00",
+  "generatedAt": "2026-06-14T23:36:17.356533+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 65392.2891,
+      "current": 65603.8203,
       "prev5d": 61643.7812,
-      "pctChange": 6.08,
+      "pctChange": 6.42,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4306.5,
+      "current": 4304.2002,
       "prev5d": 4335.8999,
-      "pctChange": -0.68,
+      "pctChange": -0.73,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 81.41,
+      "current": 81.11,
       "prev5d": 91.3,
-      "pctChange": -10.83,
+      "pctChange": -11.16,
       "isForex": false
     },
     {
@@ -33,14 +33,14 @@
       "name": "100 JPY to HKD",
       "current": 0.0487,
       "prev5d": 0.0489,
-      "pctChange": -0.22,
+      "pctChange": -0.26,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1099,
       "prev5d": 0.1108,
-      "pctChange": -0.78,
+      "pctChange": -0.74,
       "isForex": true
     }
   ],
@@ -143,9 +143,41 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Millions of people can get discounts on their bills - here's how",
+      "snippet": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone.",
+      "link": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Surge in scams as fraudsters use AI to target people",
+      "snippet": "On average, nearly eight cases of fraud in which money is stolen are reported in the UK every minute.",
+      "link": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Is the convertible heading into the sunset?",
+      "snippet": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
+      "link": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "UK electric car sales target set to be weakened",
       "snippet": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
       "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "As more US business owners retire many are selling up to their staff",
+      "snippet": "Some six million bosses of American firms will be entering retirement between now and 2035.",
+      "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -290,14 +322,6 @@
       "title": "Anthropic suspends new AI tools over US government security concerns",
       "snippet": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
       "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Teen plans to leave uni 'debt free' after making £35,000 selling vintage football shirts",
-      "snippet": "Eleri Williams started out selling her dad's old football shirts and has just opened her own shop.",
-      "link": "https://www.bbc.com/news/articles/cly0nelkqq2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -607,22 +631,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
-      "snippet": "Under current rules, shops breaking the law can only be closed for up to six months in England and Wales.",
-      "link": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "UK pint prices up 36% since last World Cup – here's why",
-      "snippet": "UK pint prices are up 36% since the last World Cup. We look at why beer now costs so much more.",
-      "link": "https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "New candy stores are popping up across NYC. Why?",
       "snippet": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
       "link": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
@@ -642,22 +650,6 @@
       "title": "Bill debt soars but many don't know help is available",
       "snippet": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
       "link": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "snippet": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
-      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "How to enjoy the World Cup - and keep your boss on side",
-      "snippet": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
-      "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-09",
       "source": "feeds.bbci.co.uk"
     },
