@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-06-17T22:46:01.876239+00:00",
+  "generatedAt": "2026-06-17T23:49:21.336775+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 64218.8789,
+      "current": 64434.7305,
       "prev5d": 63543.1992,
-      "pctChange": 1.06,
+      "pctChange": 1.4,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4284.7002,
+      "current": 4295.1001,
       "prev5d": 4108.2002,
-      "pctChange": 4.3,
+      "pctChange": 4.55,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 75.45,
+      "current": 75.39,
       "prev5d": 90.03,
-      "pctChange": -16.19,
+      "pctChange": -16.26,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8619,
-      "prev5d": 0.8641,
+      "current": 0.862,
+      "prev5d": 0.8643,
       "pctChange": -0.26,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0485,
-      "prev5d": 0.0489,
-      "pctChange": -0.69,
+      "prev5d": 0.0488,
+      "pctChange": -0.55,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1109,
       "prev5d": 0.1106,
-      "pctChange": 0.25,
+      "pctChange": 0.22,
       "isForex": true
     }
   ],
@@ -207,7 +207,7 @@
     },
     {
       "category": "WORLD",
-      "title": "Initial US-Iran agreement leaves many key issues to be negotiated",
+      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
       "snippet": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
       "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-17",
@@ -218,6 +218,14 @@
       "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
       "snippet": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
       "link": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Interest rates expected to be held by Bank of England",
+      "snippet": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+      "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-17",
       "source": "feeds.bbci.co.uk"
     },
@@ -242,6 +250,14 @@
       "title": "Inflation unexpectedly steady as food price rises slow",
       "snippet": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
       "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'We had to get out of the way': The backlash over delivery robots",
+      "snippet": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
+      "link": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-17",
       "source": "feeds.bbci.co.uk"
     },
@@ -287,6 +303,14 @@
     },
     {
       "category": "TECH",
+      "title": "ChatGPT can be made to generate sexualised and violent images, researchers find",
+      "snippet": "But researchers say its still possible to trick the AI chatbot into producing graphic content.",
+      "link": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
       "snippet": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
       "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
@@ -300,6 +324,14 @@
       "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-17",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "snippet": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+      "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+      "date": "2026-06-17",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -454,14 +486,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "snippet": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "date": "2026-06-17",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "India: Why a country of 1.4 billion is not in the football World Cup",
       "snippet": "The world's most populous country is still missing from football's biggest stage.",
@@ -527,14 +551,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "What is Helium-3 and could we get it from the moon?",
-      "snippet": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
-      "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-16",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
       "snippet": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
       "link": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
@@ -570,6 +586,14 @@
       "title": "Why is Thames Water in so much trouble?",
       "snippet": "Thames Water's lenders have submitted a new rescue plan to save the firm, but how did it end up in this state?",
       "link": "https://www.bbc.com/news/articles/cgleg70r7rno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "What is Helium-3 and could we get it from the moon?",
+      "snippet": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+      "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-16",
       "source": "feeds.bbci.co.uk"
     },
@@ -834,14 +858,6 @@
       "title": "Kalshi to make some users reveal job details to tackle insider trading",
       "snippet": "After issues with insider trading, the prediction betting platform is adding new rules.",
       "link": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "snippet": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
-      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-09",
       "source": "feeds.bbci.co.uk"
     },
