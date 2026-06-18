@@ -185,9 +185,25 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Interest rates held as Bank warns of impact of high energy prices",
-    "snippet": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
-    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+    "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+    "snippet": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+    "link": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'He hid the a la carte menu': Who should pay on the first date",
+    "snippet": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+    "link": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Five ways the Iran peace deal could affect you and your money",
+    "snippet": "With fuel and gas prices having fallen in recent days, we look at how the end of hostitlities might affect you - in five charts.",
+    "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-18",
     "source": "feeds.bbci.co.uk"
   },
@@ -196,6 +212,22 @@
     "title": "Heathrow's 'critical' expansion blueprint released",
     "snippet": "A consultation is launched on the Heathrow expansion, outlining conditions for the project to go ahead.",
     "link": "https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Interest rates held as Bank warns of impact of high energy prices",
+    "snippet": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "The artificial ice pyramids saving India's mountain villages",
+    "snippet": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+    "link": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-18",
     "source": "feeds.bbci.co.uk"
   },
@@ -248,22 +280,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Deputy launches proposal to reduce fuel duty",
-    "snippet": "A local deputy wants to reduce fuel duty on the island by 10p a litre.",
-    "link": "https://www.bbc.com/news/articles/cvgmn530v88o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-18",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "'I won't be able to afford to eat before long'",
-    "snippet": "About a third of households using food banks in the South Cotswolds are doing so for the first time.",
-    "link": "https://www.bbc.com/news/articles/cd6ejwxjx28o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-18",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
     "snippet": "The developer has said pre-sales of the hugely anticipated game will begin on 25 June.",
@@ -306,7 +322,7 @@
   {
     "category": "TECH",
     "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-    "snippet": "Plaintiffs in the class action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
+    "snippet": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
     "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
     "date": "2026-06-18",
     "source": "techcrunch.com"
@@ -736,22 +752,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "SpaceX IPO raised $10bn more than thought",
-    "snippet": "The company's listing raised $87.5bn, compared with the $75bn it was initially thought.",
-    "link": "https://www.bbc.com/news/articles/cgrk21wnvy9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Anthropic to meet White House over AI tool suspension",
-    "snippet": "The sudden meeting was called after Anthropic had to block users from just-released AI models.",
-    "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Social media ban - bold and blunt, but no silver bullet",
     "snippet": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
@@ -772,14 +772,6 @@
     "title": "Is the convertible heading into the sunset?",
     "snippet": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
     "link": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-14",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Millions of people can get discounts on their bills - here's how",
-    "snippet": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone.",
-    "link": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-14",
     "source": "feeds.bbci.co.uk"
   },
@@ -869,14 +861,6 @@
     "snippet": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
     "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Kalshi to make some users reveal job details to tackle insider trading",
-    "snippet": "After issues with insider trading, the prediction betting platform is adding new rules.",
-    "link": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-09",
     "source": "feeds.bbci.co.uk"
   },
   {
