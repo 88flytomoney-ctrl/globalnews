@@ -1,9 +1,9 @@
 [
   {
     "name": "Bitcoin (USD)",
-    "current": 63215.6094,
-    "prev5d": 64421.3242,
-    "pctChange": -1.87,
+    "current": 64187.3984,
+    "prev5d": 65710.3984,
+    "pctChange": -2.32,
     "isForex": false
   },
   {
@@ -22,16 +22,16 @@
   },
   {
     "name": "100 HKD to CNY",
-    "current": 0.8632,
+    "current": 0.8629,
     "prev5d": 0.8636,
-    "pctChange": -0.04,
+    "pctChange": -0.08,
     "isForex": true
   },
   {
     "name": "100 JPY to HKD",
     "current": 0.0483,
-    "prev5d": 0.0489,
-    "pctChange": -1.23,
+    "prev5d": 0.049,
+    "pctChange": -1.33,
     "isForex": true
   },
   {
