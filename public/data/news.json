@@ -1,8 +1,8 @@
 [
   {
     "category": "WORLD",
-    "title": "Vance says Iran will allow nuclear inspectors back into the country",
-    "snippet": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran.",
+    "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+    "snippet": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
     "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-22",
     "source": "feeds.bbci.co.uk"
@@ -169,11 +169,35 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Do you know your 'sweat score'? The rise of hydration tech",
+    "snippet": "Hydration tracking gadgets are flooding the market but is it too much information?",
+    "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-22",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Toy Story 5 scores record opening weekend for franchise",
     "snippet": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
     "link": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-22",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+    "snippet": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
+    "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-22",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+    "snippet": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+    "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+    "date": "2026-06-22",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -460,14 +484,6 @@
     "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
     "snippet": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
     "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-    "date": "2026-06-21",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-    "snippet": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
-    "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
     "date": "2026-06-21",
     "source": "techcrunch.com"
   },
@@ -817,14 +833,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Japan raids ice cream giants over price-fixing allegations",
-    "snippet": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
-    "link": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "'We had to get out of the way': The backlash over delivery robots",
     "snippet": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
     "link": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
@@ -844,14 +852,6 @@
     "title": "What to study in the AI age - from big tech bosses",
     "snippet": "Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.",
     "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Snap unveils £1,995 smart glasses after previous flops",
-    "snippet": "The augmented reality glasses from Snapchat's parent company are expected to ship in autumn.",
-    "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -884,14 +884,6 @@
     "title": "What is Helium-3 and could we get it from the moon?",
     "snippet": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
     "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Five big questions about the UK's under-16s social media ban",
-    "snippet": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
-    "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-16",
     "source": "feeds.bbci.co.uk"
   },
