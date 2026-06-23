@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-06-23T22:46:08.012947+00:00",
+  "generatedAt": "2026-06-23T23:20:21.713516+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 62477.1094,
+      "current": 62499.3984,
       "prev5d": 62896.4727,
-      "pctChange": -0.67,
+      "pctChange": -0.63,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4117.2998,
+      "current": 4114.5,
       "prev5d": 4328.0,
-      "pctChange": -4.87,
+      "pctChange": -4.93,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 73.13,
+      "current": 72.87,
       "prev5d": 80.75,
-      "pctChange": -9.44,
+      "pctChange": -9.76,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8655,
-      "prev5d": 0.8625,
-      "pctChange": 0.35,
+      "current": 0.8666,
+      "prev5d": 0.8627,
+      "pctChange": 0.46,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0483,
-      "prev5d": 0.0489,
-      "pctChange": -1.23,
+      "prev5d": 0.0488,
+      "pctChange": -1.11,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.112,
-      "prev5d": 0.1101,
-      "pctChange": 1.74,
+      "prev5d": 0.11,
+      "pctChange": 1.86,
       "isForex": true
     }
   ],
@@ -223,6 +223,22 @@
     },
     {
       "category": "BUSINESS",
+      "title": "The economic challenges facing the next prime minister",
+      "snippet": "Though the person in charge of the country will change, the fiscal issues remain the same.",
+      "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Ten years on, Brexit's economic impact is becoming clearer",
+      "snippet": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
+      "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Who could be the UK's next chancellor?",
       "snippet": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
       "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
@@ -247,14 +263,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Google's YouTube settles social media addiction case with teen",
-      "snippet": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
-      "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-23",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Meta halts worker tracking for AI training due to privacy fears",
       "snippet": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
       "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
@@ -263,9 +271,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Kunal Shah: The Indian entrepreneur taking charge of WhatsApp",
+      "snippet": "Kunal Shah has been a recognisable figure in India's startup ecosystem for a while but now he faces global spotlight.",
+      "link": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Stop pretending EU's new border system is working, says airports chief",
       "snippet": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
       "link": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Google's YouTube settles social media addiction case with teen",
+      "snippet": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
+      "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-23",
       "source": "feeds.bbci.co.uk"
     },
@@ -730,30 +754,6 @@
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "snippet": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
       "link": "https://www.bbc.co.uk/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
-      "snippet": "The Ryanair boss extends his contract to 2032, in a deal featuring a bonus scheme that could earn him more than €150m (£130m).",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Warning over 'fragile' public finances as borrowing rises",
-      "snippet": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-      "snippet": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
-      "link": "https://www.bbc.co.uk/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-19",
       "source": "feeds.bbci.co.uk"
     },
