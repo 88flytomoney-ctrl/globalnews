@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-06-24T22:46:01.238753+00:00",
+  "generatedAt": "2026-06-24T23:20:53.888514+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 60814.5898,
+      "current": 60791.3086,
       "prev5d": 63540.8359,
-      "pctChange": -4.29,
+      "pctChange": -4.33,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4021.8999,
+      "current": 4010.2,
       "prev5d": 4330.8999,
-      "pctChange": -7.13,
+      "pctChange": -7.4,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 69.83,
+      "current": 69.9,
       "prev5d": 76.05,
-      "pctChange": -8.18,
+      "pctChange": -8.09,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8688,
-      "prev5d": 0.8627,
-      "pctChange": 0.71,
+      "current": 0.8683,
+      "prev5d": 0.8624,
+      "pctChange": 0.68,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0482,
       "prev5d": 0.0488,
-      "pctChange": -1.24,
+      "pctChange": -1.17,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1123,
-      "prev5d": 0.11,
-      "pctChange": 2.1,
+      "prev5d": 0.1109,
+      "pctChange": 1.25,
       "isForex": true
     }
   ],
@@ -159,9 +159,33 @@
     },
     {
       "category": "BUSINESS",
+      "title": "I've spent 30 years in recruitment - this is how to get a job",
+      "snippet": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-24",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "VAT cut on theme parks and kids' meals comes into force",
+      "snippet": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-24",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
       "snippet": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
       "link": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-24",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Texas family sues Tesla over fatal crash into home",
+      "snippet": "A woman in her 70s was killed after a Tesla crashed directly into the family’s home.",
+      "link": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24",
       "source": "feeds.bbci.co.uk"
     },
@@ -175,17 +199,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Who could be the UK's next chancellor?",
-      "snippet": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
-      "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "title": "The legal fight to get equal pay for Germany's disabled workers",
+      "snippet": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Train passed red signal before fatal crash - report",
-      "snippet": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
-      "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
+      "title": "Who could be the UK's next chancellor?",
+      "snippet": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+      "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24",
       "source": "feeds.bbci.co.uk"
     },
@@ -202,6 +226,14 @@
       "title": "Trump accuses oil firms of price gouging at petrol pumps",
       "snippet": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
       "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-24",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Train passed red signal before fatal crash - report",
+      "snippet": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
+      "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24",
       "source": "feeds.bbci.co.uk"
     },
@@ -231,11 +263,19 @@
     },
     {
       "category": "TECH",
-      "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
+      "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
       "snippet": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
       "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-24",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Elon suffers another day short of trillionaire status",
+      "snippet": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+      "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "date": "2026-06-24",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -386,14 +426,6 @@
       "title": "Slate Auto’s radically simple electric truck starts at $24,950",
       "snippet": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.",
       "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
-      "date": "2026-06-24",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "How to invest when everything is moving too fast",
-      "snippet": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.",
-      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
       "date": "2026-06-24",
       "source": "techcrunch.com"
     },
@@ -575,22 +607,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "snippet": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-23",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-      "snippet": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-23",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Tension 'likely' in new government - ex-chief",
       "snippet": "Kristina Moore says she expects to see \"some quite considerable clashes\" between senior politicians.",
       "link": "https://www.bbc.co.uk/news/articles/cn0729ny7edo?at_medium=RSS&at_campaign=rss",
@@ -619,22 +635,6 @@
       "snippet": "We're at one of Europe's biggest tech events.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy1?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-23",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Tesla crash that killed a woman under US federal investigation",
-      "snippet": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
-      "link": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-      "snippet": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
-      "link": "https://www.bbc.co.uk/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-22",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -730,14 +730,6 @@
       "title": "Do you want to know the secret to haggling with call centres?",
       "snippet": "Martin Lewis explains how your TV, phone, breakdown cover, insurance and more could be cheaper!",
       "link": "https://www.bbc.co.uk/news/videos/ceqdgj4x5q0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Five ways the Iran peace deal could affect you and your money",
-      "snippet": "With fuel and gas prices having fallen in recent days, we look at how the end of hostilities might affect you - in five charts.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-19",
       "source": "feeds.bbci.co.uk"
     },
