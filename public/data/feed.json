@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-06-26T23:21:09.246149+00:00",
+  "generatedAt": "2026-06-27T23:15:39.318857+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 59941.9609,
-      "prev5d": 63237.5391,
-      "pctChange": -5.21,
+      "current": 59972.7305,
+      "prev5d": 63952.1055,
+      "pctChange": -6.22,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4103.0,
+      "current": 4078.7,
       "prev5d": 4224.1001,
-      "pctChange": -2.87,
+      "pctChange": -3.44,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 70.24,
+      "current": 69.23,
       "prev5d": 76.6,
-      "pctChange": -8.3,
+      "pctChange": -9.62,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8672,
+      "current": 0.8657,
       "prev5d": 0.8637,
-      "pctChange": 0.41,
+      "pctChange": 0.23,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0482,
-      "prev5d": 0.0486,
-      "pctChange": -0.73,
+      "prev5d": 0.0485,
+      "pctChange": -0.64,
       "isForex": true
     },
     {
@@ -47,33 +47,217 @@
   "news": [
     {
       "category": "WORLD",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "snippet": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "snippet": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "snippet": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
+      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "snippet": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "snippet": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "snippet": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "snippet": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "snippet": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "snippet": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US strikes Iran after attack on cargo ship",
+      "snippet": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "snippet": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "snippet": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "snippet": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
+      "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Pete Buttigieg briefly separated from children after false police report",
+      "snippet": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "snippet": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "snippet": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+      "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Just how much trouble is Canada's economy in?",
+      "snippet": "Five charts help illustrate the state of Canada's economy - and how it's performing compared to other wealthy nations.",
+      "link": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+      "snippet": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
+      "snippet": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
+      "link": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Newborn baby rescued from Venezuela earthquake rubble",
+      "snippet": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Trump threatens 100% tariff on European nations over tech tax",
+      "snippet": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Free summer holiday sport sessions offered in city",
+      "snippet": "The scheme will visit green spaces around Sheffield, with free food and drink also offered.",
+      "link": "https://www.bbc.co.uk/news/articles/crkvl5xk13ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Tech firms are blaming AI for mega device and console price rises",
+      "snippet": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
+      "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "snippet": "Instagram users could soon see more ways to tune their content.",
+      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "snippet": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "snippet": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "snippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "snippet": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "snippet": "Mesh came out of stealth in February with a $50 million Series A.",
+      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "date": "2026-06-27",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "snippet": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -87,105 +271,41 @@
     },
     {
       "category": "WORLD",
-      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "snippet": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "snippet": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "snippet": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+      "snippet": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
+      "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Christmas market attacker jailed for life for murdering six in Germany",
-      "snippet": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+      "snippet": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-      "snippet": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "title": "Hit South African show gets the world talking about polygamy and cheating",
+      "snippet": "The Zulu-language series about a man with multiple wives is a worldwide hit.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "snippet": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Canada eligible to join Eurovision competition",
-      "snippet": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-      "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "snippet": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "link": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "snippet": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Asia stock markets slide as tech shares slump",
-      "snippet": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "snippet": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
-      "link": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Row over alleged theft of donations from India's landmark Ram temple",
-      "snippet": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
-      "link": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-      "snippet": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "snippet": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
+      "snippet": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
+      "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -214,50 +334,18 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Watch: Lightning strikes seen across UK",
-      "snippet": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
-      "link": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Debris falls after plane hits Beijing's tallest building",
-      "snippet": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
-      "link": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Moment woman pulled from rubble alive after Venezuela earthquake",
-      "snippet": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
-      "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Aerial footage reveals destruction in coastal Venezuela",
-      "snippet": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Trump threatens 100% tariff on European nations over tech tax",
-      "snippet": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "Three unusual things about the King's tax bill",
       "snippet": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
       "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Asia stock markets slide as tech shares slump",
+      "snippet": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -306,14 +394,6 @@
       "title": "How do you escape an overdraft?",
       "snippet": "How do you escape an overdraft? Finance expert Ioan Bain explains",
       "link": "https://www.bbc.co.uk/videos/cly8902rzpvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
-      "snippet": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
-      "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -414,94 +494,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "WORLD",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "snippet": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "snippet": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "snippet": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "snippet": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "snippet": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "snippet": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "snippet": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "snippet": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Why the trail went cold in Nancy Guthrie case",
-      "snippet": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity.",
-      "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "A Chinese box office hit sparks a debate about identity in Singapore",
-      "snippet": "A nostalgic tale about family, hope and hardship has opened an unexpected conversation.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
-      "snippet": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July.",
-      "link": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "snippet": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
@@ -535,9 +527,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "snippet": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "How you can save money on your energy bill as debts rise",
       "snippet": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
       "link": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "snippet": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -570,6 +578,22 @@
       "title": "EasyJet rejects fourth takeover offer",
       "snippet": "The airline is questioning the \"deliverability\" of the offer.",
       "link": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Oil price falls back to pre-Iran war levels",
+      "snippet": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-25",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "snippet": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -628,70 +652,6 @@
       "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "date": "2026-06-25",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "snippet": "YouTube Shorts is getting a makeover.",
-      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "snippet": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Polymarket says hackers stole users’ funds",
-      "snippet": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
-      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Xbox follows Apple with price increases",
-      "snippet": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
-      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Notion Mail shuts down amid agent takeover",
-      "snippet": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "snippet": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
-      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "snippet": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "date": "2026-06-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "snippet": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-24",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -778,14 +738,6 @@
       "title": "Do you know your 'sweat score'? The rise of hydration tech",
       "snippet": "Hydration tracking gadgets are flooding the market but is it too much information?",
       "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
-      "snippet": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-22",
       "source": "feeds.bbci.co.uk"
     },
