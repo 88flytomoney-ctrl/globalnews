@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-06-28T22:46:08.495807+00:00",
+  "generatedAt": "2026-06-28T23:16:34.648579+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 59024.2188,
+      "current": 59180.4102,
       "prev5d": 62668.0195,
-      "pctChange": -5.81,
+      "pctChange": -5.57,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4071.6001,
+      "current": 4080.8999,
       "prev5d": 4181.8999,
-      "pctChange": -2.64,
+      "pctChange": -2.42,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 70.16,
+      "current": 70.06,
       "prev5d": 74.82,
-      "pctChange": -6.23,
+      "pctChange": -6.36,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8664,
+      "current": 0.8672,
       "prev5d": 0.8637,
-      "pctChange": 0.31,
+      "pctChange": 0.41,
       "isForex": true
     },
     {
@@ -138,6 +138,14 @@
       "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
       "snippet": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Caraballeda.",
       "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Got the tennis bug? How to play sport without paying",
+      "snippet": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
+      "link": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -434,14 +442,6 @@
       "title": "New ISA and Lifetime ISA changes explained",
       "snippet": "In this week’s episode, there’s a deep dive into first-time buyer savings, with a special focus on Lifetime ISAs.",
       "link": "https://www.bbc.co.uk/news/videos/cj0ge52n80ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Record temperatures drives up home air conditioning sales",
-      "snippet": "Companies see inquiries surge during heatwaves as UK households look to cool down their homes.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyl2glg93o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26",
       "source": "feeds.bbci.co.uk"
     },
