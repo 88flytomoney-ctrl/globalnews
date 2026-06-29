@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-06-29T22:46:03.173652+00:00",
+  "generatedAt": "2026-06-29T23:14:31.411556+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 60303.3594,
+      "current": 60250.7305,
       "prev5d": 60995.1328,
-      "pctChange": -1.13,
+      "pctChange": -1.22,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4027.3999,
+      "current": 4031.8999,
       "prev5d": 4181.8999,
-      "pctChange": -3.69,
+      "pctChange": -3.59,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 70.34,
+      "current": 70.22,
       "prev5d": 74.82,
-      "pctChange": -5.99,
+      "pctChange": -6.15,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8669,
-      "prev5d": 0.8637,
-      "pctChange": 0.37,
+      "prev5d": 0.8641,
+      "pctChange": 0.32,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0482,
       "prev5d": 0.0485,
-      "pctChange": -0.76,
+      "pctChange": -0.72,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1116,
-      "prev5d": 0.1113,
-      "pctChange": 0.26,
+      "prev5d": 0.1116,
+      "pctChange": -0.01,
       "isForex": true
     }
   ],
@@ -266,6 +266,22 @@
       "title": "Anger directed at Venezuela's official response to earthquake recovery",
       "snippet": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports.",
       "link": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+      "snippet": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "We had packed lunches every day for 10 years and retired at 40",
+      "snippet": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -630,14 +646,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Free summer holiday sport sessions offered in city",
-      "snippet": "The scheme will visit green spaces around Sheffield, with free food and drink also offered.",
-      "link": "https://www.bbc.co.uk/news/articles/crkvl5xk13ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "Tech firms are blaming AI for mega device and console price rises",
       "snippet": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
@@ -794,22 +802,6 @@
       "title": "Price cuts on family summer days out come into force",
       "snippet": "The government is reducing VAT from 20% to 5% on attractions and kids' meals  as schools begin to break-up.",
       "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "EasyJet rejects fourth takeover offer",
-      "snippet": "The airline is questioning the \"deliverability\" of the offer.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "snippet": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-25",
       "source": "feeds.bbci.co.uk"
     },
