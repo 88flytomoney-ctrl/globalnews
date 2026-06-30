@@ -1,9 +1,17 @@
 [
   {
     "category": "WORLD",
-    "title": "Americans react to Supreme Court upholding birthright citizenship",
-    "snippet": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
-    "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+    "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+    "snippet": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+    "snippet": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -44,6 +52,14 @@
     "title": "Firefighters struggle to contain deadly Greek wildfire",
     "snippet": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
     "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+    "snippet": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -113,38 +129,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-    "snippet": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
-    "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-    "snippet": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-    "snippet": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Chinese tycoon sentenced to 30 years in US jail",
-    "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Supreme Court's birthright ruling is major blow to Trump",
     "snippet": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
     "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
@@ -164,6 +148,14 @@
     "title": "What to know about the looming  deadline on North American free trade",
     "snippet": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
     "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Americans react to Supreme Court upholding birthright citizenship",
+    "snippet": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
+    "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -192,10 +184,18 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "What do we know about the shooting in Stade, Germany?",
-    "snippet": "The BBC's Jessica Parker reports from the scene of the shooting that killed six people in northern Germany.",
-    "link": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
+    "category": "BUSINESS",
+    "title": "Plea for households to read energy meter as prices rise",
+    "snippet": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Why Gen Z are planning for life without a state pension",
+    "snippet": "Many younger people do not believe the state pension will exist when they are older",
+    "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -212,6 +212,14 @@
     "title": "Homes harder to sell as high mortgage rates frustrate buyers",
     "snippet": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
     "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Chinese tycoon sentenced to 30 years in US jail",
+    "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+    "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -249,11 +257,27 @@
   },
   {
     "category": "TECH",
+    "title": "E-scooters being advertised for commuting despite UK road ban",
+    "snippet": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+    "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
     "title": "Tech Life",
     "snippet": "We hear concerns that shadow banning is limiting access to health advice for women.",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+    "snippet": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+    "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+    "date": "2026-06-30",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -408,78 +432,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "The AI jobs debate just got messier",
-    "snippet": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "date": "2026-06-30",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-    "snippet": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-    "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-    "snippet": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Six people shot dead at centre for mothers and children in Germany",
-    "snippet": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-    "snippet": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-    "snippet": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-    "snippet": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-    "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-    "snippet": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-    "snippet": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "WORLD",
     "title": "Why $20 durians are now being sold at half price - or given away for free",
     "snippet": "As Malaysian durians are being sold at throwaway prices, farmers worry about their livelihoods.",
@@ -545,6 +497,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+    "snippet": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Ford rehires human engineers after AI fails to match quality checks",
     "snippet": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
     "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
@@ -572,22 +532,6 @@
     "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
     "snippet": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.",
     "link": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Fears energy bill rise mean people 'surviving rather than living'",
-    "snippet": "People in a Lancashire town say they \"don't know where the money will come from\" if bills go up.",
-    "link": "https://www.bbc.co.uk/news/articles/cjwg71zxjz1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "How much should we be prepared to pay for our food?",
-    "snippet": "A chorus of people say that rather than capping prices, consumers should consider spending more",
-    "link": "https://www.bbc.co.uk/news/articles/c3ryqywd97do?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-29",
     "source": "feeds.bbci.co.uk"
   },
@@ -712,18 +656,10 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
+    "category": "TECH",
     "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
     "snippet": "Apple said it had \"never seen a component price increase this much, this quickly\".",
     "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-    "snippet": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-    "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-25",
     "source": "feeds.bbci.co.uk"
   },
@@ -772,14 +708,6 @@
     "title": "Google's YouTube settles social media addiction case with teen",
     "snippet": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
     "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Meta halts worker tracking for AI training due to privacy fears",
-    "snippet": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
-    "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-23",
     "source": "feeds.bbci.co.uk"
   },
@@ -893,14 +821,6 @@
     "snippet": "What impact might shortages have on our summer holidays - and what could be done about it?",
     "link": "https://www.bbc.co.uk/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
-    "snippet": "Scams have exploded over the last few years. Can countries and companies come together to turn the tables on the scammers?",
-    "link": "https://www.bbc.co.uk/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-04-18",
     "source": "feeds.bbci.co.uk"
   }
 ]
