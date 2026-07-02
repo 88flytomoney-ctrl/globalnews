@@ -177,6 +177,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "'We give up to £400': How much should you gift at a wedding?",
+    "snippet": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+    "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Pubs allowed to stay open until 5am for England Mexico match",
     "snippet": "The government had initially said it would not relax licensing laws further for the World Cup.",
     "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
@@ -196,6 +204,14 @@
     "title": "World Cup boom falters as US hospitality jobs fall in June",
     "snippet": "There had been early signs of a jobs boom from the tournament, but hospitality jobs declined in June.",
     "link": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "snippet": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-02",
     "source": "feeds.bbci.co.uk"
   },
@@ -286,6 +302,14 @@
     "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-02",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Private space pilots are flying orbital missions for the US Space Force",
+    "snippet": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the US military.",
+    "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+    "date": "2026-07-02",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -569,14 +593,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "'We had to use a food bank after university’",
-    "snippet": "Steven Crichton and his partner Kat skipped meals to make sure their children \"had full lunch boxes\".",
-    "link": "https://www.bbc.co.uk/news/videos/crel0y74dr9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Trump's $1.4bn crypto earnings revealed",
     "snippet": "US President Donald Trump made more than $1.4 bn (£750m) last year from business dealings in cryptocurrency, according to his mandatory financial report for 2025.",
     "link": "https://www.bbc.co.uk/news/videos/c39ywez8r1ko?at_medium=RSS&at_campaign=rss",
@@ -612,14 +628,6 @@
     "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
     "snippet": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
     "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-    "date": "2026-07-01",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-    "snippet": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
-    "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
     "date": "2026-07-01",
     "source": "techcrunch.com"
   },
@@ -676,22 +684,6 @@
     "title": "Cruise passengers 'stranded' after air con failure to be flown home",
     "snippet": "Tui has apologised and told passengers it has arranged flights home for tomorrow and a full refund.",
     "link": "https://www.bbc.co.uk/news/articles/cy0639x4dp8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Chinese tycoon sentenced to 30 years in US jail",
-    "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Homes harder to sell as high mortgage rates frustrate buyers",
-    "snippet": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
-    "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -757,14 +749,6 @@
     "snippet": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
     "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-06-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Teens who hacked TfL were known to police years before cyber-attack",
-    "snippet": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-25",
     "source": "feeds.bbci.co.uk"
   },
   {
