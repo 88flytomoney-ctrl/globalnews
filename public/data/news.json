@@ -1,81 +1,209 @@
 [
   {
     "category": "WORLD",
-    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-    "snippet": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+    "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+    "snippet": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+    "snippet": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+    "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+    "snippet": "Some of the famous guests have been posting on social media about the big day in New York.",
+    "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Australia probes mystery space balls that washed up on beach",
+    "snippet": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+    "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+    "snippet": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+    "snippet": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
+    "snippet": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
+    "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Chinese underground church figure Jin Mingri freed from prison",
+    "snippet": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+    "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
+    "snippet": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
+    "link": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Trump thanks Fifa for spending USA striker's ban",
+    "snippet": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "How Iran's new regime is very different to what came before",
+    "snippet": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
+    "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+    "snippet": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Emotion and politics merge in Tehran at funeral of former supreme leader",
+    "snippet": "The BBC's chief international correspondent Lyse Doucet is in Tehran, where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+    "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Scorching heat and delays: How Washington DC marked America 250",
+    "snippet": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
+    "link": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+    "snippet": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+    "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "EasyJet reaches 'agreement in principle' over potential takeover",
+    "snippet": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Clay, kilns and the cost of survival for tile makers",
+    "snippet": "While some firms lean into their heritage, others are modernising in the face of economic pressures.",
+    "link": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Uber’s European expansion plans may have hit a speed bump",
+    "snippet": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+    "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+    "date": "2026-07-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+    "snippet": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+    "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+    "date": "2026-07-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "snippet": "These may be the last days of Amazon’s Mechanical Turk.",
+    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "date": "2026-07-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "5 desk gadgets that can make your workday better",
+    "snippet": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+    "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+    "date": "2026-07-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+    "snippet": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+    "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+    "date": "2026-07-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+    "snippet": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+    "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+    "date": "2026-07-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "WORLD",
+    "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+    "snippet": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-    "snippet": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-    "snippet": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Former chess champion Kramnik banned over cheating remarks",
-    "snippet": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
-    "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Injury ends Williams' Wimbledon comeback",
-    "snippet": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-    "snippet": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Row after Indian state drops eggs from school lunch menu",
-    "snippet": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
-    "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-    "snippet": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
-    "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-    "snippet": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-    "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
-    "snippet": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
+    "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+    "snippet": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04",
     "source": "feeds.bbci.co.uk"
   },
@@ -84,14 +212,6 @@
     "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
     "snippet": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
     "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-    "snippet": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04",
     "source": "feeds.bbci.co.uk"
   },
@@ -136,6 +256,22 @@
     "source": "feeds.bbci.co.uk"
   },
   {
+    "category": "BUSINESS",
+    "title": "What Sky buying ITV could mean for your favourite shows",
+    "snippet": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
+    "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "What could new rights for unmarried couples mean for your money?",
+    "snippet": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
     "category": "TECH",
     "title": "Tech Now",
     "snippet": "Adrienne Murray meets the team using technology to preserve a historic warship in Sweden.",
@@ -174,46 +310,6 @@
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "date": "2026-07-04",
     "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-    "snippet": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
-    "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-    "snippet": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-    "snippet": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "'It's so hot' - Dangerous hot weather grips parts of the US",
-    "snippet": "More than 165 million people were sweltering on Friday under record temperatures along the US East Coast and Midwest, according to the US National Weather Service.",
-    "link": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-    "snippet": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
-    "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03",
-    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
@@ -369,14 +465,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-    "snippet": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Did this AI anti-drug video make drugs look appealing?",
     "snippet": "Hong Kong’s Correctional Services Department removed an AI-generated K-pop video, after facing backlash that it made substances look too appealing.",
     "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
@@ -388,14 +476,6 @@
     "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
     "snippet": "The government had initially said it would not relax licensing laws further for the World Cup.",
     "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "snippet": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-02",
     "source": "feeds.bbci.co.uk"
   },
@@ -465,6 +545,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "snippet": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Can our fridges cope with heatwaves?",
     "snippet": "An expert says many can not handle the high temperatures we have been experiencing.",
     "link": "https://www.bbc.co.uk/news/videos/c8r24vn1r7eo?at_medium=RSS&at_campaign=rss",
@@ -528,54 +616,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "date": "2026-07-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-    "snippet": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
-    "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-    "date": "2026-07-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Meta quietly launches vibe-coded gaming app Pocket",
-    "snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "date": "2026-07-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-    "snippet": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services.",
-    "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-    "date": "2026-07-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "date": "2026-07-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-    "snippet": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.",
-    "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-    "date": "2026-07-02",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "BUSINESS",
     "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
     "snippet": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
@@ -620,22 +660,6 @@
     "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
     "snippet": "The sweeping restructuring, approved by a court, will see steep rent cuts on most remaining stores.",
     "link": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Trump made more than $1bn from crypto in first year back in office",
-    "snippet": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
-    "snippet": "Humphrey Smith had been at the helm of the Tadcaster brewer since the 1980s.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-01",
     "source": "feeds.bbci.co.uk"
   },
