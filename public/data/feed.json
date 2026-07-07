@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-07T22:46:03.519251+00:00",
+  "generatedAt": "2026-07-07T23:13:19.210128+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 63542.4297,
+      "current": 63575.0117,
       "prev5d": 61485.3008,
-      "pctChange": 3.35,
+      "pctChange": 3.4,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4112.5,
+      "current": 4107.6001,
       "prev5d": 4022.3,
-      "pctChange": 2.24,
+      "pctChange": 2.12,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 72.39,
+      "current": 72.44,
       "prev5d": 70.75,
-      "pctChange": 2.32,
+      "pctChange": 2.39,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8658,
-      "prev5d": 0.8665,
-      "pctChange": -0.08,
+      "prev5d": 0.8662,
+      "pctChange": -0.05,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0481,
-      "prev5d": 0.0484,
-      "pctChange": -0.64,
+      "prev5d": 0.0482,
+      "pctChange": -0.27,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1118,
+      "current": 0.1117,
       "prev5d": 0.1117,
-      "pctChange": 0.07,
+      "pctChange": 0.06,
       "isForex": true
     }
   ],
@@ -48,7 +48,7 @@
     {
       "category": "WORLD",
       "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "snippet": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "snippet": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
       "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-07",
       "source": "feeds.bbci.co.uk"
@@ -218,6 +218,14 @@
       "title": "E-bike injury payouts top £110m and push up insurance premiums",
       "snippet": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
       "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'You have to say no': Families struggling with holiday food costs",
+      "snippet": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
+      "link": "https://www.bbc.co.uk/news/articles/ceqder3dydxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-07",
       "source": "feeds.bbci.co.uk"
     },
