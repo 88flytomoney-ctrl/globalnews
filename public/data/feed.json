@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-08T22:46:09.210329+00:00",
+  "generatedAt": "2026-07-08T23:21:40.433081+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 62268.1211,
+      "current": 62191.8008,
       "prev5d": 62544.1992,
-      "pctChange": -0.44,
+      "pctChange": -0.56,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4086.1001,
+      "current": 4086.3999,
       "prev5d": 4022.8999,
-      "pctChange": 1.57,
+      "pctChange": 1.58,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 74.48,
+      "current": 74.54,
       "prev5d": 69.5,
-      "pctChange": 7.17,
+      "pctChange": 7.25,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8683,
+      "current": 0.8672,
       "prev5d": 0.8662,
-      "pctChange": 0.24,
+      "pctChange": 0.12,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.048,
-      "prev5d": 0.0482,
-      "pctChange": -0.52,
+      "prev5d": 0.0483,
+      "pctChange": -0.59,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1117,
-      "prev5d": 0.1117,
-      "pctChange": -0.02,
+      "prev5d": 0.112,
+      "pctChange": -0.34,
       "isForex": true
     }
   ],
@@ -231,6 +231,22 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Why electric cars cost more to insure - and what's being done about it",
+      "snippet": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+      "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "I run the UK's biggest bank, here are five ways to manage your money",
+      "snippet": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
       "snippet": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
       "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
@@ -250,6 +266,14 @@
       "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
       "snippet": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
       "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "snippet": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-08",
       "source": "feeds.bbci.co.uk"
     },
@@ -324,6 +348,14 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-08",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5 million SEC settlement",
+      "snippet": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now called X) has come to an end.",
+      "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+      "date": "2026-07-08",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -478,14 +510,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
-      "snippet": "Build a new kind of rocket engine and the world will beat a path to your door.",
-      "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
-      "date": "2026-07-08",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
       "snippet": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
@@ -559,14 +583,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Volunteers racing to save surplus Silverstone food",
-      "snippet": "A Towcester community larder is collecting produce from the circuit following the Grand Prix.",
-      "link": "https://www.bbc.co.uk/news/articles/czrxx44e2ndo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "People Fixing The World",
       "snippet": "The people turning life experience into business ideas with funding and other support",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8t0z?at_medium=RSS&at_campaign=rss",
@@ -634,22 +650,6 @@
       "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
       "snippet": "Sky boss Dana Strong's comments came as the channel announces it is buying ITV's media and entertainment divisions in a £1.6bn deal.",
       "link": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-      "snippet": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-      "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
-      "snippet": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
-      "link": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-06",
       "source": "feeds.bbci.co.uk"
     },
