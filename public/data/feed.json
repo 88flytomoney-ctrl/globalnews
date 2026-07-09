@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-07-09T22:46:04.852995+00:00",
+  "generatedAt": "2026-07-09T23:34:27.020171+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 63330.5898,
+      "current": 63133.3906,
       "prev5d": 63088.3047,
-      "pctChange": 0.38,
+      "pctChange": 0.07,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4132.8999,
+      "current": 4131.7002,
       "prev5d": 4068.3,
-      "pctChange": 1.59,
+      "pctChange": 1.56,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 71.82,
+      "current": 71.79,
       "prev5d": 68.58,
-      "pctChange": 4.72,
+      "pctChange": 4.68,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8664,
-      "prev5d": 0.8662,
-      "pctChange": 0.03,
+      "current": 0.867,
+      "prev5d": 0.8656,
+      "pctChange": 0.17,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.048,
-      "prev5d": 0.0483,
-      "pctChange": -0.51,
+      "prev5d": 0.0486,
+      "pctChange": -1.16,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1116,
-      "prev5d": 0.112,
-      "pctChange": -0.42,
+      "prev5d": 0.1116,
+      "pctChange": -0.04,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "Tehran launches more strikes after second round of US attacks in southern Iran",
+      "title": "US and Iran trade attacks as Khamenei is buried",
       "snippet": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-09",
@@ -55,17 +55,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "snippet": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "snippet": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+      "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -87,17 +79,33 @@
     },
     {
       "category": "WORLD",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "snippet": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
-      "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+      "snippet": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+      "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-09",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+      "snippet": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
+      "link": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+      "snippet": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+      "snippet": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
+      "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -135,9 +143,33 @@
     },
     {
       "category": "WORLD",
-      "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-      "snippet": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
-      "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+      "title": "All the best looks from Paris Haute Couture Week 2026",
+      "snippet": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "We saved £6,000 on holidays by swapping homes with strangers",
+      "snippet": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "snippet": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+      "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
+      "snippet": "As a society, we take mothers for granted and raising children is a thankless job, says actor Kalki Koechlin.",
+      "link": "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -207,7 +239,7 @@
     },
     {
       "category": "TECH",
-      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
       "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
       "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "date": "2026-07-09",
@@ -642,14 +674,6 @@
       "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
       "snippet": "Around the world women are marking their split with new - or repurposed engagement - rings.",
       "link": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-      "snippet": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-06",
       "source": "feeds.bbci.co.uk"
     },
