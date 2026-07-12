@@ -1,79 +1,191 @@
 {
-  "generatedAt": "2026-07-11T23:06:58.954638+00:00",
+  "generatedAt": "2026-07-12T22:45:58.375936+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 64198.6719,
-      "prev5d": 63995.0156,
-      "pctChange": 0.32,
+      "current": 63758.0,
+      "prev5d": 63297.3945,
+      "pctChange": 0.73,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4104.1001,
-      "prev5d": 4112.7002,
-      "pctChange": -0.21,
+      "current": 4092.0,
+      "prev5d": 4155.1001,
+      "pctChange": -1.52,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 71.41,
-      "prev5d": 68.69,
-      "pctChange": 3.96,
+      "current": 73.61,
+      "prev5d": 68.55,
+      "pctChange": 7.38,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.863,
+      "current": 0.8639,
       "prev5d": 0.8655,
-      "pctChange": -0.29,
+      "pctChange": -0.19,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0482,
+      "current": 0.0481,
       "prev5d": 0.0486,
-      "pctChange": -0.71,
+      "pctChange": -0.89,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1117,
-      "prev5d": 0.1116,
-      "pctChange": 0.08,
+      "current": 0.1119,
+      "prev5d": 0.1115,
+      "pctChange": 0.38,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "China's second typhoon in a week makes landfall",
-      "snippet": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
+      "title": "At least 27 killed in Bangkok bar fire",
+      "snippet": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "snippet": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "snippet": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "snippet": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "snippet": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "snippet": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "snippet": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "snippet": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "snippet": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "snippet": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "snippet": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "snippet": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "At least two killed in Toronto street festival shooting",
+      "snippet": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "snippet": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "snippet": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+      "snippet": "The BBC's Nick Beake sees homes razed to the ground and \"a sea of black\" in Bédar.",
+      "link": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "snippet": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
+      "link": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Londoners face hidden poverty premium, study says",
+      "snippet": "Low-income households in London are facing an additional burden of over £600 a year simply to access standard goods and services.",
+      "link": "https://www.bbc.co.uk/news/articles/c33yxe2ey22o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "date": "2026-07-12",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "snippet": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a ",
+      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "date": "2026-07-12",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "snippet": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
@@ -90,6 +202,14 @@
       "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
       "snippet": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
       "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "snippet": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
@@ -119,73 +239,25 @@
     },
     {
       "category": "WORLD",
-      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-      "snippet": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "snippet": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
+      "link": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "snippet": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "snippet": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
+      "link": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "snippet": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Australian killer's final police interview footage released",
-      "snippet": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Small plane crash in Bahamas kills 10 people",
-      "snippet": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Will Trump Accounts deliver for American children?",
-      "snippet": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-      "snippet": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-      "link": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "title": "How a viral seal called Neil caused mayhem in Australia",
+      "snippet": "The five-year-old elephant seal attracted global attention during his recent time ashore in southern Tasmania.",
+      "link": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
@@ -207,9 +279,33 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+      "snippet": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+      "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Will Trump Accounts deliver for American children?",
+      "snippet": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "'We've saved 34 tonnes of food and a carpet'",
       "snippet": "Two community groups say they have welcomed \"record attendances\" and given away many 'random items\".",
       "link": "https://www.bbc.co.uk/news/articles/c5yznlrxeyeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
@@ -271,30 +367,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "snippet": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "snippet": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Meet the crypto billionaires building a world where money buys you a vote",
       "snippet": "They think democracy has run its course - so they're setting up their own nations instead.",
       "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
@@ -306,46 +378,6 @@
       "title": "The photo that shows who's really on top in Le Pen's party",
       "snippet": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
       "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Dating can be hard in South Korea - so the monks stepped in",
-      "snippet": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
-      "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-      "snippet": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: Inside the 30-hour dating retreat run by monks",
-      "snippet": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
-      "link": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Boxy forms and odd lights: US declassifies more UFO files",
-      "snippet": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
-      "link": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-      "snippet": "A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.",
-      "link": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -430,10 +462,10 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Why has the price of fish and chips gone up?",
-      "snippet": "One Dorset fish and chip shop says VAT, the war in Ukraine and energy prices are pushing up costs.",
-      "link": "https://www.bbc.co.uk/news/articles/c0ly5g3854xo?at_medium=RSS&at_campaign=rss",
+      "category": "TECH",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -546,22 +578,6 @@
       "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
       "snippet": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
       "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "snippet": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-      "snippet": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
-      "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
       "date": "2026-07-10",
       "source": "techcrunch.com"
     },
@@ -690,22 +706,6 @@
       "title": "Australia dock workers call for 28-hour week in AI talks",
       "snippet": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
       "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
-      "snippet": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
-      "link": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Airbnb data identifies illegal social home sublets",
-      "snippet": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
-      "link": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-08",
       "source": "feeds.bbci.co.uk"
     },
