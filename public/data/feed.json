@@ -1,111 +1,367 @@
 {
-  "generatedAt": "2026-07-12T23:06:27.966878+00:00",
+  "generatedAt": "2026-07-13T22:46:06.935050+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 63779.1094,
-      "prev5d": 63297.3945,
-      "pctChange": 0.76,
+      "current": 63980.4805,
+      "prev5d": 62257.5742,
+      "pctChange": 2.77,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4084.8,
+      "current": 4012.2,
       "prev5d": 4155.1001,
-      "pctChange": -1.69,
+      "pctChange": -3.44,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 73.67,
+      "current": 78.17,
       "prev5d": 68.55,
-      "pctChange": 7.47,
+      "pctChange": 14.03,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8639,
+      "current": 0.8644,
       "prev5d": 0.8655,
-      "pctChange": -0.19,
+      "pctChange": -0.13,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0481,
+      "current": 0.048,
       "prev5d": 0.0486,
-      "pctChange": -0.91,
+      "pctChange": -1.18,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1119,
+      "current": 0.112,
       "prev5d": 0.1115,
-      "pctChange": 0.38,
+      "pctChange": 0.5,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "At least 27 killed in Bangkok bar fire",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "snippet": "The US military later said it had started the third consecutive night of strikes on Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "snippet": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Hungary parliament votes to remove president from office",
+      "snippet": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
       "snippet": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
       "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "snippet": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "snippet": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "snippet": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "snippet": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+      "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "snippet": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-      "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "snippet": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "snippet": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "snippet": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+      "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "snippet": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "snippet": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+      "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
-      "snippet": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
+      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+      "snippet": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "snippet": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "title": "Ted Lasso actor Fernandez makes professional debut",
+      "snippet": "Ted Lasso actor Cristo Fernandez makes his professional football debut for American second-tier side El Paso Locomotive.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg7me5kdk1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+      "snippet": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
+      "snippet": "Thousands have lost their homes as flash floods and landslides have hit large parts of the country.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Man wanted in connection with murder arrested in Jordan",
+      "snippet": "The body of Jamey Carney was discovered at a property in Killarney, County Kerry, last week.",
+      "link": "https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
+      "snippet": "The actor built up a long string of screen credits over a five-decade career.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+      "snippet": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+      "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "How Indian scientists are mapping the brain's last frontier",
+      "snippet": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
+      "link": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+      "snippet": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
+      "link": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "snippet": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+      "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Bombs, blood, ambushes - football coaching with the army",
+      "snippet": "From kidnappings to invasions, military training takes football coaches out of their comfort zone as part of the Football Association of Wales' Uefa pro licence course.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd7we8we4xgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+      "snippet": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
+      "link": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "People flee Bangkok bar as huge flames shoot out from doorway",
+      "snippet": "At least 28 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
+      "link": "https://www.bbc.co.uk/news/videos/cy5vx2e45xdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
+      "snippet": "The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand.",
+      "link": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+      "snippet": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
+      "snippet": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
+      "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Demand for baby bank growing faster than donations",
+      "snippet": "The charity says it gave out 36,400 items of child clothing and 536 tubs of formula milk in 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzeg04n38o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "snippet": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "snippet": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "snippet": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple ",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "snippet": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "snippet": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "snippet": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Should AI help you get away with killing your spouse?",
+      "snippet": "What does a world of total user-aligned AI actually look like?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "snippet": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
+      "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "snippet": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "snippet": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in firebal",
+      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+      "snippet": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
+      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "snippet": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
+      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "date": "2026-07-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "Infantino opens door to 64-team World Cup",
+      "snippet": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
@@ -119,25 +375,17 @@
     },
     {
       "category": "WORLD",
-      "title": "At least two killed in Toronto street festival shooting",
-      "snippet": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "snippet": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
-      "snippet": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
-      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "snippet": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "snippet": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
+      "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
@@ -150,10 +398,18 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "People flee as Russian strike hits near Ukraine coffee shop",
-      "snippet": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
-      "link": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "How to change bank, energy or broadband provider and save money",
+      "snippet": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "snippet": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-12",
       "source": "feeds.bbci.co.uk"
     },
@@ -180,102 +436,6 @@
       "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
       "date": "2026-07-12",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "snippet": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "snippet": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "snippet": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "snippet": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "snippet": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "snippet": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-      "snippet": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
-      "snippet": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
-      "link": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "How men with female surnames are standing up to ridicule in Kenya",
-      "snippet": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
-      "link": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "How a viral seal called Neil caused mayhem in Australia",
-      "snippet": "The five-year-old elephant seal attracted global attention during his recent time ashore in southern Tasmania.",
-      "link": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
-      "snippet": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
-      "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Newly-released video shows Peter Falconio's killer questioned",
-      "snippet": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.",
-      "link": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -328,7 +488,7 @@
     {
       "category": "TECH",
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-      "snippet": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed",
+      "snippet": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
       "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
       "date": "2026-07-11",
       "source": "techcrunch.com"
@@ -364,22 +524,6 @@
       "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
       "date": "2026-07-11",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "snippet": "They think democracy has run its course - so they're setting up their own nations instead.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "snippet": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -446,22 +590,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-      "snippet": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Drivers urged to shop around amid 11p fuel gap",
-      "snippet": "The RAC says motorists are missing out on savings because many are not using price comparison tools.",
-      "link": "https://www.bbc.co.uk/news/articles/cg53l34g8p3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
       "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
@@ -476,110 +604,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-10",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "snippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "snippet": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "snippet": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
-      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "snippet": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your o",
-      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "China is catching up to Elon Musk’s reusable rockets",
-      "snippet": "China's state-owned space company recovered its first orbital rocket booster after launch.",
-      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Disney+ is considering a free streaming tier, report says",
-      "snippet": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
-      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
-      "snippet": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
-      "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "snippet": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
-      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Netflix could be planning ‘always-on’ live TV channels",
-      "snippet": "Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
-      "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "snippet": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European ",
-      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "snippet": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
-      "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "date": "2026-07-10",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
@@ -655,62 +679,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-      "snippet": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
-      "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-      "snippet": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-      "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-      "snippet": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
-      "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-      "snippet": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
-      "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-      "snippet": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
-      "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "snippet": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-      "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Australia dock workers call for 28-hour week in AI talks",
-      "snippet": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-      "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Wealthy AI workers send San Francisco house prices soaring",
       "snippet": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
       "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
@@ -726,11 +694,11 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-      "snippet": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-      "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-07",
+      "category": "TECH",
+      "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+      "snippet": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+      "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-08",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -855,42 +823,10 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Why I sold my business to my staff",
-      "snippet": "As more US company owners reach retirement age many are selling up to their employees.",
-      "link": "https://www.bbc.co.uk/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "India's 'blue gold' starts a new drinks industry",
-      "snippet": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "New candy stores are popping up across NYC. Why?",
-      "snippet": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
-      "link": "https://www.bbc.co.uk/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "The furious dispute over what caused Air India flight 171 to crash",
       "snippet": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
       "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "snippet": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
-      "link": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-08",
       "source": "feeds.bbci.co.uk"
     },
     {
