@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-15T22:46:02.183193+00:00",
+  "generatedAt": "2026-07-15T23:10:28.844265+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 64877.4883,
+      "current": 64889.9883,
       "prev5d": 64127.1406,
-      "pctChange": 1.17,
+      "pctChange": 1.19,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4067.2,
+      "current": 4065.2,
       "prev5d": 4070.8999,
-      "pctChange": -0.09,
+      "pctChange": -0.14,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 80.39,
+      "current": 80.25,
       "prev5d": 73.52,
-      "pctChange": 9.34,
+      "pctChange": 9.15,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8635,
-      "prev5d": 0.8663,
-      "pctChange": -0.32,
+      "current": 0.8634,
+      "prev5d": 0.8678,
+      "pctChange": -0.5,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0481,
-      "prev5d": 0.0483,
-      "pctChange": -0.41,
+      "prev5d": 0.0482,
+      "pctChange": -0.26,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1112,
-      "prev5d": 0.1118,
-      "pctChange": -0.56,
+      "prev5d": 0.1117,
+      "pctChange": -0.44,
       "isForex": true
     }
   ],
@@ -63,9 +63,25 @@
     },
     {
       "category": "WORLD",
+      "title": "Argentina face fine for Falklands banner in semi-final win",
+      "snippet": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "More people around the world now favour China over the US, Pew study suggests",
       "snippet": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
       "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US military to start testosterone  testing, Hegseth says",
+      "snippet": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-15",
       "source": "feeds.bbci.co.uk"
     },
@@ -202,6 +218,14 @@
       "title": "Celebrations as Gibraltar-Spain border fence removed",
       "snippet": "The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.",
       "link": "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+      "snippet": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-15",
       "source": "feeds.bbci.co.uk"
     },
@@ -487,14 +511,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "snippet": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Israeli strike on police post in north Gaza kills seven, officials say",
       "snippet": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
       "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
@@ -519,9 +535,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-      "snippet": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "snippet": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -631,14 +647,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "snippet": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Woman's Hour",
       "snippet": "We hear about a new study exploring the impact hormones have on women with ADHD.",
       "link": "https://www.bbc.co.uk/sounds/play/m002yx3c?at_medium=RSS&at_campaign=rss",
@@ -702,7 +710,7 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
+      "category": "BUSINESS",
       "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
       "snippet": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
       "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
