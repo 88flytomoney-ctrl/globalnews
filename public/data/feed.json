@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-21T22:46:51.163868+00:00",
+  "generatedAt": "2026-07-21T23:09:21.485693+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 66227.0391,
+      "current": 66247.6484,
       "prev5d": 63789.2812,
-      "pctChange": 3.82,
+      "pctChange": 3.85,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4087.7,
+      "current": 4084.8999,
       "prev5d": 4061.1001,
-      "pctChange": 0.65,
+      "pctChange": 0.59,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 84.65,
+      "current": 84.7,
       "prev5d": 79.34,
-      "pctChange": 6.69,
+      "pctChange": 6.76,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8623,
-      "prev5d": 0.865,
-      "pctChange": -0.31,
+      "prev5d": 0.8638,
+      "pctChange": -0.17,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0478,
       "prev5d": 0.0483,
-      "pctChange": -0.93,
+      "pctChange": -1.1,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1118,
-      "prev5d": 0.1121,
-      "pctChange": -0.25,
+      "prev5d": 0.1117,
+      "pctChange": 0.13,
       "isForex": true
     }
   ],
@@ -306,6 +306,14 @@
       "title": "Is the internet broken?",
       "snippet": "75% of the world is online, and in many ways it makes all our lives better. But faced with AI slop, misinformation and toxicity, many people are asking: Is there a better way?",
       "link": "https://www.bbc.co.uk/videos/c0qv07pzyepo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Will AI help you do your job or replace you?",
+      "snippet": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-21",
       "source": "feeds.bbci.co.uk"
     },
@@ -834,14 +842,6 @@
       "title": "Meta pulls new AI image feature after days of backlash",
       "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
       "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-      "snippet": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
-      "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-11",
       "source": "feeds.bbci.co.uk"
     },
