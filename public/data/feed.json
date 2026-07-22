@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-22T22:46:06.710038+00:00",
+  "generatedAt": "2026-07-22T23:14:34.896149+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 65919.0,
+      "current": 65890.6016,
       "prev5d": 63899.4609,
-      "pctChange": 3.16,
+      "pctChange": 3.12,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4129.3999,
+      "current": 4120.8999,
       "prev5d": 4044.0,
-      "pctChange": 2.11,
+      "pctChange": 1.9,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 88.3,
+      "current": 87.88,
       "prev5d": 79.6,
-      "pctChange": 10.93,
+      "pctChange": 10.4,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8639,
-      "prev5d": 0.8638,
-      "pctChange": 0.01,
+      "current": 0.8633,
+      "prev5d": 0.8634,
+      "pctChange": -0.02,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0478,
-      "prev5d": 0.0483,
-      "pctChange": -1.06,
+      "prev5d": 0.0484,
+      "pctChange": -1.12,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1118,
-      "prev5d": 0.1117,
-      "pctChange": 0.08,
+      "current": 0.1117,
+      "prev5d": 0.1112,
+      "pctChange": 0.49,
       "isForex": true
     }
   ],
@@ -210,6 +210,14 @@
       "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
       "snippet": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
       "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Watch: What we know about the US-Saudi nuclear deal",
+      "snippet": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+      "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-22",
       "source": "feeds.bbci.co.uk"
     },
@@ -538,14 +546,6 @@
       "title": "Watch Texas police officer pull man from burning car",
       "snippet": "Bodycam and dashcam footage shows a police officer rescue a man seconds before his car was engulfed in flames in Texas.",
       "link": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-21",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
-      "snippet": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
-      "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-21",
       "source": "feeds.bbci.co.uk"
     },
