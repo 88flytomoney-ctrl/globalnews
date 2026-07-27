@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-27T22:46:10.611033+00:00",
+  "generatedAt": "2026-07-27T23:18:05.843330+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 64068.2891,
+      "current": 63728.0781,
       "prev5d": 66100.7969,
-      "pctChange": -3.07,
+      "pctChange": -3.59,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4076.2,
+      "current": 4075.8,
       "prev5d": 4010.3,
-      "pctChange": 1.64,
+      "pctChange": 1.63,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 81.85,
+      "current": 82.13,
       "prev5d": 83.23,
-      "pctChange": -1.66,
+      "pctChange": -1.32,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8627,
-      "prev5d": 0.8638,
-      "pctChange": -0.13,
+      "prev5d": 0.8637,
+      "pctChange": -0.12,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0476,
-      "prev5d": 0.0482,
-      "pctChange": -1.24,
+      "prev5d": 0.0483,
+      "pctChange": -1.25,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1121,
-      "prev5d": 0.1116,
-      "pctChange": 0.45,
+      "prev5d": 0.1117,
+      "pctChange": 0.35,
       "isForex": true
     }
   ],
@@ -71,6 +71,14 @@
     },
     {
       "category": "WORLD",
+      "title": "A Japanese town wrestles with identity after protests over its first mosque",
+      "snippet": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+      "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
       "snippet": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
       "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
@@ -79,17 +87,9 @@
     },
     {
       "category": "WORLD",
-      "title": "US singer D4vd to go on trial for murder in death of teen",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
       "snippet": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
       "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "snippet": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -114,6 +114,14 @@
       "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
       "snippet": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
       "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "snippet": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -247,6 +255,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "New technical education routes to be offered at 14 in England",
+      "snippet": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Some people's chats with Claude AI found publicly available online",
       "snippet": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
       "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
@@ -274,6 +290,14 @@
       "title": "How wildfires in France and Spain might affect your travel plans",
       "snippet": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
       "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Is it time to stop using glue and labels on paper?",
+      "snippet": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+      "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -476,14 +500,6 @@
       "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "date": "2026-07-27",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-      "snippet": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-26",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
@@ -738,14 +754,6 @@
       "title": "Teenager drops social media addiction lawsuit against Meta",
       "snippet": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
       "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "snippet": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-22",
       "source": "feeds.bbci.co.uk"
     },
