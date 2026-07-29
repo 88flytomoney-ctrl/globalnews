@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-29T22:46:01.296890+00:00",
+  "generatedAt": "2026-07-29T23:11:36.669803+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 63938.4609,
+      "current": 63847.9805,
       "prev5d": 64098.4961,
-      "pctChange": -0.25,
+      "pctChange": -0.39,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4135.2998,
+      "current": 4148.6001,
       "prev5d": 4146.8999,
-      "pctChange": -0.28,
+      "pctChange": 0.04,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 84.46,
+      "current": 84.43,
       "prev5d": 86.83,
-      "pctChange": -2.73,
+      "pctChange": -2.76,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8626,
-      "prev5d": 0.8628,
-      "pctChange": -0.02,
+      "prev5d": 0.8638,
+      "pctChange": -0.14,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0477,
+      "current": 0.0478,
       "prev5d": 0.0481,
-      "pctChange": -0.65,
+      "pctChange": -0.63,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1111,
-      "prev5d": 0.1118,
-      "pctChange": -0.59,
+      "prev5d": 0.1117,
+      "pctChange": -0.58,
       "isForex": true
     }
   ],
@@ -231,6 +231,30 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Interest rates expected to be held again by Bank of England",
+      "snippet": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "What happens here has a big impact on your money",
+      "snippet": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+      "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+      "snippet": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+      "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
       "snippet": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
       "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
@@ -247,17 +271,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Charities unable to pay staff after fraud alert",
-      "snippet": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&at_campaign=rss",
+      "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
+      "snippet": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-29",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
-      "snippet": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
-      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "title": "Charities unable to pay staff after fraud alert",
+      "snippet": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -335,14 +359,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "What happens here has a big impact on your money",
-      "snippet": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
-      "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Middle-earners 'struggling' over schools bonus cap",
       "snippet": "A mum says not getting the back to school bonus is a \"kick in the teeth\" for working parents just above the income threshold.",
       "link": "https://www.bbc.co.uk/news/articles/cn5nygzpkqlo?at_medium=RSS&at_campaign=rss",
@@ -359,19 +375,27 @@
     },
     {
       "category": "BUSINESS",
-      "title": "'Why we are rescuing unpicked blackberries'",
-      "snippet": "Low-income households will benefit from blackberries being collected, a community group says.",
-      "link": "https://www.bbc.co.uk/news/videos/cqx7e3eyl8zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "1975: The world's first shop for left-handers",
       "snippet": "A London shop selling goods designed for left-handed people was doing a brisk trade.",
       "link": "https://www.bbc.co.uk/videos/cr47gvdk9n3o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-29",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "snippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "date": "2026-07-29",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "snippet": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "date": "2026-07-29",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -514,14 +538,6 @@
       "title": "As AI content floods the internet, Pangram raises $9M to detect it",
       "snippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
       "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "date": "2026-07-29",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "snippet": "The deal is Cyera's third acquisition this year.",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
       "date": "2026-07-29",
       "source": "techcrunch.com"
     },
@@ -671,25 +687,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "snippet": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "snippet": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Shabaz Asks: Are Billionaires Bad?",
       "snippet": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Some people's chats with Claude AI found to be publicly available online",
+      "snippet": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -700,14 +708,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-28",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "date": "2026-07-28",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
