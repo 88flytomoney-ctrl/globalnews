@@ -1,6 +1,14 @@
 [
   {
     "category": "WORLD",
+    "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+    "snippet": "Israel and Hamas have yet to comment on the announcement.",
+    "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Uefa to boycott World Cups if Fifa plans approved",
     "snippet": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposal",
     "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
@@ -121,14 +129,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-    "snippet": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
     "snippet": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
     "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
@@ -161,6 +161,30 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Thames Water boss says leakage targets 'not realistic'",
+    "snippet": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+    "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+    "snippet": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+    "snippet": "Shares of Apple plunged on a warning of slower sales in the coming months.",
+    "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Andy Burnham to give regional mayors share of income tax",
     "snippet": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
     "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
@@ -177,17 +201,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "British Airways flight called mayday on approach to Heathrow",
-    "snippet": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+    "title": "India wants to join the strawberry superpowers",
+    "snippet": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-30",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-    "snippet": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
+    "title": "British Airways flight called mayday on approach to Heathrow",
+    "snippet": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -201,9 +225,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "India wants to join the strawberry superpowers",
-    "snippet": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+    "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+    "snippet": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -273,6 +297,14 @@
   },
   {
     "category": "TECH",
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "snippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "date": "2026-07-30",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
     "title": "Investors love AI, as long as you’re a cloud host",
     "snippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
     "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
@@ -282,7 +314,7 @@
   {
     "category": "TECH",
     "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-    "snippet": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model—including court-ordered payment rule changes in the U.S.—weighed on its services business, even as the company topp",
+    "snippet": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company ",
     "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
     "date": "2026-07-30",
     "source": "techcrunch.com"
@@ -420,14 +452,6 @@
     "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
     "snippet": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
     "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "date": "2026-07-30",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "snippet": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-    "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
     "date": "2026-07-30",
     "source": "techcrunch.com"
   },
@@ -601,14 +625,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "OpenAI says its rogue AI tried to hack other companies",
-    "snippet": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "How cow showers and fans help farmers keep cattle cool",
     "snippet": "Dairy farmers are using cow showers and fans to protect cattle as hotter summers hit milk production.",
     "link": "https://www.bbc.co.uk/news/articles/c62qz2geq93o?at_medium=RSS&at_campaign=rss",
@@ -632,6 +648,14 @@
     "source": "feeds.bbci.co.uk"
   },
   {
+    "category": "TECH",
+    "title": "OpenAI says its rogue AI tried to hack other companies",
+    "snippet": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
     "category": "BUSINESS",
     "title": "'Don't wait until you want revenge' - why prenups are on the rise",
     "snippet": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
@@ -641,25 +665,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-    "snippet": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-    "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "The evidence that shows today's 20-somethings really do have it worse",
-    "snippet": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Shabaz Asks: Are Billionaires Bad?",
     "snippet": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
     "link": "https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+    "snippet": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+    "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-28",
     "source": "feeds.bbci.co.uk"
   },
