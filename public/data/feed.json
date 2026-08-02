@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-02T22:45:57.540661+00:00",
+  "generatedAt": "2026-08-02T23:07:35.846364+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 63486.6211,
+      "current": 63292.5703,
       "prev5d": 63871.3633,
-      "pctChange": -0.6,
+      "pctChange": -0.91,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4122.6001,
+      "current": 4121.5,
       "prev5d": 4074.5,
-      "pctChange": 1.18,
+      "pctChange": 1.15,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 80.8,
+      "current": 81.25,
       "prev5d": 82.61,
-      "pctChange": -2.19,
+      "pctChange": -1.65,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8603,
+      "current": 0.8604,
       "prev5d": 0.8635,
-      "pctChange": -0.37,
+      "pctChange": -0.36,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0496,
       "prev5d": 0.0479,
-      "pctChange": 3.53,
+      "pctChange": 3.6,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1104,
       "prev5d": 0.1119,
-      "pctChange": -1.38,
+      "pctChange": -1.35,
       "isForex": true
     }
   ],
@@ -297,7 +297,7 @@
       "category": "TECH",
       "title": "Tech Now",
       "snippet": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-01",
       "source": "feeds.bbci.co.uk"
     },
