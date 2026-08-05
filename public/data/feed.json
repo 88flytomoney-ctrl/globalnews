@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-05T22:46:00.909830+00:00",
+  "generatedAt": "2026-08-05T23:16:17.333309+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 64639.3516,
+      "current": 64595.6211,
       "prev5d": 62813.7461,
-      "pctChange": 2.91,
+      "pctChange": 2.84,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4309.5,
+      "current": 4313.2998,
       "prev5d": 4034.7,
-      "pctChange": 6.81,
+      "pctChange": 6.91,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 75.06,
+      "current": 75.1,
       "prev5d": 84.46,
-      "pctChange": -11.13,
+      "pctChange": -11.08,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8611,
-      "prev5d": 0.8635,
-      "pctChange": -0.28,
+      "current": 0.8606,
+      "prev5d": 0.8628,
+      "pctChange": -0.25,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0495,
-      "prev5d": 0.0478,
-      "pctChange": 3.43,
+      "prev5d": 0.048,
+      "pctChange": 3.11,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1103,
-      "prev5d": 0.112,
-      "pctChange": -1.53,
+      "prev5d": 0.1112,
+      "pctChange": -0.82,
       "isForex": true
     }
   ],
@@ -279,6 +279,14 @@
     },
     {
       "category": "TECH",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "snippet": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "date": "2026-08-05",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
       "title": "Nikita Bier steps down as X’s head of product",
       "snippet": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
       "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
@@ -288,7 +296,7 @@
     {
       "category": "TECH",
       "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-      "snippet": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "snippet": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
       "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
       "date": "2026-08-05",
       "source": "techcrunch.com"
@@ -426,14 +434,6 @@
       "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
       "snippet": "Climate nonprofits can again access their federal funding more than a year after the Trump EPA ordered Citibank to freeze their accounts.",
       "link": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-      "date": "2026-08-05",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Anthropic is hiring an AI chip design team",
-      "snippet": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
       "date": "2026-08-05",
       "source": "techcrunch.com"
     },
