@@ -1,6 +1,38 @@
 [
   {
     "category": "WORLD",
+    "title": "Meta fined $567m in largest child safety ruling against social media giant",
+    "snippet": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-07",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Two people convicted in relation to death of French streamer",
+    "snippet": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+    "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-07",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Trump imposes 15% tariff on key chip material to counter China",
+    "snippet": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-07",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Sudan's invisible children - born in war with no legal identity",
+    "snippet": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-07",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
     "snippet": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
     "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
@@ -36,6 +68,14 @@
     "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
     "snippet": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
     "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+    "snippet": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06",
     "source": "feeds.bbci.co.uk"
   },
@@ -169,22 +209,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Meta becomes latest firm to say its AI hacked another company",
-    "snippet": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-    "snippet": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-    "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "India is a nation of walkers - but its cities forgot them",
     "snippet": "India's top court has put the spotlight on unsafe footpaths and the country's forgotten pedestrians.",
     "link": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
@@ -217,6 +241,14 @@
   },
   {
     "category": "WORLD",
+    "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+    "snippet": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
+    "link": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "How Ukraine is taking the war 'deeper' into Russia",
     "snippet": "Ukrainian strikes have targeted key economic and military supply chains in recent weeks.",
     "link": "https://www.bbc.co.uk/news/videos/ce8l6x3r9gjo?at_medium=RSS&at_campaign=rss",
@@ -241,9 +273,25 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Argos is getting a makeover - but can it attract new shoppers?",
+    "snippet": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+    "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
     "snippet": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
     "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Why airlines are warning over lithium-ion batteries",
+    "snippet": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06",
     "source": "feeds.bbci.co.uk"
   },
@@ -265,6 +313,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Owner of bike maker Raleigh files for insolvency",
+    "snippet": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
     "snippet": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
     "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
@@ -273,9 +329,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Owner of bike maker Raleigh files for insolvency",
-    "snippet": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+    "title": "Meta becomes latest firm to say its AI hacked another company",
+    "snippet": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06",
     "source": "feeds.bbci.co.uk"
   },
@@ -337,9 +393,9 @@
   },
   {
     "category": "TECH",
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "date": "2026-08-06",
     "source": "techcrunch.com"
   },
@@ -505,30 +561,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Drone carrying explosives found at German airport, police say",
-    "snippet": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-    "snippet": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-    "snippet": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
-    "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
     "snippet": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
     "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
@@ -548,14 +580,6 @@
     "title": "AI or real? BBC analyses viral China disaster videos",
     "snippet": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
     "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-    "snippet": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
-    "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -617,46 +641,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-    "snippet": "Elon Musk told investors that people were \"underestimating\" his company.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-    "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-    "snippet": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
-    "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-    "snippet": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-    "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
-    "snippet": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
-    "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "UK petrol prices hit highest level since Iran war began",
     "snippet": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
@@ -668,6 +652,30 @@
     "title": "What happened to the internet?",
     "snippet": "Faced with a barrage of ads, misinformation, AI slop, toxicity and doom-scrolling, it can feel like the internet is kind of... broken. Is it? And what are the alternatives?",
     "link": "https://www.bbc.co.uk/videos/cvgwvkn84ggo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+    "snippet": "Elon Musk told investors that people were \"underestimating\" his company.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
+    "snippet": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+    "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
+    "snippet": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+    "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -688,42 +696,18 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-    "snippet": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-    "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-    "snippet": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
-    "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Paramount chief executive David Ellison breaks silence on Warner Bros mega merger",
-    "snippet": "The chief executive of Paramount-Skydance says criticism of $110bn (£82m) merger with Warner Bros. relies on outdated Hollywood model.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qvp2nkxd9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-    "snippet": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-04",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
     "title": "The cost of being single – and how friends are teaming up to beat it",
     "snippet": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
     "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+    "snippet": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+    "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-04",
     "source": "feeds.bbci.co.uk"
   },
@@ -763,7 +747,7 @@
     "category": "TECH",
     "title": "Tech Life",
     "snippet": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-04",
     "source": "feeds.bbci.co.uk"
   },
@@ -805,22 +789,6 @@
     "snippet": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
     "link": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-    "snippet": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-    "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-31",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "AI firms must answer for rogue bots, says boss of hacked company",
-    "snippet": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-31",
     "source": "feeds.bbci.co.uk"
   },
   {
