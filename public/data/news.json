@@ -1,57 +1,185 @@
 [
   {
     "category": "WORLD",
+    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "snippet": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+    "snippet": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Ancient Roman shipwreck discovered off Sicily coast",
+    "snippet": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+    "snippet": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+    "snippet": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Drones spotted over German base days after Leipzig bomb incident",
+    "snippet": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+    "snippet": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+    "snippet": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Puerto Rico rations water supplies due to intense drought",
+    "snippet": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
+    "snippet": "Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse.",
+    "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+    "snippet": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
+    "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+    "snippet": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+    "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+    "snippet": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
+    "snippet": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "snippet": "The AI-focused hedge fund is still making some big bets.",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "snippet": "Programming with Claude Code will soon require even less human oversight.",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "snippet": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The AI safety test is becoming a safety risk",
+    "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+    "snippet": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+    "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "snippet": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "date": "2026-08-09",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "WORLD",
+    "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+    "snippet": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+    "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
     "snippet": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
     "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-    "snippet": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-    "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-    "snippet": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Messi's father Jorge dies aged 68 after illness",
-    "snippet": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-    "snippet": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-    "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-    "snippet": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
-    "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-    "snippet": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-    "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -81,17 +209,17 @@
   },
   {
     "category": "WORLD",
-    "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-    "snippet": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+    "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+    "snippet": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-08",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "NBA forward Clarke's death due to effects of drugs",
-    "snippet": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+    "title": "Hundreds arrested over French wildfires, but who is to blame?",
+    "snippet": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -105,25 +233,9 @@
   },
   {
     "category": "WORLD",
-    "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-    "snippet": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-    "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-    "snippet": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-    "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Scale of devastation shocks US city's fire-seasoned residents",
-    "snippet": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+    "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+    "snippet": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -209,14 +321,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-    "snippet": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
     "snippet": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
     "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
@@ -236,30 +340,6 @@
     "title": "The phone book that led us to Assad's spy chief in hiding",
     "snippet": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
     "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-    "snippet": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "German airport drone-bomb: Could Russia be involved?",
-    "snippet": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Sudan's invisible children - born in war with no legal identity",
-    "snippet": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-07",
     "source": "feeds.bbci.co.uk"
   },
@@ -424,62 +504,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-    "snippet": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees alrea",
-    "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-    "date": "2026-08-07",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-    "snippet": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-    "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-    "date": "2026-08-07",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "snippet": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "date": "2026-08-07",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-    "snippet": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
-    "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-    "date": "2026-08-07",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-    "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "date": "2026-08-07",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "snippet": "Meta's total fine has racked up to $942 million in this case.",
-    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "date": "2026-08-07",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Argos is getting a makeover - but can it attract new shoppers?",
-    "snippet": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
-    "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-06",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
     "title": "Why airlines are warning over lithium-ion batteries",
     "snippet": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
@@ -585,6 +609,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Argos is getting a makeover - but can it attract new shoppers?",
+    "snippet": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+    "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Hospital staff work in pubs to balance cost pressure",
     "snippet": "The cost of parking at Medway Maritime Hospital has increased while shift wages have reduced by 20%.",
     "link": "https://www.bbc.co.uk/news/articles/cx2dp10gpndo?at_medium=RSS&at_campaign=rss",
@@ -606,14 +638,6 @@
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9m?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-06",
     "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "date": "2026-08-06",
-    "source": "techcrunch.com"
   },
   {
     "category": "BUSINESS",
