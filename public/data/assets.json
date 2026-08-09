@@ -1,9 +1,9 @@
 [
   {
     "name": "Bitcoin (USD)",
-    "current": 64955.3086,
+    "current": 64964.2617,
     "prev5d": 64055.9531,
-    "pctChange": 1.4,
+    "pctChange": 1.42,
     "isForex": false
   },
   {
@@ -15,9 +15,9 @@
   },
   {
     "name": "Crude Oil WTI",
-    "current": 78.63,
+    "current": 78.65,
     "prev5d": 80.34,
-    "pctChange": -2.13,
+    "pctChange": -2.1,
     "isForex": false
   },
   {
