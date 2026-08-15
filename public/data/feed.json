@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-14T22:37:25.814470+00:00",
+  "generatedAt": "2026-08-15T22:34:53.817493+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 62809.4102,
-      "prev5d": 64844.8867,
-      "pctChange": -3.14,
+      "current": 63083.9609,
+      "prev5d": 63910.5859,
+      "pctChange": -1.29,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4432.0,
+      "current": 4380.3999,
       "prev5d": 4340.7002,
-      "pctChange": 2.1,
+      "pctChange": 0.91,
       "isForex": false
     },
     {
@@ -25,15 +25,15 @@
     {
       "name": "100 HKD to CNY",
       "current": 0.8577,
-      "prev5d": 0.8603,
-      "pctChange": -0.3,
+      "prev5d": 0.86,
+      "pctChange": -0.27,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.049,
-      "prev5d": 0.0495,
-      "pctChange": -1.06,
+      "prev5d": 0.0497,
+      "pctChange": -1.4,
       "isForex": true
     },
     {
@@ -47,57 +47,201 @@
   "news": [
     {
       "category": "WORLD",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "snippet": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "snippet": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "snippet": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "snippet": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "snippet": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "snippet": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "snippet": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "snippet": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "snippet": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "snippet": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "snippet": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "snippet": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "snippet": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "snippet": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "snippet": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "snippet": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "snippet": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "snippet": "The fire burning through the major park was described as the country's worst in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "snippet": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "South Korea proposes talks to officially end war with North",
+      "snippet": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "snippet": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "snippet": "From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "snippet": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "snippet": "The annual contest has been taking place in Santa Rosa, California.",
+      "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "snippet": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
+      "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "date": "2026-08-15",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "date": "2026-08-15",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "snippet": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "date": "2026-08-15",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "date": "2026-08-15",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Every fusion startup that has raised over $100M",
+      "snippet": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "date": "2026-08-15",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "snippet": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -111,9 +255,41 @@
     },
     {
       "category": "WORLD",
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "snippet": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "snippet": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "snippet": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "snippet": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "snippet": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "snippet": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -127,41 +303,41 @@
     },
     {
       "category": "WORLD",
-      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "snippet": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "snippet": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "snippet": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "snippet": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "US missionary released following kidnap in Niger, Christian group says",
-      "snippet": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "snippet": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-      "snippet": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "title": "The Polygamist's author says women see themselves reflected in her Netflix hit",
+      "snippet": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "snippet": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "title": "How is parkour helping these seniors avoid injuries?",
+      "snippet": "In one of the world's fastest aging countries, older people are finding creative ways to stay healthy.",
+      "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -199,14 +375,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-      "snippet": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Selena Gomez sued for alleged fraud over mental health company",
       "snippet": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
       "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
@@ -218,6 +386,14 @@
       "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
       "snippet": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
       "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "snippet": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -236,6 +412,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvl0gp4963o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-14",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "snippet": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "snippet": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "date": "2026-08-14",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -334,74 +526,10 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "WORLD",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "snippet": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
+      "category": "BUSINESS",
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "snippet": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "snippet": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "snippet": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "snippet": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Air India to test all pilots for banned substances",
-      "snippet": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-      "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "snippet": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
-      "snippet": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
-      "snippet": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
-      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -508,70 +636,6 @@
       "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
       "date": "2026-08-13",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "snippet": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "date": "2026-08-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "date": "2026-08-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "date": "2026-08-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "date": "2026-08-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "date": "2026-08-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "date": "2026-08-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "snippet": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-12",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Australia's game-changing disability support is in crisis – what went wrong?",
-      "snippet": "The programme was game-changing for its users - but as costs balloon, its success has led to its downfall.",
-      "link": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-12",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -755,14 +819,6 @@
       "snippet": "Tech companies are not modelling their own claims of the technology giving people more free time.",
       "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "snippet": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-07",
       "source": "feeds.bbci.co.uk"
     },
     {
