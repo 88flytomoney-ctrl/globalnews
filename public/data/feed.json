@@ -1,50 +1,74 @@
 {
-  "generatedAt": "2026-08-26T22:46:01.605338+00:00",
+  "generatedAt": "2026-08-27T03:16:24.422782+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 78665.4219,
+      "current": 78641.3594,
       "prev5d": 78335.1875,
-      "pctChange": 0.42,
+      "pctChange": 0.39,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4664.8999,
+      "current": 4687.7002,
       "prev5d": 4489.3999,
-      "pctChange": 3.91,
+      "pctChange": 4.42,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 81.87,
+      "current": 81.61,
       "prev5d": 85.83,
-      "pctChange": -4.61,
+      "pctChange": -4.92,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8571,
-      "prev5d": 0.8596,
-      "pctChange": -0.29,
+      "current": 0.8568,
+      "prev5d": 0.8583,
+      "pctChange": -0.18,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.049,
-      "prev5d": 0.0492,
-      "pctChange": -0.39,
+      "prev5d": 0.0495,
+      "pctChange": -1.16,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1094,
-      "prev5d": 0.1101,
-      "pctChange": -0.66,
+      "prev5d": 0.1093,
+      "pctChange": 0.12,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "snippet": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "At least one dead after car crashes into crowd in northern France",
+      "snippet": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "snippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "date": "2026-08-27",
+      "source": "techcrunch.com"
+    },
     {
       "category": "WORLD",
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -143,17 +167,25 @@
     },
     {
       "category": "WORLD",
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "snippet": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "snippet": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
-      "snippet": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "snippet": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The question dominating Indian politics: Is it worse when women swear?",
+      "snippet": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -166,18 +198,26 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-      "snippet": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
-      "link": "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+      "snippet": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-26",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "India's sugar squeeze threatens its biggest season for sweets",
-      "snippet": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+      "snippet": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Experts' five tips to make a rented property feel like home",
+      "snippet": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -199,17 +239,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-      "snippet": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Why high energy bills look like they are here to stay",
-      "snippet": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
-      "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "snippet": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -218,6 +250,14 @@
       "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
       "snippet": "The deal has been reached during a California federal court trial over claims brought by US states.",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "snippet": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -255,6 +295,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Why high energy bills look like they are here to stay",
+      "snippet": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
+      "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Jersey earnings rise by 1.2% after inflation",
       "snippet": "Statistics Jersey says the increase is \"slightly lower\" than the long-term annual average.",
       "link": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
@@ -287,7 +335,23 @@
     },
     {
       "category": "TECH",
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "snippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "date": "2026-08-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "snippet": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "date": "2026-08-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
       "snippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
       "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
       "date": "2026-08-26",
@@ -422,30 +486,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Meta settles for $18B in lawsuit brought by 29 states over social media harms to children",
-      "snippet": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-      "date": "2026-08-26",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "snippet": "Robot bodies are waiting for their AI brains to catch up.",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "date": "2026-08-26",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Bluesky now lets you upload 10-minute long videos",
-      "snippet": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
-      "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
-      "date": "2026-08-26",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "snippet": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -471,33 +511,9 @@
     },
     {
       "category": "WORLD",
-      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-      "snippet": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-      "snippet": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Moment tornado tears through southern France",
       "snippet": "The tornado has injured more than 40 people and destroyed homes in villages.",
       "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Firms scramble for battery power in Spain and Portugal",
-      "snippet": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -583,6 +599,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "snippet": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-25",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Drought leaves 'barely any apples' to make cider",
       "snippet": "Some orchards are harvesting just a 10th of their usual crop, and facing an uncertain future.",
       "link": "https://www.bbc.co.uk/news/articles/cm2g6mmjjzdo?at_medium=RSS&at_campaign=rss",
@@ -650,30 +674,6 @@
       "title": "Shein aims for almost $27bn valuation in stock market debut",
       "snippet": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Manga-inspired theme park to be built near Paris",
-      "snippet": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Rail companies sued for £5m over oil spill caused by derailment",
-      "snippet": "More than 400,000 litres of fuel spilled in the area causing an \"environmental disaster\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Pubs and hotels could see business rates reformed after review",
-      "snippet": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
-      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-24",
       "source": "feeds.bbci.co.uk"
     },
