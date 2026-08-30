@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-29T03:42:21.008948+00:00",
+  "generatedAt": "2026-08-30T00:16:47.234530+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 77605.7109,
+      "current": 78201.6094,
       "prev5d": 77755.2656,
-      "pctChange": -0.19,
+      "pctChange": 0.57,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4504.1001,
+      "current": 4478.1001,
       "prev5d": 4624.1001,
-      "pctChange": -2.6,
+      "pctChange": -3.16,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 83.44,
+      "current": 83.4,
       "prev5d": 87.06,
-      "pctChange": -4.16,
+      "pctChange": -4.2,
       "isForex": false
     },
     {
@@ -47,9 +47,41 @@
   "news": [
     {
       "category": "WORLD",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "snippet": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "snippet": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "snippet": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "snippet": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "snippet": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -63,17 +95,41 @@
     },
     {
       "category": "WORLD",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "snippet": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "snippet": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "snippet": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "snippet": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "snippet": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "snippet": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -87,9 +143,17 @@
     },
     {
       "category": "WORLD",
-      "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
       "snippet": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
       "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+      "snippet": "Young consumers are choosing cold, customisable drinks and coffee chains are racing to catch up.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -103,19 +167,83 @@
     },
     {
       "category": "WORLD",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "snippet": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "snippet": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "snippet": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
+      "category": "BUSINESS",
+      "title": "Fundraiser launched to secure crafting shop future",
+      "snippet": "\"We don't want to give up, we want to keep making this work,\" say the owners.",
+      "link": "https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Barber offers free back-to-school haircuts",
+      "snippet": "Guildford barber Sid Gumbrell says he wants to give back and help parents with the cost of living.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "I've been to Gamescom six times - here's what excited me this year",
+      "snippet": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+      "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "date": "2026-08-29",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "date": "2026-08-29",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "date": "2026-08-29",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "snippet": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "date": "2026-08-29",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "snippet": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee",
+      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "date": "2026-08-29",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "date": "2026-08-29",
+      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
@@ -199,14 +327,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "snippet": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Satellite images reveal scale of flood devastation in Nepal villages",
       "snippet": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
       "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
@@ -226,14 +346,6 @@
       "title": "King Haakon begins reign after turbulent year for Norwegian monarchy",
       "snippet": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
       "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-      "snippet": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -298,6 +410,14 @@
       "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
       "snippet": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
       "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
+      "snippet": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -478,14 +598,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "snippet": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports in",
-      "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "BUSINESS",
       "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
       "snippet": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
@@ -506,14 +618,6 @@
       "title": "Military veterans told they owe thousands of pounds over clerical error",
       "snippet": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
       "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-27",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-      "snippet": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -564,46 +668,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-27",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "date": "2026-08-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Rivian’s CFO is leaving the company",
-      "snippet": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-      "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "date": "2026-08-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-      "snippet": "Sometimes people just want to post to their followers, Bluesky says.",
-      "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-      "date": "2026-08-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-      "snippet": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-      "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "date": "2026-08-27",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-      "snippet": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-      "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-      "date": "2026-08-27",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
@@ -706,14 +770,6 @@
       "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
       "snippet": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
       "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
-      "snippet": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
-      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-24",
       "source": "feeds.bbci.co.uk"
     },
