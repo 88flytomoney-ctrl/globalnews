@@ -1,57 +1,201 @@
 {
-  "generatedAt": "2026-08-30T00:16:47.234530+00:00",
+  "generatedAt": "2026-08-30T22:45:56.832899+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 78201.6094,
-      "prev5d": 77755.2656,
-      "pctChange": 0.57,
+      "current": 78414.75,
+      "prev5d": 78964.4844,
+      "pctChange": -0.7,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4478.1001,
-      "prev5d": 4624.1001,
-      "pctChange": -3.16,
+      "current": 4504.1001,
+      "prev5d": 4640.7998,
+      "pctChange": -2.95,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 83.4,
-      "prev5d": 87.06,
-      "pctChange": -4.2,
+      "current": 84.88,
+      "prev5d": 85.01,
+      "pctChange": -0.15,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8572,
+      "current": 0.8574,
       "prev5d": 0.8573,
-      "pctChange": -0.01,
+      "pctChange": 0.01,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0487,
-      "prev5d": 0.0494,
-      "pctChange": -1.28,
+      "prev5d": 0.0493,
+      "pctChange": -1.24,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1101,
-      "prev5d": 0.1091,
-      "pctChange": 0.91,
+      "prev5d": 0.1092,
+      "pctChange": 0.8,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "snippet": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "snippet": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "snippet": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Iceland votes against restarting EU membership talks",
+      "snippet": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "snippet": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "snippet": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "snippet": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Zambian opposition leader charged with treason",
+      "snippet": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "snippet": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "British woman killed in stabbing at German railway station",
+      "snippet": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "snippet": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "WhatsApp chat used to launder cash for crime and extremism",
+      "snippet": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "snippet": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
+      "link": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+      "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
+      "snippet": "A free initiative which started with one school four years ago now has more than 200 involved.",
+      "link": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "snippet": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "date": "2026-08-30",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "date": "2026-08-30",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "date": "2026-08-30",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "date": "2026-08-30",
+      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
@@ -87,30 +231,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "snippet": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "snippet": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
       "snippet": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
       "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
@@ -119,9 +239,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "snippet": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "title": "They fell in love - then had to check they weren't brother and sister",
+      "snippet": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
+      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -146,6 +266,14 @@
       "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
       "snippet": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
       "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "snippet": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-29",
       "source": "feeds.bbci.co.uk"
     },
@@ -247,105 +375,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "snippet": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "snippet": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "snippet": "Researchers in fields like climate and medicine are being lured north by new research funding.",
-      "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "snippet": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "snippet": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Greenland says findings on genocide allegation not final",
-      "snippet": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
-      "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "snippet": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "snippet": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
-      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "snippet": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Two-year curfew lifted in Sudan's capital",
-      "snippet": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-      "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Satellite images reveal scale of flood devastation in Nepal villages",
       "snippet": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
       "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
-      "snippet": "The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.",
-      "link": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "King Haakon begins reign after turbulent year for Norwegian monarchy",
-      "snippet": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
-      "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -366,18 +398,10 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "snippet": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
-      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
-      "snippet": "Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky.",
-      "link": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+      "snippet": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -386,14 +410,6 @@
       "title": "Wife of man who died after turbulence sues airline",
       "snippet": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
       "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "snippet": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28",
       "source": "feeds.bbci.co.uk"
     },
@@ -562,38 +578,6 @@
       "title": "Apple TV is raising its subscription prices again",
       "snippet": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
       "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "snippet": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
-      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "snippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "snippet": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
       "date": "2026-08-28",
       "source": "techcrunch.com"
     },
