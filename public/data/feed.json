@@ -1,50 +1,58 @@
 {
-  "generatedAt": "2026-08-30T22:45:56.832899+00:00",
+  "generatedAt": "2026-08-31T00:32:43.701358+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 78414.75,
+      "current": 77926.0625,
       "prev5d": 78964.4844,
-      "pctChange": -0.7,
+      "pctChange": -1.32,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4504.1001,
+      "current": 4508.3999,
       "prev5d": 4640.7998,
-      "pctChange": -2.95,
+      "pctChange": -2.85,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 84.88,
+      "current": 84.46,
       "prev5d": 85.01,
-      "pctChange": -0.15,
+      "pctChange": -0.65,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8574,
+      "current": 0.8585,
       "prev5d": 0.8573,
-      "pctChange": 0.01,
+      "pctChange": 0.14,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0487,
       "prev5d": 0.0493,
-      "pctChange": -1.24,
+      "pctChange": -1.2,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1101,
+      "current": 0.11,
       "prev5d": 0.1092,
-      "pctChange": 0.8,
+      "pctChange": 0.77,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "BUSINESS",
+      "title": "The US-Canada trade war in 5 charts",
+      "snippet": "The US-Canada trade war is being felt on both sides of the border.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-31",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
@@ -79,7 +87,7 @@
     },
     {
       "category": "WORLD",
-      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
       "snippet": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-30",
@@ -151,6 +159,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "snippet": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -164,38 +180,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-30",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-      "snippet": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "date": "2026-08-30",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "date": "2026-08-30",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "date": "2026-08-30",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "date": "2026-08-30",
-      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
@@ -326,54 +310,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "TECH",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "date": "2026-08-29",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "date": "2026-08-29",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "date": "2026-08-29",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "snippet": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "date": "2026-08-29",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "snippet": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee",
-      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "date": "2026-08-29",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "date": "2026-08-29",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "Satellite images reveal scale of flood devastation in Nepal villages",
       "snippet": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
@@ -502,86 +438,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "TECH",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "snippet": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "snippet": "Are XREAL's smart glasses the way of the future for home entertainment?",
-      "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-      "snippet": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "snippet": "There's a lot of capital pouring into the business of giving models away.",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "snippet": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
-      "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "More Americans oppose police license plate cameras than support them: survey",
-      "snippet": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
-      "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Friend-focused photo-sharing app Retro snags $21M",
-      "snippet": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
-      "link": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Apple TV is raising its subscription prices again",
-      "snippet": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
-      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "date": "2026-08-28",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "BUSINESS",
       "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
       "snippet": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
@@ -591,17 +447,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Overcooked? Why robotic pizza makers are failing",
-      "snippet": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "title": "Military veterans told they owe thousands of pounds over clerical error",
+      "snippet": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Military veterans told they owe thousands of pounds over clerical error",
-      "snippet": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "snippet": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-27",
       "source": "feeds.bbci.co.uk"
     },
