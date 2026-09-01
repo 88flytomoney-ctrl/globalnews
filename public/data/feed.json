@@ -1,50 +1,82 @@
 {
-  "generatedAt": "2026-08-31T22:46:00.576338+00:00",
+  "generatedAt": "2026-09-01T01:16:31.036489+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 78623.6016,
-      "prev5d": 78564.9766,
-      "pctChange": 0.07,
+      "current": 78525.2734,
+      "prev5d": 79027.4219,
+      "pctChange": -0.64,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4497.7998,
+      "current": 4497.0,
       "prev5d": 4640.7998,
-      "pctChange": -3.08,
+      "pctChange": -3.1,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 86.28,
+      "current": 86.54,
       "prev5d": 85.01,
-      "pctChange": 1.49,
+      "pctChange": 1.8,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8567,
-      "prev5d": 0.8573,
-      "pctChange": -0.07,
+      "current": 0.8573,
+      "prev5d": 0.8578,
+      "pctChange": -0.05,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0488,
-      "prev5d": 0.0493,
-      "pctChange": -1.05,
+      "prev5d": 0.0492,
+      "pctChange": -0.87,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1098,
-      "prev5d": 0.1092,
-      "pctChange": 0.54,
+      "prev5d": 0.1093,
+      "pctChange": 0.41,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+      "snippet": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
+      "link": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-01",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "snippet": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-01",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "snippet": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "date": "2026-09-01",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "date": "2026-09-01",
+      "source": "techcrunch.com"
+    },
     {
       "category": "WORLD",
       "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
@@ -175,14 +207,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "snippet": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-      "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-31",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "The jury's options in Lindsay Clancy's murder trial",
       "snippet": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
       "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
@@ -210,6 +234,14 @@
       "title": "Monza memories - Italian GP in pictures through the years",
       "snippet": "A selection of images from the Italian Grand Prix at Monza, which has hosted more Formula 1 races than any other circuit.",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-31",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
+      "snippet": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+      "link": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-31",
       "source": "feeds.bbci.co.uk"
     },
@@ -247,6 +279,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "snippet": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+      "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-31",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Kushner states regret over World Cup sell-off plan",
       "snippet": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reac",
       "link": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
@@ -260,6 +300,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-31",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "snippet": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "date": "2026-08-31",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "snippet": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "date": "2026-08-31",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -390,38 +446,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
-      "snippet": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
-      "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
-      "date": "2026-08-31",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "snippet": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "date": "2026-08-31",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "snippet": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "date": "2026-08-31",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "snippet": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcar",
-      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "date": "2026-08-31",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "WhatsApp chat used to launder cash for crime and extremism",
       "snippet": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
@@ -510,14 +534,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-      "snippet": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
-      "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "Wife of man who died after turbulence sues airline",
       "snippet": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
@@ -559,57 +575,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "snippet": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'Cowboy builders' targeted in new government clampdown",
-      "snippet": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-      "snippet": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
-      "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-      "snippet": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Colman's Mustard put up for sale ahead of merger",
-      "snippet": "The sale comes before a proposed merger between parent company Unilever and McCormick.",
-      "link": "https://www.bbc.co.uk/news/articles/cd08g4pjkymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "I used to live in a quiet area - now a data centre overlooks my garden",
-      "snippet": "With the number of UK data centres set to rise, some communities are concerned about their impact.",
-      "link": "https://www.bbc.co.uk/news/articles/c39e7lpyekno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "What do you spend too much on?",
       "snippet": "Central London shoppers reveal what they love to splash out on - and share their tips for not overspending.",
       "link": "https://www.bbc.co.uk/news/videos/cx2znnn4574o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-28",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+      "snippet": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28",
       "source": "feeds.bbci.co.uk"
     },
