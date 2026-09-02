@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-09-01T22:46:02.369080+00:00",
+  "generatedAt": "2026-09-02T00:06:56.559677+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 77175.1797,
+      "current": 77359.3594,
       "prev5d": 80257.5391,
-      "pctChange": -3.84,
+      "pctChange": -3.61,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4375.5,
+      "current": 4373.7002,
       "prev5d": 4638.1001,
-      "pctChange": -5.66,
+      "pctChange": -5.7,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.86,
+      "current": 90.78,
       "prev5d": 82.36,
-      "pctChange": 10.32,
+      "pctChange": 10.22,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8571,
-      "prev5d": 0.8578,
-      "pctChange": -0.08,
+      "prev5d": 0.8574,
+      "pctChange": -0.03,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0487,
       "prev5d": 0.0492,
-      "pctChange": -1.1,
+      "pctChange": -1.04,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.11,
       "prev5d": 0.1093,
-      "pctChange": 0.56,
+      "pctChange": 0.64,
       "isForex": true
     }
   ],
@@ -55,7 +55,7 @@
     },
     {
       "category": "WORLD",
-      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
       "snippet": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-01",
@@ -95,7 +95,7 @@
     },
     {
       "category": "WORLD",
-      "title": "Ariana Grande ends tour and steps back from public life",
+      "title": "Ariana Grande completes tour and steps back from public life",
       "snippet": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
       "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-01",
@@ -287,9 +287,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+      "snippet": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-01",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "snippet": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
       "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-01",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Will self-flying planes transform the skies?",
+      "snippet": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-01",
       "source": "feeds.bbci.co.uk"
     },
@@ -380,6 +396,22 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-01",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "snippet": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "date": "2026-09-01",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "snippet": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "date": "2026-09-01",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -522,22 +554,6 @@
       "title": "Fambot introduces an ‘AI chief of staff’ for families",
       "snippet": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
       "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "date": "2026-09-01",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Florida and Texas move to block Flock cameras over privacy concerns",
-      "snippet": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
-      "link": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-      "date": "2026-09-01",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
-      "snippet": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
-      "link": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
       "date": "2026-09-01",
       "source": "techcrunch.com"
     },
