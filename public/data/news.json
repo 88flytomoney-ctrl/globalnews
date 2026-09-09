@@ -1,6 +1,14 @@
 [
   {
     "category": "WORLD",
+    "title": "US slaps import ban on Canadian alcohol and other goods",
+    "snippet": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
     "snippet": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
     "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
@@ -17,9 +25,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-    "snippet": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+    "snippet": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+    "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -81,8 +89,8 @@
   },
   {
     "category": "WORLD",
-    "title": "LIV files for bankruptcy protection with $45m owed to players",
-    "snippet": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
+    "title": "LIV files for bankruptcy protection with over $45m owed to players",
+    "snippet": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
     "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-08",
     "source": "feeds.bbci.co.uk"
@@ -129,9 +137,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
-    "snippet": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
-    "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+    "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+    "snippet": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+    "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -177,6 +185,22 @@
   },
   {
     "category": "BUSINESS",
+    "title": "I'm 27 and I've already written my will - here's why",
+    "snippet": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+    "snippet": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
     "snippet": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
     "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
@@ -193,6 +217,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Should promotion depend on how workers use AI?",
+    "snippet": "More companies are tying career progression to AI use: is that fair?",
+    "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
     "snippet": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
     "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
@@ -201,25 +233,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-    "snippet": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-    "snippet": "The Balkan nation is aiming to become a new centre for medical tourism.",
-    "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "UK's third-biggest taxpayer to leave for Greece",
     "snippet": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
     "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Trump hits Canada with import ban on alcohol and other goods",
+    "snippet": "Trump targets booze, motor vehicles, and cheese, while Canada aims tariffs at nearly $20bn of US products, from steel to T-shirts.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -273,9 +297,25 @@
   },
   {
     "category": "BUSINESS",
+    "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+    "snippet": "The Balkan nation is aiming to become a new centre for medical tourism.",
+    "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Food price cap plans giving farmer 'sleepless nights'",
     "snippet": "East Lothian farmer Jamie Wyllie says he's worried costs will get passed down the line to the food producers.",
     "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+    "snippet": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+    "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-08",
     "source": "feeds.bbci.co.uk"
   },
@@ -294,6 +334,14 @@
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-08",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+    "snippet": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+    "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+    "date": "2026-09-08",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -433,14 +481,6 @@
   },
   {
     "category": "WORLD",
-    "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
-    "snippet": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-    "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Five killed as Amazon cargo plane crashes at Miami airport",
     "snippet": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
     "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
@@ -521,25 +561,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "More funding needed to boost construction jobs for young people, housing boss says",
-    "snippet": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Pre-loved uniforms save families £69, says charity",
     "snippet": "Clothing Coventry has helped provide thousands of children with second-hand school uniform.",
     "link": "https://www.bbc.co.uk/news/articles/c23x054g889o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Cost of living on many minds ahead of Manx election",
-    "snippet": "Residents, businesses and charities are focused on the economy ahead of the general election.",
-    "link": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-07",
     "source": "feeds.bbci.co.uk"
   },
@@ -620,14 +644,6 @@
     "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
     "snippet": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
     "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-    "date": "2026-09-06",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "date": "2026-09-06",
     "source": "techcrunch.com"
   },
@@ -748,22 +764,6 @@
     "title": "AI data centres are booming in Australia - but at what cost?",
     "snippet": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
     "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "snippet": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Watch: BBC travels in self-driving Uber around London",
-    "snippet": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
-    "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-03",
     "source": "feeds.bbci.co.uk"
   },
