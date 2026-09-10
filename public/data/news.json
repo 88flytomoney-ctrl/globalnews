@@ -1,5 +1,21 @@
 [
   {
+    "category": "BUSINESS",
+    "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+    "snippet": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "date": "2026-09-10",
+    "source": "techcrunch.com"
+  },
+  {
     "category": "WORLD",
     "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
     "snippet": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
@@ -177,6 +193,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "The one thing you need to do to succeed - according to top bosses",
+    "snippet": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Air traffic failure was avoidable, says transport secretary",
     "snippet": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
     "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
@@ -280,12 +304,12 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "'We were target of sinister heating oil theft and want to warn others'",
-    "snippet": "A charity is warning about the risk of home heating oil thefts after falling victim to the crime.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyznn972d7o?at_medium=RSS&at_campaign=rss",
+    "category": "TECH",
+    "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+    "snippet": "Mullenweg said in a company Slack message that it was against his will.",
+    "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
     "date": "2026-09-09",
-    "source": "feeds.bbci.co.uk"
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -428,22 +452,6 @@
     "title": "Superintelligence is coming. Should we let it?",
     "snippet": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem",
     "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "date": "2026-09-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "snippet": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "date": "2026-09-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-    "snippet": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-    "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
     "date": "2026-09-09",
     "source": "techcrunch.com"
   },
@@ -636,14 +644,6 @@
     "title": "Next wins key appeal to overturn £30m equal pay ruling",
     "snippet": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
     "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-    "snippet": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-    "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-07",
     "source": "feeds.bbci.co.uk"
   },
