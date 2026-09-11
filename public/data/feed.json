@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-09-10T22:46:02.964766+00:00",
+  "generatedAt": "2026-09-11T00:06:09.095710+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 76851.3984,
+      "current": 76604.4375,
       "prev5d": 79823.8672,
-      "pctChange": -3.72,
+      "pctChange": -4.03,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4358.7002,
+      "current": 4352.5,
       "prev5d": 4366.2998,
-      "pctChange": -0.17,
+      "pctChange": -0.32,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 104.04,
+      "current": 104.26,
       "prev5d": 91.01,
-      "pctChange": 14.32,
+      "pctChange": 14.56,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8547,
-      "prev5d": 0.8568,
-      "pctChange": -0.25,
+      "current": 0.8559,
+      "prev5d": 0.857,
+      "pctChange": -0.13,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0505,
-      "prev5d": 0.0493,
-      "pctChange": 2.43,
+      "prev5d": 0.0504,
+      "pctChange": 0.37,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1098,
-      "prev5d": 0.1101,
-      "pctChange": -0.25,
+      "prev5d": 0.1097,
+      "pctChange": 0.07,
       "isForex": true
     }
   ],
@@ -183,6 +183,22 @@
     },
     {
       "category": "BUSINESS",
+      "title": "I asked my husband to pay into my pension when we had a child - here's why",
+      "snippet": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+      "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Are interest rates on the way up again?",
+      "snippet": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "snippet": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
@@ -202,6 +218,14 @@
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
       "snippet": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
       "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Can Europe recharge its battery industry?",
+      "snippet": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -242,6 +266,14 @@
       "title": "Social supermarket reports hundreds of sign-ups",
       "snippet": "Dartford Larder members pay £4.50 each week for items including unlimited fruit and vegetables.",
       "link": "https://www.bbc.co.uk/news/articles/cgjqywqz1w3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Watch: Three times Trump has promised money to Americans",
+      "snippet": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
+      "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -566,14 +598,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Share Energy to increase electricity prices by 12.6%",
-      "snippet": "The supplier said the industry has faced \"exceptional volatility\" following Russia's invasion of Ukraine and instability in the Middle East.",
-      "link": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "Google picks Finland for its largest single investment in Europe",
       "snippet": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
@@ -634,22 +658,6 @@
       "title": "Argentina to file criminal case against oil company operating in Falklands",
       "snippet": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "snippet": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "snippet": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-08",
       "source": "feeds.bbci.co.uk"
     },
@@ -750,14 +758,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Consumer Fight Back",
-      "snippet": "Rejected for PIP? Most tribunal appeals succeed. We ask why.",
-      "link": "https://www.bbc.co.uk/sounds/play/m00316n9?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "Tech Now",
       "snippet": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
@@ -778,14 +778,6 @@
       "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
       "snippet": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
       "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "snippet": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-04",
       "source": "feeds.bbci.co.uk"
     },
