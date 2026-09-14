@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-09-13T22:45:53.955657+00:00",
+  "generatedAt": "2026-09-14T00:08:39.829612+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 76736.5312,
+      "current": 77004.8281,
       "prev5d": 78438.5781,
-      "pctChange": -2.17,
+      "pctChange": -1.83,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4376.7998,
+      "current": 4375.2998,
       "prev5d": 4429.7998,
-      "pctChange": -1.2,
+      "pctChange": -1.23,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 102.61,
+      "current": 102.56,
       "prev5d": 91.48,
-      "pctChange": 12.17,
+      "pctChange": 12.11,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8548,
+      "current": 0.8553,
       "prev5d": 0.8559,
-      "pctChange": -0.13,
+      "pctChange": -0.07,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0507,
+      "current": 0.0509,
       "prev5d": 0.0502,
-      "pctChange": 1.1,
+      "pctChange": 1.34,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.11,
+      "current": 0.1099,
       "prev5d": 0.1098,
-      "pctChange": 0.16,
+      "pctChange": 0.12,
       "isForex": true
     }
   ],
@@ -56,7 +56,7 @@
     {
       "category": "WORLD",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "snippet": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "snippet": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-13",
       "source": "feeds.bbci.co.uk"
@@ -151,9 +151,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Gloomy forecast for tenants as rent rises set to speed up",
+      "snippet": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "'Culture shift' needed in how UK does business, PM urges",
       "snippet": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
       "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How to protect your laptop, phone and bike from thieves at uni",
+      "snippet": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -191,7 +207,7 @@
     },
     {
       "category": "TECH",
-      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "snippet": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $9",
       "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "date": "2026-09-13",
@@ -399,14 +415,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Interest rates could rise again across the world – here's why",
-      "snippet": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "snippet": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
       "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
@@ -434,14 +442,6 @@
       "title": "Alstom to build new battery-electric train fleet",
       "snippet": "The government says the work will support thousands of jobs across the UK.",
       "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Can you really juggle a job and study for a degree?",
-      "snippet": "Students in Glasgow say the cost of living is making part-time work increasingly important.",
-      "link": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-11",
       "source": "feeds.bbci.co.uk"
     },
@@ -682,22 +682,6 @@
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
       "snippet": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
       "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
-      "snippet": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
-      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Singaporean man pleads guilty in US to massive crypto heist",
-      "snippet": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-      "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-09",
       "source": "feeds.bbci.co.uk"
     },
