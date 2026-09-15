@@ -1,50 +1,58 @@
 {
-  "generatedAt": "2026-09-14T22:45:59.491247+00:00",
+  "generatedAt": "2026-09-15T00:34:40.609990+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 78629.6484,
+      "current": 78007.1562,
       "prev5d": 78259.5234,
-      "pctChange": 0.47,
+      "pctChange": -0.32,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4337.3999,
+      "current": 4327.1001,
       "prev5d": 4429.7998,
-      "pctChange": -2.09,
+      "pctChange": -2.32,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 101.89,
+      "current": 102.63,
       "prev5d": 91.48,
-      "pctChange": 11.38,
+      "pctChange": 12.19,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8553,
-      "prev5d": 0.8559,
-      "pctChange": -0.07,
+      "prev5d": 0.856,
+      "pctChange": -0.08,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0506,
-      "prev5d": 0.0502,
-      "pctChange": 0.74,
+      "current": 0.0505,
+      "prev5d": 0.051,
+      "pctChange": -0.91,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1103,
-      "prev5d": 0.1098,
-      "pctChange": 0.49,
+      "current": 0.1104,
+      "prev5d": 0.1097,
+      "pctChange": 0.64,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "BUSINESS",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "snippet": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-15",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -167,9 +175,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-      "snippet": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "snippet": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+      "snippet": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -186,14 +202,6 @@
       "title": "Petrol and diesel prices hit highest since 2022",
       "snippet": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Heading off to uni? Here's what to insure against theft",
-      "snippet": "What should new students consider to keep your belongings safe and covered by insurance?",
-      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -218,6 +226,14 @@
       "title": "MPs and Lords call for new law to address AI threat to human rights",
       "snippet": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
       "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Heading off to uni? Here's what to insure against theft",
+      "snippet": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -518,14 +534,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "'It's cost upon cost for working families - they get no help'",
-      "snippet": "The government needs to do more to support working families, a charity in Rotherham says.",
-      "link": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "snippet": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $9",
@@ -727,22 +735,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "snippet": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Labour mayors in England vow to cap tourist tax at 5%",
-      "snippet": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Can Europe recharge its battery industry?",
       "snippet": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
       "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
@@ -778,14 +770,6 @@
       "title": "Primark introduces home delivery",
       "snippet": "Primark has said it plans to launch a home delivery service in Britain, four years after it made its first foray into e-commerce.",
       "link": "https://www.bbc.co.uk/news/videos/cn0jr4zndrro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "UK needs new laws for AI in healthcare, says watchdog",
-      "snippet": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-10",
       "source": "feeds.bbci.co.uk"
     },
