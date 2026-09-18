@@ -1,50 +1,58 @@
 {
-  "generatedAt": "2026-09-17T22:46:01.166582+00:00",
+  "generatedAt": "2026-09-18T00:12:43.565289+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 76352.0078,
+      "current": 76324.3906,
       "prev5d": 77270.4688,
-      "pctChange": -1.19,
+      "pctChange": -1.22,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4387.2998,
+      "current": 4382.0,
       "prev5d": 4407.2998,
-      "pctChange": -0.45,
+      "pctChange": -0.57,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 101.19,
+      "current": 101.17,
       "prev5d": 102.48,
-      "pctChange": -1.26,
+      "pctChange": -1.28,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8547,
-      "prev5d": 0.8557,
-      "pctChange": -0.12,
+      "prev5d": 0.8552,
+      "pctChange": -0.06,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0501,
-      "prev5d": 0.0511,
-      "pctChange": -1.99,
+      "current": 0.05,
+      "prev5d": 0.0508,
+      "pctChange": -1.51,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.111,
-      "prev5d": 0.1096,
-      "pctChange": 1.26,
+      "prev5d": 0.1098,
+      "pctChange": 1.05,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "TECH",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "snippet": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "date": "2026-09-18",
+      "source": "techcrunch.com"
+    },
     {
       "category": "WORLD",
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -199,8 +207,8 @@
     },
     {
       "category": "WORLD",
-      "title": "Why Canadians are ready for closer ties with Europe",
-      "snippet": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
+      "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
+      "snippet": "Toronto residents tell the BBC they are excited by the possibility of working and studying in the EU.",
       "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-17",
       "source": "feeds.bbci.co.uk"
@@ -239,6 +247,30 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Healey to ask EU finance ministers to let UK into industry scheme",
+      "snippet": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+      "snippet": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Early Bowie music available to stream for first time",
+      "snippet": "Previously unheard material from the start of the artist's career has been released for the first time.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Interest rates held but Bank signals rise if energy prices stay high",
       "snippet": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
       "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
@@ -250,6 +282,14 @@
       "title": "Barclays workers ask for more money to return to the office",
       "snippet": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
       "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "The virtual worlds where robots are trained",
+      "snippet": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-17",
       "source": "feeds.bbci.co.uk"
     },
@@ -343,7 +383,31 @@
     },
     {
       "category": "TECH",
-      "title": "PrismML hopes its tiny LLM could change how we all use AI",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "snippet": "The round values the data center giant at $30.9 billion.",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "date": "2026-09-17",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "snippet": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "date": "2026-09-17",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "snippet": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "date": "2026-09-17",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
       "snippet": "If AI lab PrismML isn't on your radar yet, it should be.",
       "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "date": "2026-09-17",
@@ -351,7 +415,7 @@
     },
     {
       "category": "TECH",
-      "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
       "snippet": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
       "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
       "date": "2026-09-17",
@@ -470,38 +534,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "snippet": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "date": "2026-09-17",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "snippet": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "date": "2026-09-17",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "snippet": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "date": "2026-09-17",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "snippet": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "date": "2026-09-17",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "Photos show widespread damage at US sites from Iranian attacks",
       "snippet": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
@@ -615,14 +647,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "snippet": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-16",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Petrol and diesel price rises push UK inflation higher",
       "snippet": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
       "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
@@ -674,6 +698,14 @@
       "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
       "snippet": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
       "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "snippet": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-16",
       "source": "feeds.bbci.co.uk"
     },
@@ -767,14 +799,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "snippet": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "The extreme engineering of aircraft windows",
       "snippet": "Few companies have the technology to make aircraft windows which are getting harder to make.",
       "link": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
@@ -826,14 +850,6 @@
       "title": "Questions mount over what an AI 'slowdown' would look like",
       "snippet": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "snippet": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-13",
       "source": "feeds.bbci.co.uk"
     },
