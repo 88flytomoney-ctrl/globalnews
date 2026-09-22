@@ -1,63 +1,63 @@
 {
-  "generatedAt": "2026-09-21T22:45:59.352779+00:00",
+  "generatedAt": "2026-09-22T00:47:39.652494+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 86369.2578,
+      "current": 86228.7109,
       "prev5d": 76150.3203,
-      "pctChange": 13.42,
+      "pctChange": 13.23,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4389.2998,
+      "current": 4392.0,
       "prev5d": 4351.8999,
-      "pctChange": 0.86,
+      "pctChange": 0.92,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 92.01,
+      "current": 92.69,
       "prev5d": 101.39,
-      "pctChange": -9.25,
+      "pctChange": -8.58,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
       "current": 0.8533,
-      "prev5d": 0.8554,
-      "pctChange": -0.24,
+      "prev5d": 0.8553,
+      "pctChange": -0.23,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0496,
-      "prev5d": 0.0511,
-      "pctChange": -2.91,
+      "prev5d": 0.0508,
+      "pctChange": -2.3,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1111,
-      "prev5d": 0.11,
-      "pctChange": 1.04,
+      "prev5d": 0.1104,
+      "pctChange": 0.62,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "snippet": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "snippet": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "snippet": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "snippet": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-21",
       "source": "feeds.bbci.co.uk"
     },
@@ -239,6 +239,22 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Vet prescription fees capped under rule changes",
+      "snippet": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "snippet": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
       "snippet": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
       "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
@@ -256,7 +272,7 @@
     {
       "category": "BUSINESS",
       "title": "Flights at major US airports delayed after cable cut by construction workers",
-      "snippet": "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
+      "snippet": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-21",
       "source": "feeds.bbci.co.uk"
@@ -303,19 +319,19 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Baby bank helping more parents in full-time work",
-      "snippet": "The couple who run the bank say they are in \"desperate need\" of baby formula as demand is so high.",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4848pzjro?at_medium=RSS&at_campaign=rss",
+      "title": "I couldn't cook when I left home – but these easy £2.50 recipes became my go-to",
+      "snippet": "Former culinary-challenged students share four low cost meals they think everyone can master.",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-21",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Families missing out on NHS money for healthy food",
-      "snippet": "Figures show as little as 64% of eligible families are claiming NHS money for milk, fruit and veg",
-      "link": "https://www.bbc.co.uk/news/articles/cme30e8zyvjno?at_medium=RSS&at_campaign=rss",
+      "category": "TECH",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "snippet": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
       "date": "2026-09-21",
-      "source": "feeds.bbci.co.uk"
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -502,14 +518,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Family shares hidden cost of cancer care",
-      "snippet": "Maya, 13, from Hythe in Kent, was diagnosed with neuroblastoma when she was three.",
-      "link": "https://www.bbc.co.uk/news/articles/c8qlwg07p906o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "snippet": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
@@ -554,14 +562,6 @@
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "snippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche",
       "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "date": "2026-09-20",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "New California law will penalize influencers who don’t disclose political ads",
-      "snippet": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
-      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
       "date": "2026-09-20",
       "source": "techcrunch.com"
     },
@@ -674,14 +674,6 @@
       "title": "'Insufficient funds' to pay Brewdog creditors after takeover deal",
       "snippet": "Administrators say about £489,000 was owed for staff wages and holiday pay and £2.4m was owed to HMRC for unpaid VAT.",
       "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
-      "snippet": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-18",
       "source": "feeds.bbci.co.uk"
     },
