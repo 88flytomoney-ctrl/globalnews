@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-23T22:46:04.332979+00:00",
+  "generatedAt": "2026-09-24T00:28:18.315915+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 84531.0938,
+      "current": 84347.2578,
       "prev5d": 80901.4609,
-      "pctChange": 4.49,
+      "pctChange": 4.26,
       "isForex": false
     },
     {
@@ -17,30 +17,30 @@
     },
     {
       "name": "Crude Oil WTI",
-      "current": 92.44,
+      "current": 91.79,
       "prev5d": 102.43,
-      "pctChange": -9.75,
+      "pctChange": -10.39,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8558,
-      "prev5d": 0.8555,
-      "pctChange": 0.03,
+      "current": 0.8552,
+      "prev5d": 0.8549,
+      "pctChange": 0.04,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0493,
-      "prev5d": 0.0505,
-      "pctChange": -2.41,
+      "prev5d": 0.0503,
+      "pctChange": -1.96,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1119,
-      "prev5d": 0.1105,
-      "pctChange": 1.32,
+      "current": 0.112,
+      "prev5d": 0.1111,
+      "pctChange": 0.79,
       "isForex": true
     }
   ],
@@ -50,6 +50,14 @@
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "snippet": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
     },
@@ -135,9 +143,25 @@
     },
     {
       "category": "WORLD",
-      "title": "Federal judge delays ruling on White House media ban",
-      "snippet": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "snippet": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "snippet": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "snippet": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
     },
@@ -146,6 +170,14 @@
       "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
       "snippet": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
       "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "snippet": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
     },
@@ -175,6 +207,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+      "snippet": "Consumers are feeling the squeeze from the rising price of protein.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
       "snippet": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
@@ -199,9 +239,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "snippet": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "snippet": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
     },
@@ -308,6 +348,30 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "snippet": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "date": "2026-09-23",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Meta introduces camera-free AI glasses",
+      "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "date": "2026-09-23",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "snippet": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "date": "2026-09-23",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -446,30 +510,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "date": "2026-09-23",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "date": "2026-09-23",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "snippet": "YouTube's AI feature can now help you compare products as you shop.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "date": "2026-09-23",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
       "snippet": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
@@ -482,38 +522,6 @@
       "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
       "snippet": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
       "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "snippet": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "snippet": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "snippet": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
-      "snippet": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-22",
       "source": "feeds.bbci.co.uk"
     },
@@ -639,6 +647,14 @@
     },
     {
       "category": "TECH",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "snippet": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
       "snippet": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
       "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
@@ -658,22 +674,6 @@
       "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
       "snippet": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
       "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Repeated air traffic control failures leave us in worrying territory",
-      "snippet": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "snippet": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-21",
       "source": "feeds.bbci.co.uk"
     },
