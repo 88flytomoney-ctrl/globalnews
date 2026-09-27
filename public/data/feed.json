@@ -1,63 +1,263 @@
 {
-  "generatedAt": "2026-09-26T00:36:12.486057+00:00",
+  "generatedAt": "2026-09-27T00:31:42.703484+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 83817.6875,
-      "prev5d": 81142.6094,
-      "pctChange": 3.3,
+      "current": 84265.6875,
+      "prev5d": 86602.9141,
+      "pctChange": -2.7,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4320.5,
+      "current": 4321.2002,
       "prev5d": 4424.8999,
-      "pctChange": -2.36,
+      "pctChange": -2.34,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 92.44,
+      "current": 92.41,
       "prev5d": 100.3,
-      "pctChange": -7.84,
+      "pctChange": -7.87,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8553,
+      "current": 0.8544,
       "prev5d": 0.8537,
-      "pctChange": 0.18,
+      "pctChange": 0.08,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0496,
-      "prev5d": 0.0502,
-      "pctChange": -1.23,
+      "prev5d": 0.0499,
+      "pctChange": -0.64,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1119,
       "prev5d": 0.111,
-      "pctChange": 0.75,
+      "pctChange": 0.73,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "snippet": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "snippet": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "snippet": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "snippet": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "snippet": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "snippet": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "snippet": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "snippet": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "snippet": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "snippet": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "snippet": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "snippet": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "snippet": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "snippet": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "snippet": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "snippet": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to ",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Watch: Bangkok declared flood disaster zone",
+      "snippet": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
+      "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "snippet": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
+      "snippet": "Getting the keys to a new home felt like a dream come true, until this couple found 150 faults.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Scottish drivers hit as diesel passes £2 a litre across the country",
+      "snippet": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Fuel costs putting off meal delivery driver applicants",
+      "snippet": "Maureen Bougeard says some prospective volunteers do not respond after learning about expenses.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyzkwnd258o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Tech Now",
+      "snippet": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "snippet": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "date": "2026-09-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "snippet": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "date": "2026-09-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "snippet": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the",
+      "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "date": "2026-09-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "snippet": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "date": "2026-09-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "date": "2026-09-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "date": "2026-09-26",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "snippet": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -71,14 +271,6 @@
     },
     {
       "category": "WORLD",
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "snippet": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
       "snippet": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
       "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
@@ -87,17 +279,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "snippet": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "snippet": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "snippet": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -111,89 +295,17 @@
     },
     {
       "category": "WORLD",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "snippet": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "snippet": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Trump's plans for massive arch move ahead",
-      "snippet": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Students strike across Germany in protest against military service",
-      "snippet": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "snippet": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "snippet": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "snippet": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "snippet": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "snippet": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "snippet": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "snippet": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "snippet": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "snippet": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -207,17 +319,17 @@
     },
     {
       "category": "WORLD",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "snippet": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "snippet": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Are Ethiopians marching back to war in Tigray?",
-      "snippet": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "snippet": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -238,18 +350,10 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-      "snippet": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
-      "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "The world’s two most powerful men just met. How did it go?",
-      "snippet": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
-      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "Clubs seek legal advice over Man City charges compensation",
+      "snippet": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -263,9 +367,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Man City found guilty of breaking financial rules",
-      "snippet": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "snippet": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -274,22 +378,6 @@
       "title": "UK diesel price close to all-time high",
       "snippet": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "snippet": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Farmers down 240 million litres of milk after heat",
-      "snippet": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-      "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -311,17 +399,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "We ship our gym equipment all over the world",
-      "snippet": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "snippet": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
-      "snippet": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+      "title": "We ship our gym equipment all over the world",
+      "snippet": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-25",
       "source": "feeds.bbci.co.uk"
     },
@@ -367,8 +455,16 @@
     },
     {
       "category": "TECH",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "snippet": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "snippet": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "date": "2026-09-25",
       "source": "techcrunch.com"
@@ -478,90 +574,10 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "snippet": "The latest unauthorized agent swarms were discovered by researchers.",
-      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "date": "2026-09-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "snippet": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "date": "2026-09-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-      "snippet": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-      "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "date": "2026-09-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "date": "2026-09-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "date": "2026-09-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-      "snippet": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
-      "link": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-      "date": "2026-09-25",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "snippet": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "snippet": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "snippet": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "snippet": "The Israeli delegation cheered in support during Netanyahu's speech. Nada Tawfik in New York explains what happened.",
-      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "snippet": "What's the smallest amount of money you would ask a friend to pay you back?",
+      "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-24",
       "source": "feeds.bbci.co.uk"
     },
@@ -575,9 +591,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "snippet": "What's the smallest amount of money you would ask a friend to pay you back?",
-      "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-24",
       "source": "feeds.bbci.co.uk"
     },
@@ -610,14 +626,6 @@
       "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
       "snippet": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
       "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Food banks 'in crisis' amid fears some may have to close",
-      "snippet": "According to the Trussell Trust, an anti-poverty charity, some food banks are having pay for 30-50% of the food they are supplying.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-24",
       "source": "feeds.bbci.co.uk"
     },
@@ -670,26 +678,18 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-23",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
-      "snippet": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "£170 a bag? Protein users squeezed as prices soar",
+      "snippet": "Consumers are feeling the pinch from the rising cost of protein.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "£170 a bag? Protein users squeezed as prices soar",
-      "snippet": "Consumers are feeling the pinch from the rising cost of protein.",
-      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-23",
       "source": "feeds.bbci.co.uk"
     },
@@ -787,14 +787,6 @@
       "snippet": "China is competing with the United States and other nations to develop AI.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Tech Now",
-      "snippet": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-19",
       "source": "feeds.bbci.co.uk"
     },
     {
