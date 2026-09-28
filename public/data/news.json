@@ -1,6 +1,446 @@
 [
   {
     "category": "WORLD",
+    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+    "snippet": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+    "snippet": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "French PM warns against escalation of school protests after 164 arrested",
+    "snippet": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+    "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+    "snippet": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+    "snippet": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+    "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+    "snippet": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Four bodies found after avalanche hits Himalayan climbing group",
+    "snippet": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
+    "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Plan for controversial Sydney data centre scrapped after push-back",
+    "snippet": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+    "snippet": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+    "snippet": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
+    "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Mexico's Pacific coast braces for Hurricane Polo",
+    "snippet": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Trump-Xi summit: What wasn't said might matter the most",
+    "snippet": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+    "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+    "snippet": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+    "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+    "snippet": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+    "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "People escape historic Kyiv building hit by Russian drone",
+    "snippet": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+    "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Women protest in the streets of Delhi after string of sexual assaults",
+    "snippet": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
+    "link": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+    "snippet": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
+    "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+    "snippet": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+    "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "UK tries to stop Trump's diesel export ban",
+    "snippet": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "What a US diesel export ban could mean for you",
+    "snippet": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+    "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+    "snippet": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "UK diesel price hits all-time high, the RAC says",
+    "snippet": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "What is the Budget and what could be in it?",
+    "snippet": "Chancellor John Healey will set out his plans for UK taxes in October.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Why UK diesel prices have hit an all-time high",
+    "snippet": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Why the PM could finally drop the triple lock pension pledge",
+    "snippet": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+    "snippet": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "UK needs plan in case of 'unprecedented' AI job losses, says minister",
+    "snippet": "Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear.",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+    "snippet": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+    "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+    "snippet": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "You need £17,000 for a first home - here's how to save it",
+    "snippet": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Avanti West Coast services to be nationalised from March",
+    "snippet": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "What will the energy cap changes mean for my bills?",
+    "snippet": "The regulator Ofgem says the price cap increases by 4% in October for millions of households.",
+    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Four ways to keep your energy bills down",
+    "snippet": "Household energy bills are due to rise again in October but there are ways to keep a lid on your expenditure.",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Childminder facing 'severe financial burden' as heating oil costs rise",
+    "snippet": "The war in Iran is having a practical impact on people across the island as energy prices continue to climb.",
+    "link": "https://www.bbc.co.uk/news/articles/cq07ly2232pzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "How much is in your savings account?",
+    "snippet": "From £65 to $60,000 - we talk savings with people in East London's Brick Lane.",
+    "link": "https://www.bbc.co.uk/news/videos/cqrm99we3rjxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "snippet": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "snippet": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "snippet": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "snippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Hu",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "snippet": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "snippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "snippet": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+    "snippet": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+    "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "snippet": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+    "snippet": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+    "snippet": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+    "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "snippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a",
+    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+    "snippet": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will ",
+    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+    "snippet": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+    "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "snippet": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru",
+    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "snippet": "Modulate deploys its models to detect deepfake, fraud and scam",
+    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+    "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader",
+    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+    "date": "2026-09-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "WORLD",
     "title": "Inside Yemen's front-line city as Houthis battle for control",
     "snippet": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
     "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
@@ -17,17 +457,17 @@
   },
   {
     "category": "WORLD",
-    "title": "Two bodies found after avalanche hits Himalayan climbing group",
-    "snippet": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-    "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+    "title": "One dead as nor'easter storm pummels New York and New Jersey",
+    "snippet": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Two mass shootings in South Africa leave 27 dead",
-    "snippet": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "title": "Venezuela releases dozens of political prisoners as election calls grow",
+    "snippet": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+    "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -41,9 +481,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Venezuela releases dozens of political prisoners as election calls grow",
-    "snippet": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-    "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+    "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+    "snippet": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -65,33 +505,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-    "snippet": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "One dead as nor'easter storm pummels New York and New Jersey",
-    "snippet": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
     "snippet": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
     "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Bangkok roads submerged as flood disaster declared",
-    "snippet": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -105,7 +521,7 @@
   },
   {
     "category": "WORLD",
-    "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+    "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
     "snippet": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
     "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
@@ -128,26 +544,10 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
-    "snippet": "The BBC's Ricky Boleto looks how previous SpaceX test flights went.",
-    "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
-    "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-    "snippet": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-    "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "You need £17,000 for a first home - here's how to do it",
-    "snippet": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+    "title": "My hometown shows that high streets have to change or die",
+    "snippet": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -158,86 +558,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-27",
     "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Baby bank's urgent appeal as demand for help grows",
-    "snippet": "The founder of Leeds Baby Bank says the charity has seen a \"massive\" increase in referrals recently.",
-    "link": "https://www.bbc.co.uk/news/articles/c81dl1qkxg7xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
-    "snippet": "Getting the keys to a new home felt like a dream come true, until this couple found 150 faults.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "My hometown shows that high streets have to change or die",
-    "snippet": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-    "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "snippet": "\"AI is the devil and I its maker.\"",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "TechCrunch Mobility: AV companies pick their lanes",
-    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-    "snippet": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
-    "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "snippet": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure ",
-    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "snippet": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "date": "2026-09-27",
-    "source": "techcrunch.com"
   },
   {
     "category": "WORLD",
@@ -257,49 +577,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-    "snippet": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "British national among six dead in building explosion close to Acropolis in Athens",
-    "snippet": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Young people in China are fangirling over a professor who gets their anxiety",
     "snippet": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
     "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Are claims of a white genocide in South Africa real?",
-    "snippet": "Thousands of white crosses have been displayed in Washington by an Afrikaner lobby group But South Africa's new ambassador Roelf Meyer says there is not a genocide.",
-    "link": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: Bangkok declared flood disaster zone",
-    "snippet": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
-    "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Faisal Islam: The two big decisions the chancellor must make",
-    "snippet": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-    "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-26",
     "source": "feeds.bbci.co.uk"
   },
@@ -308,6 +588,14 @@
     "title": "OpenAI bots meddled with multiple US government agency sites",
     "snippet": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Faisal Islam: The two big decisions the chancellor must make",
+    "snippet": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+    "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-26",
     "source": "feeds.bbci.co.uk"
   },
@@ -328,22 +616,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Scottish drivers hit as diesel passes £2 a litre across the country",
-    "snippet": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Fuel costs putting off meal delivery driver applicants",
-    "snippet": "Maureen Bougeard says some prospective volunteers do not respond after learning about expenses.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyzkwnd258o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Tech Now",
     "snippet": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
@@ -352,74 +624,10 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "TECH",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "snippet": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "date": "2026-09-26",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "snippet": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-    "date": "2026-09-26",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "snippet": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the",
-    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-    "date": "2026-09-26",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-    "snippet": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-    "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-    "date": "2026-09-26",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "date": "2026-09-26",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "date": "2026-09-26",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
     "snippet": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
     "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-    "snippet": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
-    "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Clubs seek legal advice over Man City charges compensation",
-    "snippet": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-25",
     "source": "feeds.bbci.co.uk"
   },
@@ -433,6 +641,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Clubs seek legal advice over Man City charges compensation",
+    "snippet": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
     "snippet": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
     "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
@@ -441,41 +657,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "UK diesel price close to all-time high",
-    "snippet": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
     "snippet": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
     "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Scam hotel booking sent family to Wetherspoon pub",
-    "snippet": "Which? says staff are turning away up to 20 tourists a day after scammers used the pub's address.",
-    "link": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-    "snippet": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-    "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "We ship our gym equipment all over the world",
-    "snippet": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-25",
     "source": "feeds.bbci.co.uk"
   },
@@ -521,67 +705,19 @@
   },
   {
     "category": "TECH",
-    "title": "Special agents' blood and urine test results stolen in FBI hack",
-    "snippet": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+    "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+    "snippet": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-25",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "TECH",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "snippet": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-25",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "snippet": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-    "date": "2026-09-25",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "date": "2026-09-25",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Meta opens early access program for new Muse features",
-    "snippet": "Anyone interested in joining has to ask Muse to put them on the list.",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "date": "2026-09-25",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-    "snippet": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-    "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-    "date": "2026-09-25",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "snippet": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "date": "2026-09-25",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "date": "2026-09-25",
-    "source": "techcrunch.com"
+    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
@@ -601,41 +737,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Reported assaults on Britain's rail services rise by more than a third",
-    "snippet": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
-    "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-    "snippet": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-    "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Rolls-Royce signs 'multi-million' engine deal",
-    "snippet": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
-    "link": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "X-planes: Are they needed in the new era of drones?",
     "snippet": "Where do America's X-plane projects fit in an era of cheap drones?",
     "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-24",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "What to think about when buying travel insurance",
-    "snippet": "Consumer expert Harry Kind walks through what to do when buying travel insurance.",
-    "link": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-24",
     "source": "feeds.bbci.co.uk"
   },
@@ -681,73 +785,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "£170 a bag? Protein users squeezed as prices soar",
-    "snippet": "Consumers are feeling the pinch from the rising cost of protein.",
-    "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-    "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-    "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-    "snippet": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-    "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-    "snippet": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-    "snippet": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-    "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-    "snippet": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Off sick? You need to phone your boss, back-to-work adviser says",
-    "snippet": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "How the oil capital of the US welcomed a solar power boom",
     "snippet": "Texas is now the country's biggest producer of solar-farmed electricity.",
     "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Indians are discovering the thrill of shopping without paying",
-    "snippet": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-23",
     "source": "feeds.bbci.co.uk"
   },
