@@ -1,9 +1,41 @@
 [
   {
     "category": "WORLD",
+    "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+    "snippet": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+    "snippet": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "California bans child marriage, a practice still legal in 32 US states",
+    "snippet": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "What we know about stabbing on Flydubai flight to Israel",
     "snippet": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
     "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+    "snippet": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -17,17 +49,9 @@
   },
   {
     "category": "WORLD",
-    "title": "UK-France 'one in, one out' migrant scheme scrapped",
-    "snippet": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-    "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-    "snippet": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-    "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+    "title": "Tiny image sparks big backlash in Nikon photo contest",
+    "snippet": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+    "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -113,25 +137,17 @@
   },
   {
     "category": "WORLD",
-    "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-    "snippet": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
-    "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
+    "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+    "snippet": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-    "snippet": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-    "snippet": "Students have been protesting against conditions and resources in secondary schools since last week.",
-    "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+    "title": "The children dying in India's remote tribal heartland",
+    "snippet": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -162,7 +178,7 @@
   {
     "category": "WORLD",
     "title": "Couple describes relief at rescue after whale destroys their yacht",
-    "snippet": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
+    "snippet": "Jeremy and Jemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
     "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
@@ -180,6 +196,22 @@
     "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
     "snippet": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
     "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Vape prices to rise as new tax takes effect",
+    "snippet": "Vaping is about to becoming more expensive due to a new tax on products.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Energy bills are going up - here's what you can do about it",
+    "snippet": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -209,17 +241,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Doubters spur me on: why more women are taking up DIY",
-    "snippet": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-    "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+    "title": "The AI telling farmers when to harvest",
+    "snippet": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-    "snippet": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+    "title": "Doubters spur me on: why more women are taking up DIY",
+    "snippet": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -249,14 +281,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Facing the future without the 'bank of mum and dad'",
-    "snippet": "Young people struggling to make ends meet respond to the government's Your First Home scheme.",
-    "link": "https://www.bbc.co.uk/news/articles/ck7902ejw10vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Greggs to cut 740 jobs and close factories",
     "snippet": "High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.",
     "link": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
@@ -281,6 +305,30 @@
   },
   {
     "category": "TECH",
+    "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+    "snippet": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "snippet": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "date": "2026-09-30",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+    "snippet": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administrati",
+    "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+    "date": "2026-09-30",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
     "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -289,8 +337,8 @@
   },
   {
     "category": "TECH",
-    "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
-    "snippet": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+    "snippet": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
     "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
     "date": "2026-09-30",
     "source": "techcrunch.com"
@@ -424,22 +472,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "snippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints di",
-    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-30",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "snippet": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be excep",
-    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "date": "2026-09-30",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "Chinese AI tool told researchers how to make bioweapons",
     "snippet": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
@@ -473,22 +505,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Are Trump's US government funded ads illegal?",
-    "snippet": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
-    "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
-    "snippet": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
-    "link": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Fires and blockades as students stage school protests across France",
     "snippet": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
     "link": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
@@ -500,14 +516,6 @@
     "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
     "snippet": "Turner’s early 19th century painting - Rome, from Mount Aventine - will be on display in the Italian capital for the first time ahead of an auction in London in December.",
     "link": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "The start-ups hoping to return battery making to the US",
-    "snippet": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-29",
     "source": "feeds.bbci.co.uk"
   },
@@ -529,22 +537,14 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Soho House venue under investigation for food safety",
-    "snippet": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
-    "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+    "title": "The start-ups hoping to return battery making to the US",
+    "snippet": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-29",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-    "snippet": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
-    "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
+    "category": "TECH",
     "title": "Oura pulls $15bn stock market listing days after announcement",
     "snippet": "The wearable technology company had been expected to list its shares in the US.",
     "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
@@ -552,58 +552,10 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "What is the triple lock and why are people talking about it?",
-    "snippet": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
-    "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Warning more homes will be uninsurable due to flood risk",
-    "snippet": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
-    "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
+    "category": "TECH",
     "title": "OpenAI scraps rollout of new model over safety concerns",
     "snippet": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
     "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-    "snippet": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "I paid £30,000 for an 'influencer' degree. Here's why",
-    "snippet": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
-    "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "UK tries to stop Trump's diesel export ban",
-    "snippet": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Burnham says public body will invest in electricity grid",
-    "snippet": "The prime minister said he wants to reduce energy costs in his first conference speech as Labour leader.",
-    "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-29",
     "source": "feeds.bbci.co.uk"
   },
@@ -613,54 +565,6 @@
     "snippet": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "What a US diesel export ban could mean for you",
-    "snippet": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
-    "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-    "snippet": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "UK diesel price hits all-time high, the RAC says",
-    "snippet": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "What is the Budget and what could be in it?",
-    "snippet": "Chancellor John Healey will set out his plans for UK taxes in October.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Why UK diesel prices have hit an all-time high",
-    "snippet": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Why the PM could finally drop the triple lock pension pledge",
-    "snippet": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-    "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
     "source": "feeds.bbci.co.uk"
   },
   {
@@ -724,22 +628,6 @@
     "title": "Inside iconic horror game Silent Hill's Scottish makeover",
     "snippet": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
     "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-    "snippet": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Special agents' blood and urine test results stolen in FBI hack",
-    "snippet": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-25",
     "source": "feeds.bbci.co.uk"
   },
