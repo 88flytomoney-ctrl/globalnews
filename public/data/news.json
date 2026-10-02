@@ -1,5 +1,29 @@
 [
   {
+    "category": "BUSINESS",
+    "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+    "snippet": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Robotaxi operators will face fines for blocking first responders",
+    "snippet": "A new California law places new rules on autonomous vehicles operators",
+    "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+    "date": "2026-10-02",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "date": "2026-10-02",
+    "source": "techcrunch.com"
+  },
+  {
     "category": "WORLD",
     "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
     "snippet": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
@@ -169,6 +193,30 @@
   },
   {
     "category": "BUSINESS",
+    "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+    "snippet": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+    "snippet": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+    "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+    "snippet": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
     "snippet": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
     "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
@@ -177,9 +225,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-    "snippet": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    "snippet": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-01",
     "source": "feeds.bbci.co.uk"
   },
@@ -424,22 +472,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-    "snippet": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
-    "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
-    "date": "2026-10-01",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-    "snippet": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "date": "2026-10-01",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "Tiny image sparks big backlash in Nikon photo contest",
     "snippet": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
@@ -513,14 +545,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "The AI telling farmers when to harvest",
-    "snippet": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Vape tax comes into effect - but prices won't rise yet",
     "snippet": "Vaping is about to becoming more expensive due to a new tax on products.",
     "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
@@ -556,6 +580,14 @@
     "title": "Doubters spur me on: why more women are taking up DIY",
     "snippet": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
     "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "The AI telling farmers when to harvest",
+    "snippet": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
@@ -633,26 +665,10 @@
   },
   {
     "category": "TECH",
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "snippet": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
     "title": "Tech Life",
     "snippet": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
     "date": "2026-09-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-    "snippet": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
-    "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-28",
     "source": "feeds.bbci.co.uk"
   },
   {
