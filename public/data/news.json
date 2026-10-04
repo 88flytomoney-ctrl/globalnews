@@ -1,6 +1,102 @@
 [
   {
     "category": "WORLD",
+    "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+    "snippet": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+    "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+    "snippet": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+    "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+    "snippet": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+    "snippet": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+    "snippet": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+    "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+    "snippet": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Indian police accused of sexually harassing journalists at protest",
+    "snippet": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+    "snippet": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Australia investigating Flydubai co-pilot's links to country",
+    "snippet": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+    "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+    "snippet": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+    "snippet": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Debris found from plane that went missing off US coast",
+    "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Cornell president says university 'must do better' after frat house rape allegations",
     "snippet": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
     "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
@@ -9,87 +105,55 @@
   },
   {
     "category": "WORLD",
-    "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-    "snippet": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+    "title": "Rare tornado whips through small Australian town",
+    "snippet": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+    "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-04",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "snippet": "AI slop seems to be overwhelming bug bounty programs.",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "date": "2026-10-04",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "snippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "date": "2026-10-04",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "TechCrunch Mobility: Reining in robotaxis",
+    "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+    "date": "2026-10-04",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "snippet": "This new task force is Trump's latest response to the debate over AI safety.",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "date": "2026-10-04",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "WORLD",
+    "title": "US father and son arrested after 'gas station heroin' deaths",
+    "snippet": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-03",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-    "snippet": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-    "snippet": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-    "snippet": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Medical plane with 6 on board missing off Massachusetts coast",
-    "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Why has Brazil accused the US of election interference?",
-    "snippet": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-    "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-    "snippet": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Kim wins Asian Games gold to secure military exemption",
-    "snippet": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-    "snippet": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Why Canada is preparing for a (long shot) US invasion",
+    "title": "Why Canada is wargaming a (long shot) US invasion",
     "snippet": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
     "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-03",
@@ -105,17 +169,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Joker persona helps Cong 'feel the fear' in opponents",
-    "snippet": "Wang Cong dismisses critics who say she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
-    "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-    "snippet": "Research shows there are several reasons people might experience motion sickness in electric vehicles.",
-    "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
+    "title": "Why has Brazil accused the US of election interference?",
+    "snippet": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+    "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-03",
     "source": "feeds.bbci.co.uk"
   },
@@ -124,6 +180,14 @@
     "title": "Will Spain's housing crisis lead to a snap election?",
     "snippet": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
     "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-03",
     "source": "feeds.bbci.co.uk"
   },
@@ -233,113 +297,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Riot police clash with students as education protests rage in France",
-    "snippet": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-    "snippet": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-    "snippet": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Women given shorts at Oktoberfest to prevent upskirting",
-    "snippet": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-    "snippet": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-    "snippet": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-    "snippet": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "OpenAI fires workers for 'mishandling sensitive information'",
-    "snippet": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-    "snippet": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-    "snippet": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-    "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
     "snippet": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
     "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "The vanishing world of India's street magicians",
-    "snippet": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
-    "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-    "snippet": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "School protests send shivers down French government's spine",
-    "snippet": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
-    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02",
     "source": "feeds.bbci.co.uk"
   },
@@ -356,22 +316,6 @@
     "title": "How widely used is the death penalty in the US?",
     "snippet": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?",
     "link": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: Why students in France are protesting",
-    "snippet": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
-    "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-    "snippet": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
-    "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02",
     "source": "feeds.bbci.co.uk"
   },
@@ -404,6 +348,14 @@
     "title": "Why UK diesel prices have breached the £2 per litre mark",
     "snippet": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "OpenAI fires workers for 'mishandling sensitive information'",
+    "snippet": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-02",
     "source": "feeds.bbci.co.uk"
   },
@@ -488,106 +440,18 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "snippet": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ",
-    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "date": "2026-10-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-    "snippet": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-    "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-    "date": "2026-10-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
-    "snippet": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
-    "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-    "date": "2026-10-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-    "snippet": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "date": "2026-10-02",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-    "snippet": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-    "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-    "snippet": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-    "snippet": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-    "snippet": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-    "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-    "snippet": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Spain and China are cosying up - to the anger of many in the EU",
-    "snippet": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-    "snippet": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "What we know about Christa Pike’s condition after failed execution",
-    "snippet": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
-    "link": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
+    "category": "BUSINESS",
+    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+    "snippet": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-01",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-    "snippet": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    "snippet": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-01",
     "source": "feeds.bbci.co.uk"
   },
