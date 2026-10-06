@@ -1,6 +1,14 @@
 [
   {
     "category": "WORLD",
+    "title": "Yemeni military says it has 'secured' Red Sea waterway",
+    "snippet": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-06",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
     "snippet": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
     "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
@@ -97,14 +105,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-    "snippet": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-05",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "All six passengers presumed dead after plane went missing off US coast",
     "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
     "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
@@ -153,9 +153,25 @@
   },
   {
     "category": "BUSINESS",
+    "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+    "snippet": "A growing number of parents are opening retirement funds for their children.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Average five-year mortgage rate hits 6% for first time in three years",
     "snippet": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
     "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Five reasons India's stock market is sinking even when its economy is growing",
+    "snippet": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -169,17 +185,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-    "snippet": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+    "title": "Trump chooses top spy boss to run new AI taskforce",
+    "snippet": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-05",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "Trump chooses top spy boss to run new AI taskforce",
-    "snippet": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+    "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+    "snippet": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-05",
     "source": "feeds.bbci.co.uk"
   },
@@ -201,7 +217,7 @@
   },
   {
     "category": "TECH",
-    "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
+    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
     "snippet": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
     "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
     "date": "2026-10-05",
@@ -400,14 +416,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "New baby bank 'open to everybody'",
-    "snippet": "The facility offers essential items for free, including clothes for babies and small children.",
-    "link": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Tech Now",
     "snippet": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
@@ -573,14 +581,6 @@
     "snippet": "Protests about 87-year-old Mariacarmen Abascal's eviction reignited the housing debate",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-01",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Vape tax comes into effect - but prices won't rise yet",
-    "snippet": "Vaping is about to becoming more expensive due to a new tax on products.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
   {

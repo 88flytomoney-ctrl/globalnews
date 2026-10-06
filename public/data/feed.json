@@ -1,50 +1,58 @@
 {
-  "generatedAt": "2026-10-05T22:46:06.938997+00:00",
+  "generatedAt": "2026-10-06T02:15:43.785770+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 85974.0703,
+      "current": 85465.1797,
       "prev5d": 83553.8516,
-      "pctChange": 2.9,
+      "pctChange": 2.29,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4171.1001,
+      "current": 4156.3999,
       "prev5d": 4168.3999,
-      "pctChange": 0.06,
+      "pctChange": -0.29,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 89.22,
+      "current": 89.6,
       "prev5d": 92.6,
-      "pctChange": -3.65,
+      "pctChange": -3.24,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8547,
-      "prev5d": 0.8558,
-      "pctChange": -0.13,
+      "current": 0.854,
+      "prev5d": 0.8554,
+      "pctChange": -0.16,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0494,
-      "prev5d": 0.0498,
-      "pctChange": -0.73,
+      "prev5d": 0.0499,
+      "pctChange": -0.82,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1135,
-      "prev5d": 0.112,
+      "current": 0.1136,
+      "prev5d": 0.1121,
       "pctChange": 1.32,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "snippet": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
@@ -143,14 +151,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-      "snippet": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "All six passengers presumed dead after plane went missing off US coast",
       "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
@@ -199,9 +199,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+      "snippet": "A growing number of parents are opening retirement funds for their children.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Average five-year mortgage rate hits 6% for first time in three years",
       "snippet": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
       "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-05",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "snippet": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-05",
       "source": "feeds.bbci.co.uk"
     },
@@ -215,17 +231,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-      "snippet": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "snippet": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-05",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "snippet": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "snippet": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-05",
       "source": "feeds.bbci.co.uk"
     },
@@ -247,7 +263,7 @@
     },
     {
       "category": "TECH",
-      "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
       "snippet": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
       "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
       "date": "2026-10-05",
@@ -446,14 +462,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "New baby bank 'open to everybody'",
-      "snippet": "The facility offers essential items for free, including clothes for babies and small children.",
-      "link": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "Tech Now",
       "snippet": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
@@ -619,14 +627,6 @@
       "snippet": "Protests about 87-year-old Mariacarmen Abascal's eviction reignited the housing debate",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-01",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Vape tax comes into effect - but prices won't rise yet",
-      "snippet": "Vaping is about to becoming more expensive due to a new tax on products.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-30",
       "source": "feeds.bbci.co.uk"
     },
     {
