@@ -1,17 +1,145 @@
 [
   {
     "category": "WORLD",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "snippet": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+    "snippet": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "snippet": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-10",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "US immigration officials defend ICE agents who shot man in same car as child",
-    "snippet": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "snippet": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+    "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+    "snippet": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+    "snippet": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "snippet": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+    "snippet": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+    "snippet": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Woman injures three people in third Poland school knife attack in a week",
+    "snippet": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+    "snippet": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+    "snippet": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "snippet": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+    "snippet": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US country music star Ella Langley cancels show due to 'security threat'",
+    "snippet": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+    "snippet": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+    "snippet": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+    "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+    "snippet": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+    "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
+    "snippet": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-10",
     "source": "feeds.bbci.co.uk"
   },
@@ -20,6 +148,62 @@
     "title": "Questions remain over Ebola patient who travelled across three nations undetected",
     "snippet": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
     "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+    "snippet": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+    "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+    "snippet": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+    "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "How the trial of murdered Australian brothers and US friend unfolded",
+    "snippet": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+    "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "snippet": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Money Box",
+    "snippet": "What age will you get your state pension?",
+    "link": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "King warns malicious online actors are evolving tactics",
+    "snippet": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-10",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "How drones are hunting fires hidden beneath the Cairngorms",
+    "snippet": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+    "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-10",
     "source": "feeds.bbci.co.uk"
   },
@@ -33,6 +217,62 @@
   },
   {
     "category": "TECH",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "snippet": "Is Apple hoping to get into the AI-generated podcast business?",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "snippet": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+    "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "snippet": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "snippet": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "snippet": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+    "date": "2026-10-10",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -41,49 +281,17 @@
   },
   {
     "category": "WORLD",
-    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    "snippet": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+    "snippet": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-    "snippet": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-    "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-    "snippet": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+    "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
     "snippet": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
     "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-    "snippet": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-    "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-    "snippet": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
   },
@@ -97,14 +305,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-    "snippet": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
     "snippet": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
     "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
@@ -113,104 +313,16 @@
   },
   {
     "category": "WORLD",
-    "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-    "snippet": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Commentator Katie Zacharia picked as new White House press secretary",
-    "snippet": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-    "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-    "snippet": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "France promises 3,000 extra teachers in first step to calm student protests",
-    "snippet": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-    "snippet": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-    "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Crazy Rich Asians to return as TV show with original film's stars",
-    "snippet": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-    "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-    "snippet": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Two Renoir paintings stolen from French museum are recovered",
-    "snippet": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
-    "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-    "snippet": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
-    "snippet": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal injection.",
-    "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-    "snippet": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-    "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Adidas sues Australian label White Fox over four stripes design",
-    "snippet": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-    "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "snippet": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
     "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-    "snippet": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+    "snippet": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
     "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
@@ -225,14 +337,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-    "snippet": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Meet India's feisty Gen Z protester who is taking on Modi",
     "snippet": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
     "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
@@ -241,41 +345,17 @@
   },
   {
     "category": "WORLD",
+    "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+    "snippet": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
+    "link": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Thai Queen makes first solo flight in fighter jet",
     "snippet": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
     "link": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-    "snippet": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
-    "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Tornado rips through Sicilian town and city",
-    "snippet": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
-    "link": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-    "snippet": "Protests against sexual violence took place across more than 40 US states on 8 October.",
-    "link": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
-    "snippet": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
-    "link": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
   },
@@ -329,6 +409,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+    "snippet": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+    "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "'You cannot build this car anywhere else in the world'",
     "snippet": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
     "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
@@ -348,6 +436,14 @@
     "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
     "snippet": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
     "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-09",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Adidas sues Australian label White Fox over four stripes design",
+    "snippet": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
   },
@@ -478,54 +574,6 @@
     "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
     "date": "2026-10-09",
     "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-    "snippet": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back t",
-    "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-    "date": "2026-10-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-    "snippet": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco d",
-    "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-    "date": "2026-10-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-    "snippet": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50%",
-    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "date": "2026-10-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-    "snippet": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
-    "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-    "date": "2026-10-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Xona’s commercial GPS alternative is about to go live",
-    "snippet": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-    "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-    "date": "2026-10-09",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-    "snippet": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-08",
-    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
@@ -664,22 +712,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "TECH",
-    "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-    "snippet": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-    "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-    "date": "2026-10-08",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "date": "2026-10-08",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "BUSINESS",
     "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
     "snippet": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
@@ -717,22 +749,6 @@
     "snippet": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
     "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-    "snippet": "The research found that important guardrails for teens using ChatGPT often failed.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-    "snippet": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-    "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-06",
     "source": "feeds.bbci.co.uk"
   },
   {
