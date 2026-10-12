@@ -1,50 +1,58 @@
 {
-  "generatedAt": "2026-10-11T22:46:04.105578+00:00",
+  "generatedAt": "2026-10-12T01:17:37.834885+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 83594.2734,
+      "current": 83795.2734,
       "prev5d": 85557.5625,
-      "pctChange": -2.29,
+      "pctChange": -2.06,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4213.2002,
+      "current": 4233.2002,
       "prev5d": 4156.7998,
-      "pctChange": 1.36,
+      "pctChange": 1.84,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 92.5,
+      "current": 89.9,
       "prev5d": 89.43,
-      "pctChange": 3.43,
+      "pctChange": 0.53,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8529,
+      "current": 0.8527,
       "prev5d": 0.8544,
-      "pctChange": -0.17,
+      "pctChange": -0.19,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0493,
+      "current": 0.0494,
       "prev5d": 0.0497,
-      "pctChange": -0.9,
+      "pctChange": -0.74,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1138,
+      "current": 0.1136,
       "prev5d": 0.1132,
-      "pctChange": 0.48,
+      "pctChange": 0.31,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "TECH",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "date": "2026-10-12",
+      "source": "techcrunch.com"
+    },
     {
       "category": "WORLD",
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
@@ -55,8 +63,8 @@
     },
     {
       "category": "WORLD",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "snippet": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "snippet": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-11",
       "source": "feeds.bbci.co.uk"
@@ -167,6 +175,46 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Iran war threatens Healey's Budget plans, think tank warns",
+      "snippet": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "snippet": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Debt advice that may leave you owing even more money",
+      "snippet": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Roofing scammers con homeowners out of thousands of pounds",
+      "snippet": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "snippet": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Citroen revives the 2CV for an electric age",
       "snippet": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
       "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
@@ -184,7 +232,7 @@
     {
       "category": "TECH",
       "title": "Will the HomeView be Apple’s first smart home success?",
-      "snippet": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was",
+      "snippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
       "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "date": "2026-10-11",
       "source": "techcrunch.com"
@@ -519,54 +567,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-      "snippet": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'You cannot build this car anywhere else in the world'",
-      "snippet": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Everton owners consider selling club two years after takeover",
-      "snippet": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "snippet": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "snippet": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Contribution of high value residents discussed",
-      "snippet": "More than 260 industry leaders met to discuss the role wealthy residents play in Jersey's economy.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Why are there so many sports subscriptions?",
       "snippet": "Pete Oliver of DAZN explains why the is a growing number of sports subscriptions and why they are getting more expensive.",
       "link": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
@@ -578,6 +578,22 @@
       "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
       "snippet": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
       "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "snippet": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "snippet": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -596,94 +612,6 @@
       "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
       "date": "2026-10-09",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "date": "2026-10-09",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'Add me on WhatsApp' scam calls to be investigated",
-      "snippet": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "White House blocks Microsoft from foreign worker hiring programme",
-      "snippet": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "snippet": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "snippet": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Plans to shut Marston's Brewery in Burton revealed",
-      "snippet": "Burton-upon-Trent's links with beer and brewing date back centuries.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
-      "snippet": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Chrysler Building to get its crown restored after being sold",
-      "snippet": "The distinctive Manhattan skyscraper will undergo a major renovation and provide a new supply of offices.",
-      "link": "https://www.bbc.co.uk/news/articles/c8g47z3r4dzvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'Come all the way' back to EU, French finance minister tells UK",
-      "snippet": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Bid to run new trains on West Coast Mainline refused",
-      "snippet": "Plans for more trains would “likely increase delays and cancelled trains\", the rail regulator says.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Derry firm becomes one of UK's biggest car park operators after buying NCP",
-      "snippet": "The Martin Group has become one of the UK's biggest car park operators after buying NCP out of administration.",
-      "link": "https://www.bbc.co.uk/news/articles/c693z8dz1kq4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-08",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -719,26 +647,26 @@
     },
     {
       "category": "TECH",
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "snippet": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
+      "snippet": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-08",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-      "snippet": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-07",
+      "category": "TECH",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "snippet": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-08",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "The wildlife winners set to appear on your banknotes revealed",
-      "snippet": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-07",
+      "category": "TECH",
+      "title": "AI chip boom pushes Samsung profits to record $80bn",
+      "snippet": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-08",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -754,14 +682,6 @@
       "title": "Rainmakers: The drones used to seed clouds",
       "snippet": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
       "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "snippet": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-07",
       "source": "feeds.bbci.co.uk"
     },
