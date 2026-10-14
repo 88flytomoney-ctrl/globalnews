@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-10-13T22:46:05.691779+00:00",
+  "generatedAt": "2026-10-14T01:11:11.581367+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 83454.9922,
+      "current": 83209.5,
       "prev5d": 81676.3359,
-      "pctChange": 2.18,
+      "pctChange": 1.88,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4183.5,
+      "current": 4177.7998,
       "prev5d": 4187.1001,
-      "pctChange": -0.09,
+      "pctChange": -0.22,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 94.74,
+      "current": 95.28,
       "prev5d": 89.44,
-      "pctChange": 5.93,
+      "pctChange": 6.53,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8527,
-      "prev5d": 0.8544,
+      "current": 0.8526,
+      "prev5d": 0.8543,
       "pctChange": -0.2,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0493,
-      "prev5d": 0.0497,
-      "pctChange": -0.73,
+      "prev5d": 0.0496,
+      "pctChange": -0.61,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1137,
-      "prev5d": 0.1136,
-      "pctChange": 0.11,
+      "prev5d": 0.1132,
+      "pctChange": 0.4,
       "isForex": true
     }
   ],
@@ -50,7 +50,15 @@
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "snippet": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "snippet": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -58,6 +66,14 @@
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
       "snippet": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "snippet": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -87,14 +103,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "snippet": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "snippet": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
@@ -103,17 +111,33 @@
     },
     {
       "category": "WORLD",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "snippet": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "snippet": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "snippet": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "snippet": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "snippet": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+      "snippet": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -138,22 +162,6 @@
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "snippet": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
       "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "snippet": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "BBC FM radio transmissions suspended in Afghanistan",
-      "snippet": "BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -191,6 +199,14 @@
     },
     {
       "category": "WORLD",
+      "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+      "snippet": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Why the lonely in China are hiring 'temporary children'",
       "snippet": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
       "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +230,18 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-      "snippet": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
-      "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "snippet": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "snippet": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -234,6 +258,14 @@
       "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
       "snippet": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How long will humans be needed for translation?",
+      "snippet": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -308,6 +340,30 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "date": "2026-10-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "date": "2026-10-13",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "date": "2026-10-13",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -444,38 +500,6 @@
       "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
       "date": "2026-10-13",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-      "snippet": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-      "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-      "date": "2026-10-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-      "snippet": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
-      "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "date": "2026-10-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "snippet": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at ",
-      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "date": "2026-10-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "The island where locals say data centres are taking their water",
-      "snippet": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-12",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -666,14 +690,6 @@
       "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
       "snippet": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
       "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "'Careless use of AI is the real threat - not the ghost stories'",
-      "snippet": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-09",
       "source": "feeds.bbci.co.uk"
     },
