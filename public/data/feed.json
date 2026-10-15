@@ -1,53 +1,61 @@
 {
-  "generatedAt": "2026-10-14T22:46:06.561295+00:00",
+  "generatedAt": "2026-10-15T00:29:40.859359+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 81367.0,
+      "current": 81662.25,
       "prev5d": 82546.3203,
-      "pctChange": -1.43,
+      "pctChange": -1.07,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4128.0,
+      "current": 4158.2002,
       "prev5d": 4140.7002,
-      "pctChange": -0.31,
+      "pctChange": 0.42,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 95.08,
+      "current": 94.58,
       "prev5d": 88.28,
-      "pctChange": 7.7,
+      "pctChange": 7.14,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8534,
+      "current": 0.8535,
       "prev5d": 0.8543,
-      "pctChange": -0.11,
+      "pctChange": -0.1,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0494,
+      "current": 0.0495,
       "prev5d": 0.0496,
-      "pctChange": -0.34,
+      "pctChange": -0.38,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.114,
-      "prev5d": 0.1132,
-      "pctChange": 0.72,
+      "current": 0.1138,
+      "prev5d": 0.1138,
+      "pctChange": 0.0,
       "isForex": true
     }
   ],
   "news": [
     {
+      "category": "TECH",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "snippet": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "date": "2026-10-15",
+      "source": "techcrunch.com"
+    },
+    {
       "category": "WORLD",
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "snippet": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
@@ -55,8 +63,8 @@
     },
     {
       "category": "WORLD",
-      "title": "Student protesters attack government buildings in Tirana",
-      "snippet": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "title": "Student protesters attack government buildings in Albania",
+      "snippet": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
       "source": "feeds.bbci.co.uk"
@@ -239,9 +247,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "snippet": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
       "snippet": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
       "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "snippet": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -303,6 +327,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "How much is the minimum wage?",
+      "snippet": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "'It's rough out here': Americans struggle with rising inflation",
       "snippet": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
       "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
@@ -326,12 +358,12 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Heating oil users facing fuel or food winter choice",
-      "snippet": "It comes as ministers say they will tighten up rules on heating oil and promote competition.",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
+      "category": "TECH",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "snippet": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technol",
+      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
       "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -478,22 +510,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "snippet": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "date": "2026-10-14",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "snippet": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "date": "2026-10-14",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "Saudi employee charged with planting recording device in OpenAI office",
       "snippet": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
@@ -530,14 +546,6 @@
       "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
       "snippet": "One person has died and others were injured after an incident at a US amusement park.",
       "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "How long will humans be needed for translation?",
-      "snippet": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -599,6 +607,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "How long will humans be needed for translation?",
+      "snippet": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "NI company in talks to save Poundland from administration",
       "snippet": "Poundland says Martin Property Group from Londonderry is the management team's \"preferred partner\"",
       "link": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
@@ -655,17 +671,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "snippet": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "title": "What are your rights on auto-renew subscriptions?",
+      "snippet": "Martin has advice for listeners caught out by auto-renewing subscriptions, explaining what rights consumers have and whether there's a way to challenge the renewal or cancel.",
+      "link": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-12",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "What are your rights on auto-renew subscriptions?",
-      "snippet": "Martin has advice for listeners caught out by auto-renewing subscriptions, explaining what rights consumers have and whether there's a way to challenge the renewal or cancel.",
-      "link": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
+      "category": "TECH",
+      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+      "snippet": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-12",
       "source": "feeds.bbci.co.uk"
     },
