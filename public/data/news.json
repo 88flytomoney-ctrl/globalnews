@@ -1,14 +1,6 @@
 [
   {
     "category": "WORLD",
-    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-    "snippet": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
     "snippet": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
     "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
@@ -20,6 +12,14 @@
     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
     "snippet": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
     "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+    "snippet": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
   },
@@ -41,17 +41,25 @@
   },
   {
     "category": "WORLD",
-    "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-    "snippet": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+    "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+    "snippet": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-    "snippet": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
-    "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+    "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+    "snippet": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "snippet": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
   },
@@ -153,6 +161,14 @@
   },
   {
     "category": "WORLD",
+    "title": "Are student protests being manipulated ahead of France's presidential election?",
+    "snippet": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
     "snippet": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
     "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
@@ -169,22 +185,6 @@
   },
   {
     "category": "WORLD",
-    "title": "At the scene of a school roof collapse in Pakistan",
-    "snippet": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
-    "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
-    "snippet": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
-    "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
     "snippet": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
     "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
@@ -193,17 +193,33 @@
   },
   {
     "category": "WORLD",
-    "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
-    "snippet": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
-    "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+    "title": "Watch: Moment drone hits supermarket in Odesa",
+    "snippet": "CCTV video verified by the BBC shows the drone strike in the town of Mayaky in Ukraine's Odesa region.",
+    "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-    "snippet": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
-    "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+    "title": "At the scene of a school roof collapse in Pakistan",
+    "snippet": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+    "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
+    "snippet": "The BBC's Shaimaa Khalil travelled to the US state to hear from residents who live alongside these giant facilities.",
+    "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: Australian band breaks world record for most gigs in 12 hours",
+    "snippet": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+    "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
   },
@@ -212,6 +228,14 @@
     "title": "Banks say Healey is planning Budget tax raid on their profits",
     "snippet": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
     "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "I find it quite demoralising in store - why I do all my shopping online",
+    "snippet": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+    "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
   },
@@ -241,6 +265,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Living with a stink? Technology might help",
+    "snippet": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+    "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
     "snippet": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
     "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
@@ -265,11 +297,35 @@
   },
   {
     "category": "TECH",
+    "title": "Porn showing choking or incest to be banned from early November, government says",
+    "snippet": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-15",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
     "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
     "snippet": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
     "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-15",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "date": "2026-10-15",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+    "snippet": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+    "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+    "date": "2026-10-15",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -416,22 +472,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-    "snippet": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-    "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "snippet": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
     "snippet": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
@@ -452,14 +492,6 @@
     "title": "How backlash against data centres could shape the US midterm elections",
     "snippet": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
     "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-14",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-    "snippet": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-    "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-14",
     "source": "feeds.bbci.co.uk"
   },
@@ -673,26 +705,10 @@
   },
   {
     "category": "TECH",
-    "title": "How drones are hunting fires hidden beneath the Cairngorms",
-    "snippet": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
     "title": "Tech Now",
     "snippet": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
     "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-    "snippet": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-    "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-09",
     "source": "feeds.bbci.co.uk"
   },
   {
