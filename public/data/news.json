@@ -1,41 +1,249 @@
 [
   {
     "category": "WORLD",
-    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-    "snippet": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-    "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
+    "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "snippet": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "snippet": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "snippet": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Anti-government protesters battle with police in Albania",
+    "snippet": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "At least 17 dead in crush at Hindu festival event in India",
+    "snippet": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+    "snippet": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
     "snippet": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-    "snippet": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
+    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+    "snippet": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+    "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Katie Zacharia leaving her White House role less than five days on the job",
-    "snippet": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+    "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+    "snippet": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+    "snippet": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+    "snippet": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+    "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Pope discharged from hospital days after lung cancer surgery",
+    "snippet": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Katie Zacharia leaving White House role less than five days into job",
+    "snippet": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
     "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+    "snippet": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+    "snippet": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "The uncertain future of Canada's 30 rescued belugas",
+    "snippet": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+    "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+    "snippet": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "How day of protests unfolded as disorder breaks out across France",
+    "snippet": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+    "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Low-cost clinic helps pet owners with vet bills",
+    "snippet": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Call for more food funding due to high living cost",
+    "snippet": "Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial.",
+    "link": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Charity reflects on changing needs over 25 years",
+    "snippet": "Help a Guernsey Child says it has provided in excess of £1.2m worth of essential support.",
+    "link": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Nightclubs are disappearing - and it's affecting young people",
+    "snippet": "One young person said with no nightlife in their town they cannot \"let loose and mess around\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "No further action against government adviser's wife over Palestine Action post, police say",
+    "snippet": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "date": "2026-10-17",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "snippet": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+    "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "date": "2026-10-17",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "date": "2026-10-17",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-17",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "snippet": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "date": "2026-10-17",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+    "snippet": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing ",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+    "date": "2026-10-17",
+    "source": "techcrunch.com"
   },
   {
     "category": "WORLD",
     "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
     "snippet": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
     "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-16",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+    "snippet": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+    "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-16",
     "source": "feeds.bbci.co.uk"
   },
@@ -49,78 +257,6 @@
   },
   {
     "category": "WORLD",
-    "title": "Pope pictured for first time since surgery and cancer diagnosis",
-    "snippet": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Trump denies limiting Ukraine access to Starlink network",
-    "snippet": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "India's 'cockroach' party founder detained ahead of protest",
-    "snippet": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "snippet": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-    "snippet": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-    "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Albanian protests turn violent: What we know",
-    "snippet": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-    "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-    "snippet": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-    "snippet": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-    "snippet": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
-    "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
     "title": "What we learned from heated US midterm Senate debates",
     "snippet": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
     "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
@@ -129,9 +265,9 @@
   },
   {
     "category": "WORLD",
-    "title": "They fled Russia, but the West sent them back",
-    "snippet": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+    "snippet": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-16",
     "source": "feeds.bbci.co.uk"
   },
@@ -177,17 +313,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Fuel costs squeezing margins for some businesses",
-    "snippet": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
-    "link": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "'TV and cheap booze' blamed for landlord quitting",
-    "snippet": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
-    "link": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
+    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "snippet": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-16",
     "source": "feeds.bbci.co.uk"
   },
@@ -206,14 +334,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-16",
     "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-16",
-    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -320,94 +440,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "WORLD",
-    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-    "snippet": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-    "snippet": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-    "snippet": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-    "snippet": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-    "snippet": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-    "snippet": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-    "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-    "snippet": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-    "snippet": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-    "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Are student protests being manipulated ahead of France's presidential election?",
-    "snippet": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-    "snippet": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-    "snippet": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
-    "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
     "title": "I find it quite demoralising in store - why I do all my shopping online",
     "snippet": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
@@ -464,14 +496,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-    "snippet": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
-    "link": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Porn showing choking or incest to be banned from early November, government says",
     "snippet": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
@@ -492,46 +516,6 @@
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-    "snippet": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-    "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-    "snippet": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "date": "2026-10-15",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-    "snippet": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
     "date": "2026-10-15",
     "source": "techcrunch.com"
   },
@@ -700,14 +684,6 @@
     "title": "What are your rights on auto-renew subscriptions?",
     "snippet": "Martin has advice for listeners caught out by auto-renewing subscriptions, explaining what rights consumers have and whether there's a way to challenge the renewal or cancel.",
     "link": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-    "snippet": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-12",
     "source": "feeds.bbci.co.uk"
   },
