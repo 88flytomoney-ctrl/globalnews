@@ -1,50 +1,58 @@
 {
-  "generatedAt": "2026-10-18T22:45:51.937044+00:00",
+  "generatedAt": "2026-10-19T00:11:40.472024+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 81684.6016,
+      "current": 82073.8516,
       "prev5d": 83095.125,
-      "pctChange": -1.7,
+      "pctChange": -1.23,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4198.1001,
+      "current": 4207.7002,
       "prev5d": 4190.6001,
-      "pctChange": 0.18,
+      "pctChange": 0.41,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 98.33,
+      "current": 97.54,
       "prev5d": 93.74,
-      "pctChange": 4.9,
+      "pctChange": 4.05,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8514,
+      "current": 0.8515,
       "prev5d": 0.8528,
-      "pctChange": -0.16,
+      "pctChange": -0.15,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0494,
+      "current": 0.0495,
       "prev5d": 0.0496,
-      "pctChange": -0.3,
+      "pctChange": -0.24,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1135,
+      "current": 0.1134,
       "prev5d": 0.1137,
-      "pctChange": -0.15,
+      "pctChange": -0.26,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "snippet": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "Macron calls for 'calm and order' after riots across France",
@@ -55,9 +63,17 @@
     },
     {
       "category": "WORLD",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "snippet": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "snippet": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "snippet": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-18",
       "source": "feeds.bbci.co.uk"
     },
@@ -79,9 +95,25 @@
     },
     {
       "category": "WORLD",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "snippet": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "snippet": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
       "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "snippet": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-18",
       "source": "feeds.bbci.co.uk"
     },
@@ -103,22 +135,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "snippet": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "snippet": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
       "snippet": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
       "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
@@ -130,6 +146,30 @@
       "title": "Parisians wake up to protest damage and looted shops",
       "snippet": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
       "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "snippet": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "snippet": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "snippet": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-18",
       "source": "feeds.bbci.co.uk"
     },
@@ -322,22 +362,6 @@
       "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
       "snippet": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-17",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Low-cost clinic helps pet owners with vet bills",
-      "snippet": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-17",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Call for more food funding due to high living cost",
-      "snippet": "Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial.",
-      "link": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-17",
       "source": "feeds.bbci.co.uk"
     },
@@ -551,14 +575,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Living with a stink? Technology might help",
-      "snippet": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "I find it quite demoralising in store - why I do all my shopping online",
       "snippet": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
       "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
@@ -567,33 +583,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-      "snippet": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "snippet": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "snippet": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "snippet": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "title": "Living with a stink? Technology might help",
+      "snippet": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-15",
       "source": "feeds.bbci.co.uk"
     },
@@ -622,99 +614,11 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "snippet": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "How much is the minimum wage?",
-      "snippet": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-      "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "snippet": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "snippet": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "snippet": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-      "snippet": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-      "snippet": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "snippet": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "snippet": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "snippet": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-      "snippet": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-      "snippet": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-14",
+      "category": "TECH",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "snippet": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-15",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -722,6 +626,22 @@
       "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
       "snippet": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
       "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "snippet": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-14",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "snippet": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-14",
       "source": "feeds.bbci.co.uk"
     },
@@ -746,14 +666,6 @@
       "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
       "snippet": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "snippet": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-13",
       "source": "feeds.bbci.co.uk"
     },
