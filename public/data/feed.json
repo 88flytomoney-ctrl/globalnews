@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-19T22:46:00.064400+00:00",
+  "generatedAt": "2026-10-20T01:04:23.767872+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 81965.0,
+      "current": 81483.7578,
       "prev5d": 81562.4922,
-      "pctChange": 0.49,
+      "pctChange": -0.1,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4158.6001,
+      "current": 4148.7998,
       "prev5d": 4190.6001,
-      "pctChange": -0.76,
+      "pctChange": -1.0,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 98.24,
+      "current": 98.49,
       "prev5d": 93.74,
-      "pctChange": 4.8,
+      "pctChange": 5.07,
       "isForex": false
     },
     {
@@ -32,19 +32,35 @@
     {
       "name": "100 JPY to HKD",
       "current": 0.0492,
-      "prev5d": 0.0496,
-      "pctChange": -0.71,
+      "prev5d": 0.0495,
+      "pctChange": -0.53,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1136,
-      "prev5d": 0.1137,
-      "pctChange": -0.12,
+      "prev5d": 0.1142,
+      "pctChange": -0.52,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
+      "snippet": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "snippet": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
@@ -63,17 +79,25 @@
     },
     {
       "category": "WORLD",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "snippet": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "snippet": "The two top tennis pros married in 2021 and have one child together.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "snippet": "The two top tennis pros married in 2021 and have one child together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "snippet": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "snippet": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -175,17 +199,25 @@
     },
     {
       "category": "WORLD",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "snippet": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "snippet": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "snippet": "France is used to protests but the violence and damage seen across the country is shocking many people.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "snippet": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "snippet": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -199,9 +231,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Watch: Are the French riots a warning of an intense election to come?",
-      "snippet": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
-      "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+      "title": "Clean up begins after French riots but police remain",
+      "snippet": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+      "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -210,14 +242,6 @@
       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
       "snippet": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
       "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US Church on frontline of battle against drug known as 'tranq'",
-      "snippet": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -234,6 +258,14 @@
       "title": "Burnham vows end to 'rip-off parking charges' under new rules",
       "snippet": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
       "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "snippet": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -332,6 +364,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-19",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "snippet": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "date": "2026-10-19",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "snippet": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. Howe",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "date": "2026-10-19",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -463,14 +511,6 @@
     },
     {
       "category": "WORLD",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "snippet": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
       "snippet": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
       "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
@@ -534,14 +574,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "Heating oil customers face tough winter",
-      "snippet": "The government plans to regulate heating oil prices after increases.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "TECH",
       "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
       "snippet": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
@@ -562,22 +594,6 @@
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
       "snippet": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
       "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "date": "2026-10-18",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "date": "2026-10-18",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
       "date": "2026-10-18",
       "source": "techcrunch.com"
     },
