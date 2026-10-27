@@ -1,5 +1,37 @@
 [
   {
+    "category": "BUSINESS",
+    "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    "snippet": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+    "snippet": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+    "snippet": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+    "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "date": "2026-10-27",
+    "source": "techcrunch.com"
+  },
+  {
     "category": "WORLD",
     "title": "Lula wins fourth term in dramatic Brazil election comeback",
     "snippet": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
@@ -209,14 +241,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-    "snippet": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
     "snippet": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
     "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
@@ -233,17 +257,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "snippet": "The economic is positive now but come January things could become trickier for the Labour government",
-    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+    "title": "What is the Budget and what could be in it?",
+    "snippet": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-26",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "What is the Budget and what could be in it?",
-    "snippet": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+    "snippet": "The economic is positive now but come January things could become trickier for the Labour government",
+    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-26",
     "source": "feeds.bbci.co.uk"
   },
@@ -257,8 +281,8 @@
   },
   {
     "category": "TECH",
-    "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-    "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+    "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
     "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
     "date": "2026-10-26",
     "source": "techcrunch.com"
@@ -521,14 +545,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Rising demand from families needing Christmas help",
-    "snippet": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-24",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "The Documentary",
     "snippet": "Author Katja Hoyer, reports on a city which benefits from a new, green landscape",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct9kk8?at_medium=RSS&at_campaign=rss",
@@ -540,14 +556,6 @@
     "title": "Starlink seems to be working normally again in Ukraine",
     "snippet": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
     "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-    "date": "2026-10-24",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "snippet": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
     "date": "2026-10-24",
     "source": "techcrunch.com"
   },
@@ -585,14 +593,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "What is PHP and why did it spark a global cyber-security scramble?",
-    "snippet": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-    "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "The Indian workers filming their work to train AI",
     "snippet": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
     "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
@@ -612,6 +612,14 @@
     "title": "Renting in London - 'I pay £2,000 for one bedroom'",
     "snippet": "We ask people in the capital how much they pay for their homes.",
     "link": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-23",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "snippet": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+    "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-23",
     "source": "feeds.bbci.co.uk"
   },
@@ -664,14 +672,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Tank barrel production returns to UK after 20 years",
-    "snippet": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-22",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Race to update services' computer systems after cyber-security flaw found",
     "snippet": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
@@ -692,14 +692,6 @@
     "title": "'500 new vulnerabilities' found in government, says AI minister",
     "snippet": "'500 new vulnerabilities' found in government, says AI minister",
     "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-22",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "UK working to identify exposure after global cyber-security warning",
-    "snippet": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-22",
     "source": "feeds.bbci.co.uk"
   },
