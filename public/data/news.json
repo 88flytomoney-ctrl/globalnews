@@ -1,6 +1,46 @@
 [
   {
     "category": "WORLD",
+    "title": "Watch: What happens now after close vote in Israeli election?",
+    "snippet": "Polls have closed in the Israeli election, but there is no clear winner.",
+    "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+    "snippet": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'An annoying buzz': The search for stealthier drones",
+    "snippet": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+    "snippet": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "snippet": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "date": "2026-10-28",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "WORLD",
     "title": "Norway and Finland leaders hold rare call with Putin",
     "snippet": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
     "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
@@ -49,8 +89,8 @@
   },
   {
     "category": "WORLD",
-    "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-    "snippet": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+    "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+    "snippet": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
     "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
@@ -145,6 +185,14 @@
   },
   {
     "category": "WORLD",
+    "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "snippet": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Watch: The Mbappé-Chairman Mao controversy explained",
     "snippet": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
     "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
@@ -161,24 +209,8 @@
   },
   {
     "category": "WORLD",
-    "title": "Why it could take time for a new Israeli government to form",
-    "snippet": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-    "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-    "snippet": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
-    "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Trump vs Obama - which president has the star power to get out the vote?",
-    "snippet": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+    "title": "Trump v Obama - which president has the star power to get out the vote?",
+    "snippet": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
     "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
@@ -217,14 +249,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-    "snippet": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "snippet": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
     "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
@@ -233,9 +257,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Landline switchover could cut people off in emergency, minister warned",
-    "snippet": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+    "title": "China's families are now supporting more old people than kids",
+    "snippet": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+    "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -249,6 +273,14 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Landline switchover could cut people off in emergency, minister warned",
+    "snippet": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "Apple to replace iPhone Duos affected by screen problem",
     "snippet": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
     "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
@@ -257,9 +289,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-    "snippet": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    "title": "Plaid demands more cash, but how could the Budget affect Wales?",
+    "snippet": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\".",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+    "snippet": "Some families say they cannot afford to stockpile in line with the government's advice.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -276,22 +316,6 @@
     "title": "More cats abandoned 'due to rising costs'",
     "snippet": "The shelter has seen a \"huge increase\" in the number of cats it has taken in, compared to last year.",
     "link": "https://www.bbc.co.uk/news/articles/c3dxwzzewpz1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "First-time buyer wary of Budget housing loan scheme",
-    "snippet": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
-    "link": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Will the Budget pass Burnham's Makerfield test?",
-    "snippet": "People in the prime minister's constituency say rising costs are squeezing household finances.",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -318,6 +342,22 @@
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "snippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "date": "2026-10-27",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "snippet": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "date": "2026-10-27",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -454,38 +494,6 @@
     "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
     "date": "2026-10-27",
     "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-    "snippet": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made ",
-    "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-    "date": "2026-10-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "snippet": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "date": "2026-10-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "snippet": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "date": "2026-10-27",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-    "snippet": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
-    "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-26",
-    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
@@ -644,14 +652,6 @@
     "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
     "snippet": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
     "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-22",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "'500 new vulnerabilities' found in government, says AI minister",
-    "snippet": "'500 new vulnerabilities' found in government, says AI minister",
-    "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-22",
     "source": "feeds.bbci.co.uk"
   },
