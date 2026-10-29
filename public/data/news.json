@@ -1,6 +1,46 @@
 [
   {
     "category": "WORLD",
+    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "snippet": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+    "snippet": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+    "snippet": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "snippet": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "snippet": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "High-speed train crash kills at least 68 people in Spain",
     "snippet": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
     "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
@@ -12,14 +52,6 @@
     "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
     "snippet": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
     "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-    "snippet": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -92,6 +124,14 @@
     "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
     "snippet": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
     "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-28",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: King dances in the streets of the Bahamas capital",
+    "snippet": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+    "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -193,17 +233,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Will I get the £100 energy payment and when will I receive it?",
-    "snippet": "Here is what you need to know about the payment that millions will receive from January.",
-    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "snippet": "The Russian President praised Musk and said they are in \"close\" contact.",
+    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-28",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-    "snippet": "The Russian President praised Musk and said they are in \"close\" contact.",
-    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "snippet": "Here is what you need to know about the payment that millions will receive from January.",
+    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -313,11 +353,19 @@
   },
   {
     "category": "TECH",
-    "title": "Details of thousands of US immigration agents leaked in major hack",
-    "snippet": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "snippet": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
     "date": "2026-10-28",
-    "source": "feeds.bbci.co.uk"
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "snippet": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+    "date": "2026-10-28",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -464,22 +512,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Meta has a new AI pet app called Waddle World",
-    "snippet": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-    "date": "2026-10-28",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-    "snippet": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
-    "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-    "date": "2026-10-28",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
     "snippet": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -524,14 +556,6 @@
     "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
     "snippet": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
     "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-27",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-    "snippet": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-    "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -661,14 +685,6 @@
     "snippet": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
     "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-    "snippet": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-22",
     "source": "feeds.bbci.co.uk"
   },
   {
