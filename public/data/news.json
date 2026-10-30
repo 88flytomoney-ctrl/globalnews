@@ -1,5 +1,29 @@
 [
   {
+    "category": "BUSINESS",
+    "title": "Crypto worth billions frozen after suspected Binance hack",
+    "snippet": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+    "snippet": "A new generation is embracing eye-catching patching and visible mends.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-30",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "date": "2026-10-30",
+    "source": "techcrunch.com"
+  },
+  {
     "category": "WORLD",
     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
     "snippet": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
@@ -257,14 +281,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Microsoft profits soar days after announcing thousands of layoffs",
-    "snippet": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-    "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-29",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "The South West reacts to Budget announcements",
     "snippet": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
     "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
@@ -326,6 +342,30 @@
     "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-29",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "snippet": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-29",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+    "snippet": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+    "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+    "date": "2026-10-29",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "date": "2026-10-29",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -464,30 +504,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "snippet": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-    "date": "2026-10-29",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-    "snippet": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
-    "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-    "date": "2026-10-29",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "DoorDash to acquire Instacart for $17B",
-    "snippet": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-    "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-    "date": "2026-10-29",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
     "snippet": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
@@ -556,30 +572,6 @@
     "title": "Healey provides some breathing space but things still set to get worse for most",
     "snippet": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
     "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Will I get the £100 energy payment and when will I receive it?",
-    "snippet": "Here is what you need to know about the payment that millions will receive from January.",
-    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-    "snippet": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-    "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-28",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Budget 2026: Key points at a glance",
-    "snippet": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-28",
     "source": "feeds.bbci.co.uk"
   },
@@ -660,14 +652,6 @@
     "title": "The Indian workers filming their work to train AI",
     "snippet": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
     "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-23",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "What is PHP and why did it spark a global cyber-security scramble?",
-    "snippet": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-    "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-23",
     "source": "feeds.bbci.co.uk"
   },
