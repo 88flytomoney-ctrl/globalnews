@@ -1,5 +1,37 @@
 [
   {
+    "category": "BUSINESS",
+    "title": "Interest rates expected to rise for first time in over three years",
+    "snippet": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Australia's oldest department store David Jones collapses after 188 years",
+    "snippet": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+    "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-05",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "date": "2026-11-05",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "snippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "date": "2026-11-05",
+    "source": "techcrunch.com"
+  },
+  {
     "category": "WORLD",
     "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
     "snippet": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
@@ -209,7 +241,7 @@
   },
   {
     "category": "TECH",
-    "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
     "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
     "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
     "date": "2026-11-04",
@@ -352,14 +384,6 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-    "snippet": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, ",
-    "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-    "date": "2026-11-04",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
     "snippet": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
@@ -433,30 +457,6 @@
   },
   {
     "category": "BUSINESS",
-    "title": "North Korea denies being behind record $6.3bn Binance hack",
-    "snippet": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-    "snippet": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Christmas 2026 stamps unveiled by Royal Mail",
-    "snippet": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-03",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
     "title": "Keeping mortgage interest relief approved",
     "snippet": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
     "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
@@ -489,19 +489,27 @@
   },
   {
     "category": "TECH",
-    "title": "Tech Life",
-    "snippet": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "snippet": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-03",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "TECH",
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "snippet": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-03",
-    "source": "techcrunch.com"
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Tech Life",
+    "snippet": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-03",
+    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
@@ -524,22 +532,6 @@
     "title": "What we know about the alert app hack in Ukraine and Russia",
     "snippet": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
     "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Shop freezers in seven European countries hit by cyber-attack",
-    "snippet": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-02",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Ryanair says it may freeze workers' pay and raise airfares",
-    "snippet": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-02",
     "source": "feeds.bbci.co.uk"
   },
