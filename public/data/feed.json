@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T01:23:09.887312+00:00",
+  "generatedAt": "2026-11-08T22:45:59.741120+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 75676.1484,
-      "prev5d": 76677.2969,
-      "pctChange": -1.31,
+      "current": 74175.5391,
+      "prev5d": 77345.0469,
+      "pctChange": -4.1,
       "isForex": false
     },
     {
@@ -33,18 +33,114 @@
       "name": "100 JPY to HKD",
       "current": 0.0492,
       "prev5d": 0.0497,
-      "pctChange": -1.06,
+      "pctChange": -1.02,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1136,
-      "prev5d": 0.114,
-      "pctChange": -0.32,
+      "current": 0.1144,
+      "prev5d": 0.1143,
+      "pctChange": 0.16,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "snippet": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "snippet": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "snippet": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "snippet": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "snippet": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "snippet": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "snippet": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "snippet": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "snippet": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "snippet": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "snippet": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "snippet": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "TECH",
       "title": "Can the Zelda remake capture the magic of the original?",
@@ -54,50 +150,82 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "What we know so far after Krakow gun attack",
-      "snippet": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
+      "category": "TECH",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "snippet": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "snippet": "In a memo to the company, Huang admitted that he had an affair.",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "snippet": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "snippet": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "snippet": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "snippet": "SNL seems to have its knives out for tech executives.",
+      "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "snippet": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "snippet": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "date": "2026-11-08",
+      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "snippet": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "No clear winner after tight New Zealand general election",
-      "snippet": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "snippet": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "snippet": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "snippet": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07",
       "source": "feeds.bbci.co.uk"
     },
@@ -135,9 +263,25 @@
     },
     {
       "category": "WORLD",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "snippet": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "snippet": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "snippet": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07",
       "source": "feeds.bbci.co.uk"
     },
@@ -167,14 +311,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Four things we learned this week about 2028 White House race",
-      "snippet": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "The young Somali woman changing how the world sees Mogadishu",
       "snippet": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
       "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
@@ -183,25 +319,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-      "snippet": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
       "snippet": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
       "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "snippet": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07",
       "source": "feeds.bbci.co.uk"
     },
@@ -279,14 +407,6 @@
     },
     {
       "category": "WORLD",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "snippet": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "AI stocks climb after trillions wiped from market values",
       "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -327,17 +447,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "snippet": "After a week of disruption, airlines are facing both safety and financial concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "snippet": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "snippet": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
@@ -367,14 +479,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "snippet": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "snippet": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
@@ -399,6 +503,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "snippet": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Food bank to close amid rising costs",
       "snippet": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
       "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
@@ -410,14 +522,6 @@
       "title": "Winter support for residents facing cost pressures",
       "snippet": "The plans aim to help more people access food, financial advice and help with heating costs.",
       "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "'I've taken an extra job to pay for heating oil'",
-      "snippet": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
@@ -460,86 +564,6 @@
       "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "date": "2026-11-06",
       "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "snippet": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Fox completes its $22B acquisition of Roku",
-      "snippet": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "snippet": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "snippet": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "snippet": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "snippet": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "snippet": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "snippet": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
@@ -650,14 +674,6 @@
       "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
       "snippet": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "snippet": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03",
       "source": "feeds.bbci.co.uk"
     },
