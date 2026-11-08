@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-07T01:52:05.497863+00:00",
+  "generatedAt": "2026-11-08T01:23:09.887312+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 75908.2109,
-      "prev5d": 78248.4531,
-      "pctChange": -2.99,
+      "current": 75676.1484,
+      "prev5d": 76677.2969,
+      "pctChange": -1.31,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4079.5,
+      "current": 4074.8999,
       "prev5d": 3898.8999,
-      "pctChange": 4.63,
+      "pctChange": 4.51,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.34,
+      "current": 90.83,
       "prev5d": 104.12,
-      "pctChange": -13.23,
+      "pctChange": -12.76,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8532,
-      "prev5d": 0.849,
-      "pctChange": 0.49,
+      "current": 0.8514,
+      "prev5d": 0.8492,
+      "pctChange": 0.26,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0498,
+      "current": 0.0492,
       "prev5d": 0.0497,
-      "pctChange": 0.11,
+      "pctChange": -1.06,
       "isForex": true
     },
     {
@@ -46,12 +46,228 @@
   ],
   "news": [
     {
+      "category": "TECH",
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "snippet": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "What we know so far after Krakow gun attack",
+      "snippet": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "snippet": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "No clear winner after tight New Zealand general election",
+      "snippet": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "snippet": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "snippet": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "snippet": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Paraguay's former president charged after bank collapse",
+      "snippet": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "snippet": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "snippet": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "snippet": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "snippet": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "snippet": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "snippet": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "snippet": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Four things we learned this week about 2028 White House race",
+      "snippet": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "snippet": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
       "category": "BUSINESS",
-      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "snippet": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
       "snippet": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
       "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "snippet": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "snippet": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p",
+      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "snippet": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "snippet": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "snippet": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "snippet": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st",
+      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "date": "2026-11-07",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -63,25 +279,17 @@
     },
     {
       "category": "WORLD",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "snippet": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "AI stocks climb after trillions wiped from market values",
       "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "snippet": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Two dead after bus crashes in France, officials say",
-      "snippet": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
@@ -95,14 +303,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
       "snippet": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
@@ -111,81 +311,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "snippet": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "snippet": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "snippet": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "snippet": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "snippet": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "snippet": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "snippet": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "snippet": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "snippet": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "snippet": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
@@ -199,41 +327,17 @@
     },
     {
       "category": "WORLD",
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "snippet": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
       "snippet": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
       "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-      "snippet": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "snippet": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "snippet": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Did a data centre revolt affect the US midterm election results?",
-      "snippet": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
@@ -266,6 +370,14 @@
       "title": "The engine parts that 'fight the laws of the universe'",
       "snippet": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
       "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "snippet": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
@@ -422,66 +534,10 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "snippet": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "snippet": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "snippet": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "date": "2026-11-06",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "snippet": "California has historically had the largest population of people on death row in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "snippet": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "WORLD",
       "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
       "snippet": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
       "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "snippet": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05",
       "source": "feeds.bbci.co.uk"
     },
@@ -543,82 +599,10 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-      "snippet": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "snippet": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "snippet": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "What does the raise in interest rates mean?",
       "snippet": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
       "link": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "date": "2026-11-05",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "snippet": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "date": "2026-11-05",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "date": "2026-11-05",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "snippet": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "snippet": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "snippet": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
       "source": "feeds.bbci.co.uk"
     },
     {
@@ -631,6 +615,14 @@
     },
     {
       "category": "TECH",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "snippet": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "snippet": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
       "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
@@ -638,58 +630,10 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "BUSINESS",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "snippet": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
+      "category": "TECH",
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "snippet": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "snippet": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "snippet": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "snippet": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-      "snippet": "The men and women who rummage through commercial bins to take clothes and other items.",
-      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "What in the World",
-      "snippet": "Some employers create job ads with no intent to hire",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03",
       "source": "feeds.bbci.co.uk"
     },
@@ -723,14 +667,6 @@
       "snippet": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "snippet": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02",
       "source": "feeds.bbci.co.uk"
     },
     {
