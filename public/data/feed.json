@@ -1,50 +1,66 @@
 {
-  "generatedAt": "2026-11-08T22:45:59.741120+00:00",
+  "generatedAt": "2026-11-09T01:41:53.389720+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 74175.5391,
+      "current": 74961.7031,
       "prev5d": 77345.0469,
-      "pctChange": -4.1,
+      "pctChange": -3.08,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4074.8999,
-      "prev5d": 3898.8999,
-      "pctChange": 4.51,
+      "current": 4112.0,
+      "prev5d": 3969.6001,
+      "pctChange": 3.59,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 90.83,
-      "prev5d": 104.12,
-      "pctChange": -12.76,
+      "current": 90.43,
+      "prev5d": 96.46,
+      "pctChange": -6.25,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8514,
+      "current": 0.851,
       "prev5d": 0.8492,
-      "pctChange": 0.26,
+      "pctChange": 0.22,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0492,
+      "current": 0.0493,
       "prev5d": 0.0497,
-      "pctChange": -1.02,
+      "pctChange": -0.91,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1144,
+      "current": 0.1143,
       "prev5d": 0.1143,
-      "pctChange": 0.16,
+      "pctChange": 0.06,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "BUSINESS",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "snippet": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Doing these things now will help you save money at Christmas",
+      "snippet": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -79,15 +95,15 @@
     },
     {
       "category": "WORLD",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "snippet": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "snippet": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "snippet": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08",
@@ -431,14 +447,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "snippet": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
@@ -514,14 +522,6 @@
       "title": "Food bank to close amid rising costs",
       "snippet": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
       "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Winter support for residents facing cost pressures",
-      "snippet": "The plans aim to help more people access food, financial advice and help with heating costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06",
       "source": "feeds.bbci.co.uk"
     },
