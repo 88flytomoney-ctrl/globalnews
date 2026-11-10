@@ -1,57 +1,121 @@
 {
-  "generatedAt": "2026-11-09T22:46:01.372479+00:00",
+  "generatedAt": "2026-11-10T04:03:59.375082+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 75173.3984,
+      "current": 74499.2734,
       "prev5d": 80405.2891,
-      "pctChange": -6.51,
+      "pctChange": -7.35,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4149.5,
+      "current": 4119.5,
       "prev5d": 3969.6001,
-      "pctChange": 4.53,
+      "pctChange": 3.78,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 86.38,
+      "current": 85.78,
       "prev5d": 96.46,
-      "pctChange": -10.45,
+      "pctChange": -11.07,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8508,
-      "prev5d": 0.8492,
-      "pctChange": 0.19,
+      "current": 0.85,
+      "prev5d": 0.8472,
+      "pctChange": 0.33,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0494,
       "prev5d": 0.0497,
-      "pctChange": -0.69,
+      "pctChange": -0.57,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1136,
-      "prev5d": 0.1143,
-      "pctChange": -0.58,
+      "prev5d": 0.1139,
+      "pctChange": -0.26,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "snippet": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "snippet": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "snippet": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+      "snippet": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "snippet": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "snippet": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "snippet": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "snippet": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Headteachers say families will struggle after another rise in school dinner prices",
+      "snippet": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "date": "2026-11-10",
+      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
@@ -63,33 +127,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "snippet": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "snippet": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "snippet": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "snippet": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "snippet": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -103,9 +143,41 @@
     },
     {
       "category": "WORLD",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "snippet": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "snippet": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
       "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "snippet": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "snippet": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "snippet": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -143,25 +215,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "snippet": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "snippet": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "snippet": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "snippet": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09",
       "source": "feeds.bbci.co.uk"
     },
@@ -295,19 +351,35 @@
     },
     {
       "category": "BUSINESS",
-      "title": "How you can get council's £250 cost of living help",
-      "snippet": "Applications for household grants of up to £250 are opening to some Surrey residents.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "The facial recognition technology stopping shoplifters",
       "snippet": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
       "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "date": "2026-11-09",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "snippet": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized acces",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "date": "2026-11-09",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "date": "2026-11-09",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -438,30 +510,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "snippet": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
-      "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "date": "2026-11-09",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Tesla expands robotaxi service to San Antonio",
-      "snippet": "This will be the next Texas city in which Tesla will launch robotaxis.",
-      "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-      "date": "2026-11-09",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-      "snippet": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "date": "2026-11-09",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "snippet": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
@@ -508,14 +556,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "snippet": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "date": "2026-11-08",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
@@ -671,14 +711,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Welsh aviation firm AerFin bought in £475m deal",
-      "snippet": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Graduates are managing AI - but are they learning much else?",
       "snippet": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
       "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
@@ -690,14 +722,6 @@
       "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
       "snippet": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
       "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "snippet": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04",
       "source": "feeds.bbci.co.uk"
     },
