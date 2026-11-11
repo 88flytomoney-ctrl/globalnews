@@ -1,71 +1,135 @@
 {
-  "generatedAt": "2026-11-10T22:46:00.056563+00:00",
+  "generatedAt": "2026-11-11T01:54:18.442402+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 73635.4688,
+      "current": 73590.4922,
       "prev5d": 75942.125,
-      "pctChange": -3.04,
+      "pctChange": -3.1,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 4040.5,
+      "current": 4060.3999,
       "prev5d": 3940.3999,
-      "pctChange": 2.54,
+      "pctChange": 3.05,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 86.44,
+      "current": 86.22,
       "prev5d": 96.09,
-      "pctChange": -10.04,
+      "pctChange": -10.27,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8513,
-      "prev5d": 0.8472,
-      "pctChange": 0.48,
+      "current": 0.8503,
+      "prev5d": 0.8501,
+      "pctChange": 0.03,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0492,
-      "prev5d": 0.0497,
-      "pctChange": -1.01,
+      "current": 0.0491,
+      "prev5d": 0.0495,
+      "pctChange": -0.79,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1141,
-      "prev5d": 0.1139,
-      "pctChange": 0.19,
+      "prev5d": 0.1137,
+      "pctChange": 0.32,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "snippet": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "snippet": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "snippet": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "snippet": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "snippet": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "snippet": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "snippet": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "snippet": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "snippet": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "date": "2026-11-11",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "snippet": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "snippet": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "snippet": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "snippet": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -79,6 +143,22 @@
     },
     {
       "category": "WORLD",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "snippet": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "snippet": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Spain's king and queen attend memorial service for rail crash victims",
       "snippet": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
       "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
@@ -87,9 +167,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "snippet": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "snippet": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -111,7 +191,7 @@
     },
     {
       "category": "WORLD",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "snippet": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
@@ -231,30 +311,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Oxford museum returns ancestral  Naga skulls to India",
-      "snippet": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "snippet": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "snippet": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
       "snippet": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
       "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
@@ -343,17 +399,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "snippet": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "snippet": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -383,9 +439,25 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "snippet": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Civil servant who secretly held five jobs found guilty of fraud",
       "snippet": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
       "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "snippet": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -418,14 +490,6 @@
       "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
       "snippet": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
       "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "New regulation for heating oil market, but no price controls",
-      "snippet": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
-      "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -590,14 +654,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "snippet": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "date": "2026-11-10",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "BUSINESS",
       "title": "How a civil servant got away with juggling five jobs for so long",
       "snippet": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
@@ -710,14 +766,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "TECH",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "Graduates are managing AI - but are they learning much else?",
       "snippet": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
@@ -801,7 +849,7 @@
       "category": "TECH",
       "title": "Tech Now",
       "snippet": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-10",
       "source": "feeds.bbci.co.uk"
     },
