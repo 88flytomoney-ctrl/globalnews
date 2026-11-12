@@ -1,6 +1,46 @@
 [
   {
     "category": "WORLD",
+    "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "snippet": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-12",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "New York building collapse kills one person and injures 12",
+    "snippet": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+    "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-12",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+    "snippet": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-12",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "snippet": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-12",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "From Paris to DC - why offices are being turned into apartments",
+    "snippet": "Office buildings with low occupancy rates are being transformed into flats.",
+    "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-12",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
     "snippet": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
     "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -12,22 +52,6 @@
     "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
     "snippet": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
     "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-    "snippet": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "snippet": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -49,9 +73,33 @@
   },
   {
     "category": "WORLD",
-    "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+    "title": "Famed ship SS United States to be sunk off coast of Florida",
+    "snippet": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+    "snippet": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
     "snippet": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
     "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-11",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "snippet": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -153,9 +201,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-    "snippet": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+    "title": "Some under-25s should get less benefits, Milburn review to say",
+    "snippet": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -177,17 +225,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Robot vessels take on the dangerous work of mine hunting",
-    "snippet": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "snippet": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "snippet": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "title": "Robot vessels take on the dangerous work of mine hunting",
+    "snippet": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -249,6 +297,30 @@
   },
   {
     "category": "TECH",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-11",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "date": "2026-11-11",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "date": "2026-11-11",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
     "title": "Why the data center you dread might never even be built",
     "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into pla",
     "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
@@ -274,7 +346,7 @@
   {
     "category": "TECH",
     "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "snippet": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third",
+    "snippet": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir",
     "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
     "date": "2026-11-11",
     "source": "techcrunch.com"
@@ -540,30 +612,6 @@
     "title": "X-energy gets green light to build its first small modular nuclear reactors",
     "snippet": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
     "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-    "date": "2026-11-10",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "snippet": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the",
-    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "date": "2026-11-10",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "snippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-    "date": "2026-11-10",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "snippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
     "date": "2026-11-10",
     "source": "techcrunch.com"
   },
