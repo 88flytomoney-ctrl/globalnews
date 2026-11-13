@@ -1,55 +1,103 @@
 {
-  "generatedAt": "2026-11-12T22:45:52.783222+00:00",
+  "generatedAt": "2026-11-13T02:35:52.097108+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 71330.5469,
+      "current": 70335.8281,
       "prev5d": 75747.5781,
-      "pctChange": -5.83,
+      "pctChange": -7.14,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3881.7,
+      "current": 3911.1001,
       "prev5d": 4113.5,
-      "pctChange": -5.64,
+      "pctChange": -4.92,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 88.7,
+      "current": 88.49,
       "prev5d": 90.52,
-      "pctChange": -2.01,
+      "pctChange": -2.24,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8505,
-      "prev5d": 0.8506,
-      "pctChange": -0.01,
+      "current": 0.8499,
+      "prev5d": 0.8532,
+      "pctChange": -0.38,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0488,
-      "prev5d": 0.0495,
-      "pctChange": -1.45,
+      "prev5d": 0.0498,
+      "pctChange": -1.95,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1153,
-      "prev5d": 0.1135,
-      "pctChange": 1.59,
+      "current": 0.1152,
+      "prev5d": 0.1136,
+      "pctChange": 1.43,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "snippet": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "snippet": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "snippet": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "snippet": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "snippet": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "snippet": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "snippet": "We ask people in New York City how much they pay for their homes.",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "snippet": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12",
       "source": "feeds.bbci.co.uk"
     },
@@ -71,17 +119,17 @@
     },
     {
       "category": "WORLD",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "snippet": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "snippet": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "snippet": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "snippet": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12",
       "source": "feeds.bbci.co.uk"
     },
@@ -154,6 +202,14 @@
       "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
       "snippet": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
       "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "snippet": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12",
       "source": "feeds.bbci.co.uk"
     },
@@ -287,8 +343,8 @@
     },
     {
       "category": "TECH",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
-      "snippet": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "date": "2026-11-12",
       "source": "techcrunch.com"
@@ -551,25 +607,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "What are cold weather payments and who can get them?",
-      "snippet": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
-      "link": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Poundland founder writes to King for help",
       "snippet": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
       "link": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Brad Friedel on Shrewsbury Town takeover",
-      "snippet": "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover.",
-      "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11",
       "source": "feeds.bbci.co.uk"
     },
@@ -697,7 +737,7 @@
       "category": "TECH",
       "title": "Tech Life",
       "snippet": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
@@ -730,14 +770,6 @@
       "title": "Poundland unable to buy new stock as fears over collapse grow",
       "snippet": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
       "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Doing these things now will help you save money at Christmas",
-      "snippet": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09",
       "source": "feeds.bbci.co.uk"
     },
