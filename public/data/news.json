@@ -1,33 +1,209 @@
 [
   {
     "category": "WORLD",
-    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "snippet": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "title": "Setback for SpaceX Starship rocket's double-catch test",
+    "snippet": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-14",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+    "snippet": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-14",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "snippet": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-14",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+    "snippet": "The next title in the series is expected to be the biggest video game release ever.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-14",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Tech Now",
+    "snippet": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-14",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "snippet": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "snippet": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "snippet": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
-    "title": "Australian footballers will not be charged after hotel incident, police say",
-    "snippet": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+    "snippet": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+    "snippet": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+    "snippet": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "snippet": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+    "snippet": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "snippet": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Democratic Senate leader Schumer set to face leadership challenge",
+    "snippet": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "snippet": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Rosalía scoops historic third best album award at Latin Grammys",
+    "snippet": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+    "snippet": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+    "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "At least 24 killed after bus collides with truck in north-east India",
+    "snippet": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+    "snippet": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+    "snippet": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+    "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Will the Eurovision Song Contest succeed in Asia?",
+    "snippet": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+    "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "snippet": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "snippet": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "snippet": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+    "snippet": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+    "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-    "snippet": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+    "snippet": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
@@ -41,6 +217,46 @@
   },
   {
     "category": "BUSINESS",
+    "title": "Heat pumps: How much heat does your home really need?",
+    "snippet": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "snippet": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "snippet": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Politicians back focus on cost of living",
+    "snippet": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Cider makers fear future for orchards as costs grow",
+    "snippet": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
     "title": "'My window faces a brick wall': What's your rent in NYC?",
     "snippet": "We ask people in New York City how much they pay for their homes.",
     "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
@@ -48,116 +264,172 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "snippet": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "BUSINESS",
+    "title": "Are board games making a comeback this Christmas?",
+    "snippet": "Are board games making a comeback this Christmas?",
+    "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-    "snippet": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "BUSINESS",
+    "title": "What are people emergency stockpiling?",
+    "snippet": "From cider to candy canes: What people are emergency stockpiling",
+    "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "snippet": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "BUSINESS",
+    "title": "Shoplifters 'stealing to order' in Scottish shops",
+    "snippet": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+    "link": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "snippet": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "TECH",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "snippet": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-    "snippet": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "TECH",
+    "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+    "snippet": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-    "snippet": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "TECH",
+    "title": "NHS, schools and police forces hit by Microsoft outage",
+    "snippet": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "snippet": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "TECH",
+    "title": "What we know so far about the Microsoft outage",
+    "snippet": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Five new miniature frog species found in eastern Himalayas",
-    "snippet": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-    "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
+    "category": "TECH",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "snippet": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-    "snippet": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
+    "category": "TECH",
+    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+    "snippet": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+    "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
   },
   {
-    "category": "WORLD",
-    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-    "snippet": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
+    "category": "TECH",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
   },
   {
-    "category": "WORLD",
-    "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-    "snippet": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
+    "category": "TECH",
+    "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+    "snippet": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the Un",
+    "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
   },
   {
-    "category": "WORLD",
-    "title": "Australian teen missing in bush for six days rescued alive",
-    "snippet": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
+    "category": "TECH",
+    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+    "snippet": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+    "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
   },
   {
-    "category": "WORLD",
-    "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-    "snippet": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
+    "category": "TECH",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
   },
   {
-    "category": "WORLD",
-    "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-    "snippet": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
+    "category": "TECH",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+    "snippet": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+    "snippet": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "snippet": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Jensen Huang didn’t show confidence in his successor, report says",
+    "snippet": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "date": "2026-11-13",
+    "source": "techcrunch.com"
   },
   {
     "category": "WORLD",
@@ -172,38 +444,6 @@
     "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
     "snippet": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
     "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-    "snippet": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Jensen Huang has resigned, what's next for Nvidia?",
-    "snippet": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-    "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-    "snippet": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Can Nigeria's president regain voters' trust after painful first term?",
-    "snippet": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-12",
     "source": "feeds.bbci.co.uk"
   },
@@ -249,9 +489,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-    "snippet": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "snippet": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-12",
     "source": "feeds.bbci.co.uk"
   },
@@ -265,25 +505,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Are branded cold and flu tablets really worth the extra money?",
-    "snippet": "Are branded cold and flu tablets REALLY worth the extra money?",
-    "link": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "What in the World",
-    "snippet": "What can you do to protect your personal date?",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct9955?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-12",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-    "snippet": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+    "title": "Jensen Huang has resigned, what's next for Nvidia?",
+    "snippet": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
+    "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-12",
     "source": "feeds.bbci.co.uk"
   },
@@ -300,14 +524,6 @@
     "title": "Muse can now place calls to US businesses — if you pay",
     "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
     "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "date": "2026-11-12",
     "source": "techcrunch.com"
   },
@@ -345,14 +561,6 @@
   },
   {
     "category": "TECH",
-    "title": "Microsoft’s Outlook email hit by new outage",
-    "snippet": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
     "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
     "snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n",
     "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
@@ -360,170 +568,10 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "snippet": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "snippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "snippet": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos",
-    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Jensen Huang agrees to testify before Congress",
-    "snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "snippet": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "snippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Whoop just launched a social network",
-    "snippet": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at a",
-    "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-    "snippet": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "snippet": "This is the investment firm's largest fund to date.",
-    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "snippet": "This is Fireworks' second data breach in as many months.",
-    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "date": "2026-11-12",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "snippet": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-    "snippet": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-    "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "snippet": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-    "snippet": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-    "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-    "snippet": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-    "snippet": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-    "snippet": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "WORLD",
     "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
     "snippet": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
     "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-    "snippet": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-    "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-    "snippet": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -545,41 +593,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Workers across Spain stage first general strike in 14 years",
-    "snippet": "People across Spain are striking, primarily over housing costs.",
-    "link": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Protesters gather in Spain for first general strike in 14 years",
-    "snippet": "Thousands are protesting across Spain over housing and the high cost of living.",
-    "link": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Poundland founder writes to King for help",
-    "snippet": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
-    "link": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-    "snippet": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-    "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-11",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-    "snippet": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+    "snippet": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-11",
     "source": "feeds.bbci.co.uk"
   },
@@ -664,34 +680,10 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-    "snippet": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Civil servant who secretly held five jobs found guilty of fraud",
-    "snippet": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-    "snippet": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Tech Life",
     "snippet": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
-    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-10",
     "source": "feeds.bbci.co.uk"
   },
@@ -716,14 +708,6 @@
     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
     "snippet": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
     "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-09",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Poundland unable to buy new stock as fears over collapse grow",
-    "snippet": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-    "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-09",
     "source": "feeds.bbci.co.uk"
   },
@@ -816,43 +800,11 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "TECH",
-    "title": "Tech Now",
-    "snippet": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-10",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
     "title": "Why are more roofs not made of solar tiles?",
     "snippet": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
     "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
     "date": "2026-10-08",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-    "snippet": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Rainmakers: The drones used to seed clouds",
-    "snippet": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-    "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-07",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "The AI telling farmers when to harvest",
-    "snippet": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-09-30",
     "source": "feeds.bbci.co.uk"
   },
   {
