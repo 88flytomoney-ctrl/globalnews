@@ -1,55 +1,111 @@
 {
-  "generatedAt": "2026-11-15T22:45:49.984002+00:00",
+  "generatedAt": "2026-11-16T01:58:15.998799+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 65116.4805,
+      "current": 64719.9883,
       "prev5d": 73720.1172,
-      "pctChange": -11.67,
+      "pctChange": -12.21,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3886.3,
-      "prev5d": 4074.8999,
-      "pctChange": -4.63,
+      "current": 3879.3,
+      "prev5d": 4114.5,
+      "pctChange": -5.72,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 88.56,
-      "prev5d": 90.83,
-      "pctChange": -2.5,
+      "current": 88.38,
+      "prev5d": 86.85,
+      "pctChange": 1.76,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8498,
+      "current": 0.8497,
       "prev5d": 0.8516,
-      "pctChange": -0.21,
+      "pctChange": -0.22,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.0489,
       "prev5d": 0.0495,
-      "pctChange": -1.28,
+      "pctChange": -1.32,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1156,
       "prev5d": 0.1144,
-      "pctChange": 0.99,
+      "pctChange": 1.02,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "snippet": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "snippet": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "snippet": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Black Friday and tax return scams  - don't fall for these",
+      "snippet": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Apple launches new app to study how people use AI for health",
+      "snippet": "Apple's new app for a study will answer everyday medical questions",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "date": "2026-11-16",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "WORLD",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "snippet": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "snippet": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15",
       "source": "feeds.bbci.co.uk"
     },
@@ -71,9 +127,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "snippet": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15",
       "source": "feeds.bbci.co.uk"
     },
@@ -103,41 +159,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "snippet": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "snippet": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "Iran targets US military base in Bahrain with drone attack",
       "snippet": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "snippet": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "snippet": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15",
       "source": "feeds.bbci.co.uk"
     },
@@ -196,6 +220,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "date": "2026-11-15",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -390,14 +422,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "snippet": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "snippet": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
@@ -466,14 +490,6 @@
       "title": "Politicians back focus on cost of living",
       "snippet": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
       "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Cider makers fear future for orchards as costs grow",
-      "snippet": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-13",
       "source": "feeds.bbci.co.uk"
     },
@@ -586,22 +602,6 @@
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "date": "2026-11-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "date": "2026-11-13",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "date": "2026-11-13",
       "source": "techcrunch.com"
     },
@@ -722,14 +722,6 @@
       "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
       "snippet": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
       "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "snippet": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
