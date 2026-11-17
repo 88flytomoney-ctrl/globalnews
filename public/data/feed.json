@@ -1,50 +1,90 @@
 {
-  "generatedAt": "2026-11-16T22:45:59.644615+00:00",
+  "generatedAt": "2026-11-17T04:26:54.635170+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 65429.8203,
+      "current": 64931.1719,
       "prev5d": 73964.4688,
-      "pctChange": -11.54,
+      "pctChange": -12.21,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3859.0,
+      "current": 3870.7,
       "prev5d": 4114.5,
-      "pctChange": -6.21,
+      "pctChange": -5.93,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 85.06,
+      "current": 84.93,
       "prev5d": 86.85,
-      "pctChange": -2.06,
+      "pctChange": -2.21,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8493,
-      "prev5d": 0.8516,
-      "pctChange": -0.27,
+      "current": 0.849,
+      "prev5d": 0.8508,
+      "pctChange": -0.21,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
       "current": 0.049,
-      "prev5d": 0.0495,
-      "pctChange": -1.13,
+      "prev5d": 0.0496,
+      "pctChange": -1.21,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1159,
-      "prev5d": 0.1144,
-      "pctChange": 1.24,
+      "current": 0.1157,
+      "prev5d": 0.1136,
+      "pctChange": 1.87,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "snippet": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "snippet": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "snippet": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Customers report service outages at major US banks",
+      "snippet": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "snippet": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17",
+      "source": "feeds.bbci.co.uk"
+    },
     {
       "category": "WORLD",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -58,14 +98,6 @@
       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
       "snippet": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
       "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-16",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "snippet": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16",
       "source": "feeds.bbci.co.uk"
     },
@@ -160,7 +192,7 @@
     {
       "category": "WORLD",
       "title": "Russia's mega-rich are already imagining a future after Putin",
-      "snippet": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "snippet": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
       "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16",
       "source": "feeds.bbci.co.uk"
@@ -199,6 +231,22 @@
     },
     {
       "category": "BUSINESS",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "snippet": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "snippet": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
       "snippet": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
@@ -207,17 +255,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "snippet": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "snippet": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "snippet": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "snippet": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16",
       "source": "feeds.bbci.co.uk"
     },
@@ -263,11 +311,27 @@
     },
     {
       "category": "TECH",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "snippet": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "GTA 6 hacker pleads guilty after release from secure hospital",
       "snippet": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
       "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "date": "2026-11-16",
+      "source": "techcrunch.com"
     },
     {
       "category": "TECH",
@@ -280,7 +344,7 @@
     {
       "category": "TECH",
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "snippet": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in,",
+      "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
       "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "date": "2026-11-16",
       "source": "techcrunch.com"
@@ -296,7 +360,7 @@
     {
       "category": "TECH",
       "title": "California state AG sues OpenAI over rogue agent incidents",
-      "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "date": "2026-11-16",
       "source": "techcrunch.com"
@@ -304,7 +368,7 @@
     {
       "category": "TECH",
       "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "snippet": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "snippet": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
       "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
       "date": "2026-11-16",
       "source": "techcrunch.com"
@@ -335,8 +399,8 @@
     },
     {
       "category": "TECH",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "snippet": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "snippet": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
       "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
       "date": "2026-11-16",
       "source": "techcrunch.com"
@@ -418,14 +482,6 @@
       "title": "Google Maps can now build trip itineraries with real-time details about each stop",
       "snippet": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
       "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "date": "2026-11-16",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-      "snippet": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
-      "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
       "date": "2026-11-16",
       "source": "techcrunch.com"
     },
@@ -614,14 +670,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "TECH",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "snippet": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "snippet": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
@@ -671,50 +719,10 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "snippet": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "Robot vessels take on the dangerous work of mine hunting",
       "snippet": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
       "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "snippet": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "snippet": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "snippet": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10",
       "source": "feeds.bbci.co.uk"
     },
     {
