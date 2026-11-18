@@ -1,17 +1,233 @@
 [
   {
     "category": "WORLD",
-    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "snippet": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+    "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+    "snippet": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "snippet": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "snippet": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "snippet": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+    "snippet": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "William and Kate meet PM Modi as they wrap up India tour",
+    "snippet": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "snippet": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Ghana's new $60m presidential jet sparks public outrage",
+    "snippet": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "snippet": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+    "snippet": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "snippet": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Bancroft sandpaper claims heap pressure on Cummins",
+    "snippet": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "snippet": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "snippet": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-18",
     "source": "feeds.bbci.co.uk"
   },
   {
+    "category": "WORLD",
+    "title": "Waymo pulls driverless taxis from all US freeways",
+    "snippet": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+    "snippet": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "snippet": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Irishman charged with destroying US military aircraft with axe",
+    "snippet": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+    "snippet": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+    "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+    "snippet": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+    "snippet": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
+    "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+    "snippet": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+    "snippet": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+    "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "snippet": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Who to watch in Spain's election race",
+    "snippet": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
     "category": "BUSINESS",
-    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-    "snippet": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+    "snippet": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "snippet": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "snippet": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-18",
     "source": "feeds.bbci.co.uk"
   },
@@ -24,12 +240,212 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "TECH",
-    "title": "Waymo temporarily pulls driverless taxis from all US freeways",
-    "snippet": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+    "category": "BUSINESS",
+    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+    "snippet": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-18",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "snippet": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "How high is UK inflation and how will you be affected?",
+    "snippet": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+    "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Cathedral's staff review 'difficult but necessary'",
+    "snippet": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "MP urges council to speed up heating oil payments",
+    "snippet": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
+    "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+    "snippet": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+    "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+    "snippet": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+    "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+    "snippet": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+    "snippet": "The Anduril founder said Wednesday that Americans should always have three days of food, water and medicine — just in case.",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "snippet": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "snippet": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "snippet": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "snippet": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "snippet": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+    "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "snippet": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+    "snippet": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+    "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "snippet": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "snippet": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+    "snippet": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
+    "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+    "snippet": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+    "link": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+    "snippet": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress e",
+    "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "snippet": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+    "snippet": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "China dominates battery graphite, but this startup could break the monopoly",
+    "snippet": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+    "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -40,66 +456,10 @@
     "source": "techcrunch.com"
   },
   {
-    "category": "TECH",
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-    "date": "2026-11-18",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Stripe backer Atomico calls for Europe to own its success stories",
-    "snippet": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-    "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-    "date": "2026-11-18",
-    "source": "techcrunch.com"
-  },
-  {
     "category": "WORLD",
     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
     "snippet": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "How the attack on Crimean Bridge unfolded",
-    "snippet": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Thomas Markle charged over child sex abuse material in Philippines",
-    "snippet": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-    "snippet": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Russian military plane crashes, killing all 19 on board",
-    "snippet": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "snippet": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -121,6 +481,22 @@
   },
   {
     "category": "WORLD",
+    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "snippet": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "snippet": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
     "snippet": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
     "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
@@ -129,121 +505,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-    "snippet": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-    "snippet": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-    "snippet": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-    "snippet": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "UK sanctions firms over Israeli West Bank settlements",
-    "snippet": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-    "snippet": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-    "snippet": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "BBC reports from Kyiv bridge hit by Russian attack",
-    "snippet": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-    "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-    "snippet": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-    "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Will President Trump meet Kim Jong Un?",
-    "snippet": "President Trump says he would be keen to meet the North Korea leader in China.",
-    "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-    "snippet": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
-    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Who to watch in Spain's election race",
-    "snippet": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "How new US chip restrictions on South East Asia will hit China",
-    "snippet": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-    "snippet": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-    "snippet": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+    "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+    "snippet": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -257,17 +521,17 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-    "snippet": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+    "title": "Speed camera fault may have allowed drivers to escape fines",
+    "snippet": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "Speed camera fault may have allowed drivers to escape fines",
-    "snippet": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "snippet": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -297,33 +561,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "US government confirms investigation into tech firm Megaspeed",
-    "snippet": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Government must act now or lose Royal Mail, former minister warns",
-    "snippet": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-    "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-    "snippet": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "US bank services returning to normal after major outage",
-    "snippet": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "snippet": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -345,9 +585,9 @@
   },
   {
     "category": "TECH",
-    "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-    "snippet": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-    "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+    "snippet": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -357,238 +597,6 @@
     "snippet": "Video gaming is huge - it's more lucrative than the movies and music combined.",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-    "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-    "snippet": "The former CEO offered to return to his top role at the company after his resignation last week.",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "snippet": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "SEC reportedly investigating Nvidia amid Huang exit",
-    "snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Google joins the tech outage trend by announcing it’s not having one",
-    "snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-    "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Waymo suspends freeway rides nationwide after California DMV order",
-    "snippet": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to add",
-    "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec",
-    "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "snippet": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
-    "snippet": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
-    "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-    "snippet": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-    "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "As decision model use skyrockets, is customization the next frontier?",
-    "snippet": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-    "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-    "snippet": "The company uses agentic AI to make supply chains faster and more reliable.",
-    "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-    "snippet": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-    "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-    "snippet": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-    "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-    "snippet": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-    "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-    "snippet": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-    "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "New York teen reunites with cat missing after building collapse",
-    "snippet": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-    "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-    "snippet": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
-    "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "OpenAI sued by California over Hugging Face attack",
-    "snippet": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "snippet": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "snippet": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Gas starts flowing from Jackdaw after government green light",
-    "snippet": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Intel sued by investors after PC sales slump hits share price",
-    "snippet": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Avoid this Black Friday scam - how to check it's a real deal",
-    "snippet": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Thrift shop asks shoppers to nominate a charity",
-    "snippet": "The owners want customers and donors to decide what charities benefit each month.",
-    "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "'Break-in and rising costs could kill my business'",
-    "snippet": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
-    "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
     "source": "feeds.bbci.co.uk"
   },
   {
@@ -608,66 +616,10 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "TECH",
-    "title": "The AI start-ups fixing India's broken roads and messy land records",
-    "snippet": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-    "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "TECH",
-    "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-    "snippet": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-    "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-16",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-    "snippet": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-    "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Minister backs legal right to job support for young people",
-    "snippet": "The work and pensions secretary said the level of support currently on offer was too vague.",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Microsoft says services fully restored after day-long global outage",
-    "snippet": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-14",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Football kit giveaway aims to boost participation",
-    "snippet": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
-    "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-14",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
     "title": "The rise of 'housefishing' by estate agents",
     "snippet": "The rise of 'housefishing' by estate agents.",
     "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-14",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Consumer Fight Back",
-    "snippet": "Black Friday promises huge savings, but are the deals really as good as they seem?",
-    "link": "https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-14",
     "source": "feeds.bbci.co.uk"
   },
@@ -677,14 +629,6 @@
     "snippet": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
     "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-14",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "snippet": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
   {
