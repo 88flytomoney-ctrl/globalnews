@@ -1,6 +1,62 @@
 [
   {
     "category": "WORLD",
+    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "snippet": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+    "snippet": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "Europe plans to catch the next computer chip wave",
+    "snippet": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+    "snippet": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+    "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Stripe backer Atomico calls for Europe to own its success stories",
+    "snippet": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+    "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+    "date": "2026-11-18",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "WORLD",
     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
     "snippet": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
@@ -17,9 +73,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-    "snippet": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+    "title": "Thomas Markle charged over child sex abuse material in Philippines",
+    "snippet": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -33,17 +89,9 @@
   },
   {
     "category": "WORLD",
-    "title": "Russian military plane crashes killing all 19 on board",
+    "title": "Russian military plane crashes, killing all 19 on board",
     "snippet": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
     "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "WORLD",
-    "title": "US loses measles elimination status after 26 years amid record case numbers",
-    "snippet": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -52,6 +100,14 @@
     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
     "snippet": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
     "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
+    "title": "US loses measles elimination status after 26 years amid record case numbers",
+    "snippet": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -153,6 +209,14 @@
   },
   {
     "category": "WORLD",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "snippet": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-17",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Who to watch in Spain's election race",
     "snippet": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
     "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
@@ -184,26 +248,26 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "WORLD",
-    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-    "snippet": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+    "category": "BUSINESS",
+    "title": "Government backs welfare shake-up to prevent 'lost generation'",
+    "snippet": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+    "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-    "snippet": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+    "snippet": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
   {
     "category": "BUSINESS",
-    "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-    "snippet": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+    "title": "Speed camera fault may have allowed drivers to escape fines",
+    "snippet": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -217,9 +281,9 @@
   },
   {
     "category": "BUSINESS",
-    "title": "Speed camera fault may have allowed drivers to escape fines",
-    "snippet": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+    "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+    "snippet": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
   },
@@ -294,6 +358,22 @@
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17",
     "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "date": "2026-11-17",
+    "source": "techcrunch.com"
+  },
+  {
+    "category": "TECH",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "date": "2026-11-17",
+    "source": "techcrunch.com"
   },
   {
     "category": "TECH",
@@ -412,46 +492,6 @@
     "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
     "snippet": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
     "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-    "snippet": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-    "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
-    "snippet": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
-    "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "snippet": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-    "snippet": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI",
-    "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-    "date": "2026-11-17",
-    "source": "techcrunch.com"
-  },
-  {
-    "category": "TECH",
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
     "date": "2026-11-17",
     "source": "techcrunch.com"
   },
@@ -600,14 +640,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "TECH",
-    "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-    "snippet": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-15",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "BUSINESS",
     "title": "Microsoft says services fully restored after day-long global outage",
     "snippet": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
@@ -652,38 +684,6 @@
     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "snippet": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-13",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "snippet": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-13",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-    "snippet": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-13",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "snippet": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-13",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-    "snippet": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-13",
     "source": "feeds.bbci.co.uk"
   },
