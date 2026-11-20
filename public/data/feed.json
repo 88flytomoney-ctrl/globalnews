@@ -1,50 +1,138 @@
 {
-  "generatedAt": "2026-11-19T22:46:07.249008+00:00",
+  "generatedAt": "2026-11-20T03:05:47.298990+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 62187.5195,
+      "current": 61968.8203,
       "prev5d": 64128.0508,
-      "pctChange": -3.03,
+      "pctChange": -3.37,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3627.8999,
+      "current": 3551.1001,
       "prev5d": 3885.3,
-      "pctChange": -6.62,
+      "pctChange": -8.6,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 83.16,
+      "current": 83.1,
       "prev5d": 88.74,
-      "pctChange": -6.29,
+      "pctChange": -6.36,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8516,
+      "current": 0.8492,
       "prev5d": 0.8503,
-      "pctChange": 0.15,
+      "pctChange": -0.13,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0489,
+      "current": 0.049,
       "prev5d": 0.0491,
-      "pctChange": -0.46,
+      "pctChange": -0.15,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
       "current": 0.1162,
-      "prev5d": 0.1149,
-      "pctChange": 1.11,
+      "prev5d": 0.1154,
+      "pctChange": 0.72,
       "isForex": true
     }
   ],
   "news": [
+    {
+      "category": "WORLD",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "snippet": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "snippet": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "snippet": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "snippet": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "snippet": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "snippet": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Airbnb's divisive new house rules come into force",
+      "snippet": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "snippet": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "date": "2026-11-20",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "date": "2026-11-20",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "snippet": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "date": "2026-11-20",
+      "source": "techcrunch.com"
+    },
     {
       "category": "WORLD",
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -71,9 +159,33 @@
     },
     {
       "category": "WORLD",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "snippet": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "title": "California targets Nvidia in China AI chip probe",
+      "snippet": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "snippet": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "snippet": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "snippet": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -90,14 +202,6 @@
       "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
       "snippet": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
       "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "snippet": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -167,6 +271,22 @@
     },
     {
       "category": "WORLD",
+      "title": "How did Anthropic's stock market debut unfold?",
+      "snippet": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "snippet": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
       "title": "Rohingya genocide: What was said in court and what happens now?",
       "snippet": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
       "link": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
@@ -191,9 +311,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Trump greets 'my friend' Putin as pair shake hands",
-      "snippet": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
-      "link": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "snippet": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -214,18 +334,10 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "snippet": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-      "link": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "snippet": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "snippet": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -234,14 +346,6 @@
       "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
       "snippet": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "snippet": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "source": "feeds.bbci.co.uk"
     },
@@ -319,7 +423,15 @@
     },
     {
       "category": "TECH",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "snippet": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "date": "2026-11-19",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
       "snippet": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
       "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
       "date": "2026-11-19",
@@ -446,14 +558,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "snippet": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent ",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
-    },
-    {
       "category": "WORLD",
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "snippet": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
@@ -510,54 +614,6 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "snippet": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "snippet": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "snippet": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "snippet": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "snippet": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "snippet": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "snippet": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
@@ -567,9 +623,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Europe plans to catch the next computer chip wave",
-      "snippet": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "snippet": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "snippet": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18",
       "source": "feeds.bbci.co.uk"
     },
@@ -631,6 +695,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "Europe plans to catch the next computer chip wave",
+      "snippet": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "How high is UK inflation and how will you be affected?",
       "snippet": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
       "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
@@ -671,35 +743,11 @@
     },
     {
       "category": "TECH",
-      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-      "snippet": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
-      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "snippet": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "date": "2026-11-18",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "snippet": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "date": "2026-11-18",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "snippet": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "date": "2026-11-18",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
@@ -730,14 +778,6 @@
       "title": "Where are the most jobs for 18-24 year-olds?",
       "snippet": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
       "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Immigration arrests after organised crime blitz",
-      "snippet": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
-      "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17",
       "source": "feeds.bbci.co.uk"
     },
