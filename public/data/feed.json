@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-11-21T03:10:18.033847+00:00",
+  "generatedAt": "2026-11-22T02:09:53.189186+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 58134.1406,
-      "prev5d": 65305.0625,
-      "pctChange": -10.98,
+      "current": 59983.3906,
+      "prev5d": 64855.8438,
+      "pctChange": -7.51,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3539.0,
+      "current": 3515.3999,
       "prev5d": 3886.3,
-      "pctChange": -8.94,
+      "pctChange": -9.54,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 83.62,
+      "current": 83.98,
       "prev5d": 88.56,
-      "pctChange": -5.58,
+      "pctChange": -5.17,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8497,
+      "current": 0.8512,
       "prev5d": 0.8503,
-      "pctChange": -0.07,
+      "pctChange": 0.1,
       "isForex": true
     },
     {
@@ -47,9 +47,89 @@
   "news": [
     {
       "category": "WORLD",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "snippet": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "snippet": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "snippet": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "snippet": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "snippet": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "snippet": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "snippet": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "snippet": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "snippet": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "snippet": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "snippet": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "snippet": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-21",
       "source": "feeds.bbci.co.uk"
     },
@@ -58,6 +138,22 @@
       "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
       "snippet": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
       "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "snippet": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "snippet": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-21",
       "source": "feeds.bbci.co.uk"
     },
@@ -78,6 +174,14 @@
       "source": "feeds.bbci.co.uk"
     },
     {
+      "category": "BUSINESS",
+      "title": "Sessions offer advice on rising energy costs",
+      "snippet": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
       "category": "TECH",
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
       "snippet": "We put four AI models to the test to see if they could save us money on a new TV.",
@@ -94,20 +198,60 @@
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "snippet": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
+      "category": "TECH",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
     },
     {
-      "category": "WORLD",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
+      "category": "TECH",
+      "title": "A tale of two Nvidias",
+      "snippet": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "snippet": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "snippet": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "snippet": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
+    },
+    {
+      "category": "TECH",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "snippet": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "date": "2026-11-21",
+      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
@@ -119,33 +263,17 @@
     },
     {
       "category": "WORLD",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "snippet": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "snippet": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "snippet": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "snippet": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "snippet": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
@@ -167,41 +295,17 @@
     },
     {
       "category": "WORLD",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "snippet": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "snippet": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "snippet": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "snippet": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "snippet": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
       "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "snippet": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+      "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
@@ -231,25 +335,17 @@
     },
     {
       "category": "WORLD",
-      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "snippet": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
       "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
     {
-      "category": "WORLD",
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
-      "snippet": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "snippet": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "category": "BUSINESS",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
@@ -330,14 +426,6 @@
       "title": "Social poker with £5 stake is booming, says dealer",
       "snippet": "A poker league in Fenland sees a 35% rise in players since 2022.",
       "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Survey reveals 'major increase' in cost of living",
-      "snippet": "More than two thirds of respondents reported noticing rises in the cost of living.",
-      "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
@@ -470,22 +558,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "snippet": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "date": "2026-11-20",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "WORLD",
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "snippet": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "snippet": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
@@ -588,54 +660,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
       "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "TECH",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "snippet": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "snippet": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "snippet": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "snippet": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "snippet": "Uber is testing the new program in three U.S. cities.",
-      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "TECH",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "date": "2026-11-19",
-      "source": "techcrunch.com"
     },
     {
       "category": "BUSINESS",
