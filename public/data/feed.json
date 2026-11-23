@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-11-22T22:45:52.855546+00:00",
+  "generatedAt": "2026-11-23T02:40:33.016479+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 60727.1289,
+      "current": 60590.6016,
       "prev5d": 64893.9453,
-      "pctChange": -6.42,
+      "pctChange": -6.63,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3515.3999,
-      "prev5d": 3886.3,
-      "pctChange": -9.54,
+      "current": 3580.6001,
+      "prev5d": 3853.0,
+      "pctChange": -7.07,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 83.41,
-      "prev5d": 88.56,
-      "pctChange": -5.82,
+      "current": 82.98,
+      "prev5d": 85.72,
+      "pctChange": -3.2,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8512,
+      "current": 0.85,
       "prev5d": 0.8503,
-      "pctChange": 0.1,
+      "pctChange": -0.04,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0492,
+      "current": 0.0491,
       "prev5d": 0.0491,
-      "pctChange": 0.19,
+      "pctChange": -0.01,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1162,
+      "current": 0.1161,
       "prev5d": 0.1156,
-      "pctChange": 0.5,
+      "pctChange": 0.41,
       "isForex": true
     }
   ],
@@ -48,10 +48,58 @@
     {
       "category": "WORLD",
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "snippet": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "snippet": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "snippet": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "snippet": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "What is going on with Poundland?",
+      "snippet": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "snippet": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "snippet": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "snippet": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "date": "2026-11-23",
+      "source": "techcrunch.com"
     },
     {
       "category": "WORLD",
@@ -103,14 +151,6 @@
     },
     {
       "category": "WORLD",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "snippet": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "snippet": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
@@ -130,14 +170,6 @@
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "snippet": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "snippet": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22",
       "source": "feeds.bbci.co.uk"
     },
@@ -479,14 +511,6 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Should AI be judging our credit worthiness?",
-      "snippet": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
@@ -511,33 +535,9 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-      "snippet": "Eating at your desk? The dos and don'ts of lunch at work",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Airbnb's divisive new house rules come into force",
-      "snippet": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-      "snippet": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-      "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "snippet": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "title": "Should AI be judging our credit worthiness?",
+      "snippet": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
@@ -570,6 +570,14 @@
       "title": "White House removes cyber-security chief after series of tech outages",
       "snippet": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "snippet": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20",
       "source": "feeds.bbci.co.uk"
     },
@@ -622,70 +630,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "TECH",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "snippet": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "date": "2026-11-20",
-      "source": "techcrunch.com"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "snippet": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "California targets Nvidia in China AI chip probe",
-      "snippet": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "snippet": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-      "snippet": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "snippet": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "snippet": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-      "snippet": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "How did Anthropic's stock market debut unfold?",
       "snippet": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
@@ -711,6 +655,14 @@
     },
     {
       "category": "TECH",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "snippet": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "TECH",
       "title": "Dutch watchdog tells people not to buy AI smart glasses",
       "snippet": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
       "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
@@ -731,38 +683,6 @@
       "snippet": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
       "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "snippet": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "snippet": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "snippet": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "snippet": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18",
       "source": "feeds.bbci.co.uk"
     },
     {
