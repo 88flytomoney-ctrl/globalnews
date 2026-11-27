@@ -1,71 +1,167 @@
 {
-  "generatedAt": "2026-11-27T07:08:21.945542+00:00",
+  "generatedAt": "2026-11-27T22:30:28.759401+00:00",
   "assets": [
     {
       "name": "Bitcoin (USD)",
-      "current": 61662.4219,
-      "prev5d": 60094.0898,
-      "pctChange": 2.61,
+      "current": 59686.0508,
+      "prev5d": 61161.9102,
+      "pctChange": -2.41,
       "isForex": false
     },
     {
       "name": "Gold Futures",
-      "current": 3680.8999,
+      "current": 3668.5,
       "prev5d": 3685.5,
-      "pctChange": -0.12,
+      "pctChange": -0.46,
       "isForex": false
     },
     {
       "name": "Crude Oil WTI",
-      "current": 85.98,
+      "current": 83.08,
       "prev5d": 83.21,
-      "pctChange": 3.33,
+      "pctChange": -0.16,
       "isForex": false
     },
     {
       "name": "100 HKD to CNY",
-      "current": 0.8485,
+      "current": 0.8494,
       "prev5d": 0.8501,
-      "pctChange": -0.18,
+      "pctChange": -0.08,
       "isForex": true
     },
     {
       "name": "100 JPY to HKD",
-      "current": 0.0489,
+      "current": 0.0488,
       "prev5d": 0.0491,
-      "pctChange": -0.41,
+      "pctChange": -0.57,
       "isForex": true
     },
     {
       "name": "100 HKD to EUR",
-      "current": 0.1162,
+      "current": 0.1167,
       "prev5d": 0.1163,
-      "pctChange": -0.01,
+      "pctChange": 0.42,
       "isForex": true
     }
   ],
   "news": [
     {
       "category": "WORLD",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "snippet": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "snippet": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "snippet": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "snippet": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "WORLD",
-      "title": "Could housing decide Spain's general election?",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "snippet": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "snippet": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "snippet": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "snippet": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "snippet": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "snippet": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "snippet": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "snippet": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "snippet": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "snippet": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "snippet": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "link": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
       "snippet": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
       "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "WORLD",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "snippet": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -87,7 +183,15 @@
     },
     {
       "category": "BUSINESS",
-      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "snippet": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
       "snippet": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
       "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27",
@@ -98,6 +202,22 @@
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
       "snippet": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
       "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "Will new energy fixes cost more in January?",
+      "snippet": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
+      "title": "'We're scared to turn our heating on'",
+      "snippet": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "link": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27",
       "source": "feeds.bbci.co.uk"
     },
@@ -119,25 +239,9 @@
     },
     {
       "category": "WORLD",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "snippet": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "snippet": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "snippet": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "snippet": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -151,153 +255,9 @@
     },
     {
       "category": "WORLD",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "snippet": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "snippet": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "snippet": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "snippet": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "snippet": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-      "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "snippet": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "snippet": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "snippet": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "snippet": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-      "snippet": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-      "snippet": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-      "snippet": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "DR Congo demands answers over Ugandan general's threats",
-      "snippet": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "snippet": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
-      "snippet": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "snippet": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-      "snippet": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-      "snippet": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
-      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "WORLD",
-      "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
-      "snippet": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
-      "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "snippet": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -343,17 +303,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Millions of people to see average monthly mortgage payments rise by £100",
-      "snippet": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "snippet": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-      "snippet": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-      "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "snippet": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -391,6 +351,14 @@
     },
     {
       "category": "BUSINESS",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "snippet": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26",
+      "source": "feeds.bbci.co.uk"
+    },
+    {
+      "category": "BUSINESS",
       "title": "Car finance compensation payments explained",
       "snippet": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
       "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
@@ -423,17 +391,17 @@
     },
     {
       "category": "BUSINESS",
-      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-      "snippet": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "snippet": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26",
       "source": "feeds.bbci.co.uk"
     },
     {
       "category": "BUSINESS",
-      "title": "Cost of living roadshow highlights support on offer",
-      "snippet": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "snippet": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26",
       "source": "feeds.bbci.co.uk"
     },
@@ -478,14 +446,6 @@
       "source": "techcrunch.com"
     },
     {
-      "category": "WORLD",
-      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-      "snippet": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
       "category": "BUSINESS",
       "title": "US stocks fall further as fears over AI intensify",
       "snippet": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
@@ -514,14 +474,6 @@
       "title": "Scots react to news of rising energy prices",
       "snippet": "Scots describe how an increase in energy bills will affect them.",
       "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25",
-      "source": "feeds.bbci.co.uk"
-    },
-    {
-      "category": "BUSINESS",
-      "title": "Why has Poundland collapsed and what happens next?",
-      "snippet": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-25",
       "source": "feeds.bbci.co.uk"
     },
