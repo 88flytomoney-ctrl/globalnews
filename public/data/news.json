@@ -17,6 +17,14 @@
   },
   {
     "category": "WORLD",
+    "title": "Could housing decide Spain's general election?",
+    "snippet": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+    "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "WORLD",
     "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
     "snippet": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
     "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
@@ -25,7 +33,7 @@
   },
   {
     "category": "WORLD",
-    "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+    "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
     "snippet": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
     "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-27",
@@ -44,6 +52,22 @@
     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
     "snippet": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
     "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "How much is your rent in Birmingham?",
+    "snippet": "We ask people in the UK's second biggest how much they pay for their homes.",
+    "link": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-27",
+    "source": "feeds.bbci.co.uk"
+  },
+  {
+    "category": "BUSINESS",
+    "title": "The food bank helping pet owners with rising bills",
+    "snippet": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+    "link": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-27",
     "source": "feeds.bbci.co.uk"
   },
@@ -368,14 +392,6 @@
     "source": "feeds.bbci.co.uk"
   },
   {
-    "category": "BUSINESS",
-    "title": "Parents cutting basics at Christmas, charity warns",
-    "snippet": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
-    "link": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
     "category": "TECH",
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "snippet": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
@@ -414,14 +430,6 @@
     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
     "date": "2026-11-26",
     "source": "techcrunch.com"
-  },
-  {
-    "category": "WORLD",
-    "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
-    "snippet": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
-    "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25",
-    "source": "feeds.bbci.co.uk"
   },
   {
     "category": "WORLD",
@@ -468,14 +476,6 @@
     "title": "Why has Poundland collapsed and what happens next?",
     "snippet": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
     "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25",
-    "source": "feeds.bbci.co.uk"
-  },
-  {
-    "category": "BUSINESS",
-    "title": "Interest rate affect on Guernsey's housing market",
-    "snippet": "As interest rates rise, we look at the impact this could have on Guernsey's housing market.",
-    "link": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-25",
     "source": "feeds.bbci.co.uk"
   },
